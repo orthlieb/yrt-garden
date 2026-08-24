@@ -12,10 +12,9 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 
-# Generated content — fanned in from the vault + ironledger by ./sync.sh at
-# build time; not committed. (content/index.md is the hand-authored home page
-# and IS tracked.) Run ./sync.sh after cloning to populate these before building.
-content/backstory/
-content/atlas/
-content/reference/
-content/foes/
+# Generated content (content/{backstory,atlas,reference,foes}) is fanned in from
+# the vault + ironledger by ./sync.sh and is NOT committed — but it is excluded
+# via .git/info/exclude, NOT here. Reason: Quartz honors .gitignore when
+# discovering content, so listing these here would make the build skip them.
+# info/exclude keeps them out of git while leaving them visible to the build.
+# (content/index.md is the hand-authored home page and IS tracked.)
