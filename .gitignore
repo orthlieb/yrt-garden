@@ -1,0 +1,21 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+.quartz/
+quartz/cli/tui/dist/
+.turbo/
+
+# Generated content — fanned in from the vault + ironledger by ./sync.sh at
+# build time; not committed. (content/index.md is the hand-authored home page
+# and IS tracked.) Run ./sync.sh after cloning to populate these before building.
+content/backstory/
+content/atlas/
+content/reference/
+content/foes/
