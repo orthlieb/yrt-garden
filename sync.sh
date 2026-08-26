@@ -14,6 +14,10 @@
 # read-only; this script refreshes it before copying so the garden never
 # publishes a stale bestiary.
 #
+# The vault uses kebab-case filenames, so after copying, prepare-content.mjs writes a
+# readable `title:` into each note's frontmatter and gives every folder an index.
+# Those edits land in content/, which is not tracked — the vault is untouched.
+#
 #   ./sync.sh                       # refresh content/
 #   npx quartz build --serve        # preview at http://localhost:8080
 #   (a running --serve auto-rebuilds when content/ changes)
@@ -40,5 +44,8 @@ echo "→ extensions  ← $VAULT/YRT Extensions  (foes + images, oracles, assets
 rsync -a --delete \
   --exclude='.obsidian' --exclude='.DS_Store' \
   "$VAULT/YRT Extensions/" content/yrt-extensions/
+
+echo "→ titles  (kebab-case filenames -> readable page titles)"
+node prepare-content.mjs
 
 echo "✓ synced. Build: npx quartz build  (or it auto-rebuilds if --serve is running)"
