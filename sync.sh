@@ -6,6 +6,8 @@
 #   ironledger  --(vault: npm run ref)-->  yrt-vault  --(this script)-->  yrt-garden
 #
 # Content authoring:
+#   - the home page           → edit in Obsidian (yrt-vault/home.md); this script
+#                               appends index-footer.md, which the garden owns
 #   - lore, regions & places  → edit in Obsidian (yrt-vault/Backstory, /Atlas)
 #   - foes, moves, assets,    → edit the JSON in ironledger (extensions/yrt),
 #     oracles, rarities         then `npm run ref` in the vault
@@ -44,6 +46,9 @@ echo "→ extensions  ← $VAULT/Ironsworn Extensions  (foes + images, oracles, 
 rsync -a --delete \
   --exclude='.obsidian' --exclude='.DS_Store' \
   "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/
+
+echo "→ home page  ← $VAULT/home.md + index-footer.md"
+cat "$VAULT/home.md" index-footer.md > content/index.md
 
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs
