@@ -10,7 +10,7 @@
 #   - foes, moves, assets,    → edit the JSON in ironledger (extensions/yrt),
 #     oracles, rarities         then `npm run ref` in the vault
 #
-# Everything under yrt-vault/YRT Extensions is generated from ironledger and is
+# Everything under yrt-vault/Ironsworn Extensions is generated from ironledger and is
 # read-only; this script refreshes it before copying so the garden never
 # publishes a stale bestiary.
 #
@@ -40,10 +40,10 @@ rsync -a --delete \
   --exclude='.obsidian' --exclude='.DS_Store' \
   "$VAULT/Atlas/" content/atlas/
 
-echo "→ extensions  ← $VAULT/YRT Extensions  (foes + images, oracles, assets, moves, rarities)"
+echo "→ extensions  ← $VAULT/Ironsworn Extensions  (foes + images, oracles, assets, moves, rarities)"
 rsync -a --delete \
   --exclude='.obsidian' --exclude='.DS_Store' \
-  "$VAULT/YRT Extensions/" content/yrt-extensions/
+  "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/
 
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs
