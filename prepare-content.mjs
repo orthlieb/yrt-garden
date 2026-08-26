@@ -3,7 +3,9 @@
 //
 // Two passes, both confined to content/ so the vault itself stays untouched.
 //
-// 1. TITLES — give every note a readable `title:` in its frontmatter.
+// 1. TITLES — give every note a `title:` in its frontmatter. Vault filenames are
+//    already Title Case, so this mostly restores the real title where a filename
+//    could not carry it — a colon, for instance, which "Location - Region" lost.
 //
 // The vault uses kebab-case filenames (ostrea.md, amber-schemer.md). Quartz
 // falls back to the slug when a note has no title, so pages and folder listings
@@ -30,9 +32,9 @@ const CONTENT = path.join(path.dirname(new URL(import.meta.url).pathname), 'cont
 const ACRONYMS = new Map([['yrt', 'YRT']]);
 const MINOR = new Set(['a', 'an', 'the', 'of', 'and', 'or', 'in', 'on', 'to', 'for']);
 
-const titleCase = (slug) =>
-  slug
-    .split('-')
+const titleCase = (name) =>
+  name
+    .split(/[-\s]+/)
     .map((w, i, all) => {
       if (ACRONYMS.has(w)) return ACRONYMS.get(w);
       if (i > 0 && i < all.length - 1 && MINOR.has(w)) return w;
@@ -70,7 +72,13 @@ async function ensureFolderIndex(dir) {
   const names = new Set(entries.map((e) => e.name));
   const hasNotes = entries.some((e) => e.isFile() && e.name.endsWith('.md'));
   const folder = path.basename(dir);
-  if (hasNotes && dir !== CONTENT && !names.has('index.md') && !names.has(`${folder}.md`)) {
+  // A note named for its folder already serves as the folder page. Compare on
+  // slug, not raw name: the note is Title Case ("Atlas.md", "Ironsworn
+  // Extensions.md") while the synced folder is kebab ("atlas", ...). Creating an
+  // index.md here would shadow it and drop that note's content from the site.
+  const slugOf = (n) => n.toLowerCase().replace(/\.md$/, '').replace(/[^a-z0-9]+/g, '-');
+  const hasFolderNote = [...names].some((n) => n.endsWith('.md') && slugOf(n) === slugOf(folder));
+  if (hasNotes && dir !== CONTENT && !names.has('index.md') && !hasFolderNote) {
     await writeFile(path.join(dir, 'index.md'), `---\ntitle: ${titleCase(folder)}\n---\n`, 'utf8');
   }
   for (const e of entries.filter((e) => e.isDirectory())) await ensureFolderIndex(path.join(dir, e.name));

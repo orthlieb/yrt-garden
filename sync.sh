@@ -47,8 +47,8 @@ rsync -a --delete \
   --exclude='.obsidian' --exclude='.DS_Store' \
   "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/
 
-echo "→ home page  ← $VAULT/home.md + index-footer.md"
-cat "$VAULT/home.md" index-footer.md > content/index.md
+echo "→ home page  ← $VAULT/Home.md + index-footer.md"
+cat "$VAULT/Home.md" index-footer.md > content/index.md
 
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs
