@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 # Rebuild the garden and deploy it to GitHub Pages.
 #
-# The content is generated locally from the private vault (yrt-vault) + ironledger,
-# so the build AND the deploy run here — GitHub CI can't see the private vault.
-# This fans in content, builds the static site, and force-pushes public/ to the
-# gh-pages branch (which GitHub Pages serves). Run it after editing lore/regions
-# (or after `npm run sync` in the vault for foe changes).
+# content/ is committed, so a plain `npx quartz build` needs nothing else. This
+# script goes further: it REFRESHES content from the private vault (yrt-vault)
+# and ironledger first, which is why it runs here rather than in CI — GitHub
+# can't see the vault. It then builds and force-pushes public/ to the gh-pages
+# branch that Pages serves. Run it after editing lore/regions (or after
+# `npm run ref` in the vault for foe changes).
 #
 #   ./deploy.sh
 #
