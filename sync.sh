@@ -18,7 +18,11 @@
 #
 # The vault uses kebab-case filenames, so after copying, prepare-content.mjs writes a
 # readable `title:` into each note's frontmatter and gives every folder an index.
-# Those edits land in content/, which IS tracked here and committed — the vault is untouched.
+# Those edits land in content/, which is tracked here — the vault is untouched.
+#
+# content/ is committed, so the garden is self-contained: a clone can be built
+# without the vault or ironledger present. After running this script, commit
+# whatever it changed.
 #
 #   ./sync.sh                       # refresh content/
 #   npx quartz build --serve        # preview at http://localhost:8080
@@ -67,4 +71,4 @@ cat "$VAULT/Home.md" index-footer.md > content/index.md
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs
 
-echo "✓ synced. Build: npx quartz build  (or it auto-rebuilds if --serve is running)"
+echo "✓ synced. Review with 'git status', commit content/, then: npx quartz build"
