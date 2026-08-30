@@ -18,13 +18,33 @@
 #
 # The vault uses kebab-case filenames, so after copying, prepare-content.mjs writes a
 # readable `title:` into each note's frontmatter and gives every folder an index.
-# Those edits land in content/, which is not tracked — the vault is untouched.
+# Those edits land in content/, which IS tracked here and committed — the vault is untouched.
 #
 #   ./sync.sh                       # refresh content/
 #   npx quartz build --serve        # preview at http://localhost:8080
 #   (a running --serve auto-rebuilds when content/ changes)
 set -euo pipefail
 cd "$(dirname "$0")"
+
+# Mirror a directory into content/, deleting whatever is no longer in the source.
+# Uses rsync when it is available and falls back to cp, so the script runs on a
+# bare container as well as on a workstation.
+mirror() {
+  local src="$1" dest="$2"; shift 2
+  local ex=("$@")
+  if command -v rsync >/dev/null 2>&1; then
+    local args=(-a --delete)
+    for e in "${ex[@]}"; do args+=("--exclude=$e"); done
+    rsync "${args[@]}" "$src" "$dest"
+  else
+    rm -rf "$dest"
+    mkdir -p "$dest"
+    cp -R "${src%/}/." "$dest"
+    for e in "${ex[@]}"; do
+      find "$dest" -name "$e" -exec rm -rf {} + 2>/dev/null || true
+    done
+  fi
+}
 
 VAULT="${YRT_VAULT:-$HOME/dev/yrt-vault}"
 IRON="${IRONLEDGER:-$HOME/dev/ironledger}"
@@ -33,19 +53,13 @@ echo "→ refreshing the vault's generated game material from ironledger"
 ( cd "$VAULT" && IRONLEDGER="$IRON" npm run --silent ref )
 
 echo "→ lore  ← $VAULT/Backstory  (excluding Characters/, private)"
-rsync -a --delete \
-  --exclude='.obsidian' --exclude='.DS_Store' --exclude='Characters' \
-  "$VAULT/Backstory/" content/backstory/
+mirror "$VAULT/Backstory/" content/backstory/ '.obsidian' '.DS_Store' 'Characters'
 
 echo "→ atlas  ← $VAULT/Atlas  (regions & places)"
-rsync -a --delete \
-  --exclude='.obsidian' --exclude='.DS_Store' \
-  "$VAULT/Atlas/" content/atlas/
+mirror "$VAULT/Atlas/" content/atlas/ '.obsidian' '.DS_Store'
 
 echo "→ extensions  ← $VAULT/Ironsworn Extensions  (foes + images, oracles, assets, moves, rarities)"
-rsync -a --delete \
-  --exclude='.obsidian' --exclude='.DS_Store' \
-  "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/
+mirror "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/ '.obsidian' '.DS_Store'
 
 echo "→ home page  ← $VAULT/Home.md + index-footer.md"
 cat "$VAULT/Home.md" index-footer.md > content/index.md

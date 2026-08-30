@@ -1,9 +1,7 @@
 ---
 title: The World of Yrt
 ---
-
-A post-apocalyptic world where technology is indistinguishable from magic — the
-setting for the **Yrt** homebrew expansion for [Ironsworn](https://ironswornrpg.com).
+YRT is a post-apocalyptic world where technology is indistinguishable from magic — the setting for the **Yrt** homebrew expansion for [Ironsworn](https://ironswornrpg.com).
 
 Two hundred and thirty years ago the Unmaking took an industrial civilisation
 apart. What it left behind is programmable matter that nobody now knows how to
@@ -12,32 +10,36 @@ medieval on top of the wreckage and call the old world's leavings magic.
 
 ## The World
 
-- [[mana-and-magic|Mana & Magic]] — how manite works, and what it costs
-- [[1-introduction|The Manite System]] — the pre-Fall material, colour by colour
-- [[the-conclave|The Conclave]] · [[the-brotherhood|The Brotherhood]] · [[the-verdani|The Verdani]]
-- [[religion|Religion]] · [[language|Language]] · [[government|Government]]
-- [[currency-and-prices|Currency & Prices]]
+- [[Mana and Magic|Mana & Magic]] — how manite works, and what it costs
+- [[1. Introduction|The Manite System]] — the pre-Fall material, colour by colour
+- [[The Conclave]] · [[The Brotherhood]] · [[The Verdani]]
+- [[Religion]] · [[Language]] · [[Government]]
+- [[Currency and Prices|Currency & Prices]]
 
 ## Places
 
-The [[atlas|Atlas]] grades the region by how far the settled world reaches —
+The [[Atlas]] grades the region by how far the settled world reaches —
 **Settled**, **Boundary**, **Remote** — with a location reference for each.
 
-- [[freeport|Freeport]] — the free port, and the only deep harbour on this coast
-- [[collima|Collima]] · [[ostrea|Ostrea]] · [[piscis|Piscis]] · [[termin|Termin]]
-- [[ravenna|Ravenna]] — the blight the Conclave mines and the mayors live off
-- [[nebula-forest|Nebula Forest]] · [[weirden-fen|Weirden Fen]] · [[dronitay-shelf|Dronitay Shelf]]
-- [[regional|The Three Countries]] — Nysis, Mososi and Buralia
+- [[Nysis]] · [[Mososi]] · [[Buralia]] — the three countries, how each is held together, and why two of them will not trade
+- [[Freeport]] — the free port, and the only deep harbour on this coast
+- [[Collima]] · [[Ostrea]] · [[Piscis]] · [[Termin]]
+- [[Ravenna]] — the blight the Conclave mines and the mayors live off
+- [[Nebula Forest]] · [[Weirden Fen]] · [[Dronitay Shelf]]
 
 ## Game Reference
 
-[[ironsworn-extensions|Ironsworn Extensions]] — house rules, and everything
+[[Ironsworn Extensions]] — house rules, and everything
 authored in Iron Ledger rendered for reading here.
 
-- **Foes** — [[amber-schemer|Amber Schemer]], [[mask-risen|Mask Risen]],
-  [[locus|Locus]] and the rest of the bestiary
-- **Moves** — [[cast-conclave-ritual|Cast Conclave Ritual]] · [[craft-an-item|Craft an Item]]
-- **Oracles** — [[location-region|Location: Region]] · [[magic-mana-backlash|Mana Backlash]] · [[character-touched|Touched]]
-- **Assets** — [[cantrip|Cantrip]] · [[arcane-inspection|Arcane Inspection]] · [[compulsion|Compulsion]] · [[illusion|Illusion]]
+- **Foes** — [[Amber Schemer]], [[Mask Risen]],
+  [[Locus]] and the rest of the bestiary
+- **Moves** — [[Cast Conclave Ritual]] · [[Craft an Item]]
+- **Oracles** — [[Location - Region|Location: Region]] · [[Magic - Mana Backlash|Mana Backlash]] · [[Character - Touched|Touched]]
+- **Assets** — [[Cantrip]] · [[Arcane Inspection]] · [[Compulsion]] · [[Illusion]]
+
+---
+
+*Built from the [yrt-vault](https://github.com/orthlieb/yrt-vault) Obsidian vault, whose game material is generated from [Iron Ledger](https://github.com/orthlieb/ironledger).*
 
 _Iron Ledger and Yrt are fan projects; game content derived from Ironsworn is licensed CC BY-NC-SA 4.0._
