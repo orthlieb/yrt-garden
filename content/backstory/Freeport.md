@@ -147,7 +147,7 @@ The standard clients:
 
 Contract teams are pulled from the standard city patrol rotation. A team on contract is out of city duty for the contract's duration; backfill is managed by Captain Thews's office through cross-platoon coverage. The Watch's nominal size of 100 guards is therefore deceptive — at any given time, perhaps 70 to 80 are actually on city patrol, the rest on external contracts of varying duration.
 
-A standard prisoner-transit contract — like the escort of disgraced Maester Aldwin Razeena from Ravenna Site \#3 to Freeport in 225 SU — pulls one full watch team (5 watchmen and a dux) for the trip duration. Larger contracts (mana shipments, multi-team escorts) require multiple teams and command attention by the platoon's deputy. Captain Thews personally signs off on any contract involving more than two teams.
+A standard prisoner-transit contract — a disgraced Maester escorted down from one of the Ravenna sites, say — pulls one full watch team (5 watchmen and a dux) for the trip duration. Larger contracts (mana shipments, multi-team escorts) require multiple teams and command attention by the platoon's deputy. Captain Thews personally signs off on any contract involving more than two teams.
 
 The corruption opportunities are obvious. A deputy whose debts have been purchased by the Brotherhood is unlikely to assign honest officers to a contract that requires looking the other way. The Watch's institutional health depends on the Triumvirate's continued willingness to fund corruption-resistant leadership; the Triumvirate's continued willingness depends on the Watch performing its city-patrol duties without scandal. The system functions because no party can quite afford to break it.
 

@@ -193,7 +193,7 @@ The institutional system. Each year counted forward from the Unmaking as Year 0.
 - **Year 0 SU** — the Unmaking (2070 in old reckoning).
 - **Year ~50 SU** — the first stable post-Unmaking communities form around surviving nanofactories. The seeds of what will become the Conclave.
 - **Year ~100 SU** — the Freeport triumvirate is established by formal compact. The Conclave, the Pura Ecclesia, and the Brotherhood's predecessor mercantile guild become the city's joint government.
-- **Year 230 SU** — the novel's present. Silk's time. Aldwin in Freeport. Saska missing in the Grand Pillar.
+- **Year 230 SU** — the novel's present. Silk's time. Saska missing in the Grand Pillar.
 
 The pre-Unmaking era is referenced as **Before the Unmaking (BU)** when precision is required, though most of pre-Unmaking history has compressed into the half-mythic "Unmade era" without clear dating. The Manite Introduction document (filed 2041 old reckoning) would be **Year 29 BU** — written by people who did not know they had a generation left.
 
