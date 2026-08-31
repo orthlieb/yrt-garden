@@ -6,8 +6,8 @@
 #   ironledger  --(vault: npm run ref)-->  yrt-vault  --(this script)-->  yrt-garden
 #
 # Content authoring:
-#   - the home page           → edit in Obsidian (yrt-vault/YRT/Home.md); this script
-#                               appends index-footer.md, which the garden owns
+#   - the home page           → edit in Obsidian (yrt-vault/YRT/Home.md), colophon
+#                               and licence note included
 #   - lore, regions & places  → edit in Obsidian (yrt-vault/YRT/Backstory, /Atlas)
 #
 # The manuscript (yrt-vault/YRT/Silk and Slaughter, which now holds the character
@@ -80,6 +80,15 @@ if git -C "$VAULT" rev-parse --git-dir >/dev/null 2>&1; then
   fi
 fi
 
+# Nothing here is authored by hand: content/ is output, and the next few lines
+# overwrite it wholesale. If it is already dirty, that is either an unfinished
+# sync or an edit made in the wrong repository — either way it is about to go.
+if [ -n "$(git status --porcelain -- content 2>/dev/null)" ]; then
+  echo "  ! content/ has uncommitted changes; this sync overwrites them:"
+  git status --short -- content | head -10 | sed 's/^/    /'
+  echo "  ! edits belong in the vault, not here"
+fi
+
 echo "→ lore  ← $VAULT/YRT/Backstory"
 mirror "$VAULT/YRT/Backstory/" content/backstory/ '.obsidian' '.DS_Store'
 
@@ -89,8 +98,8 @@ mirror "$VAULT/YRT/Atlas/" content/atlas/ '.obsidian' '.DS_Store'
 echo "→ extensions  ← $VAULT/YRT/Ironsworn Extensions  (foes + images, oracles, assets, moves, rarities)"
 mirror "$VAULT/YRT/Ironsworn Extensions/" content/ironsworn-extensions/ '.obsidian' '.DS_Store'
 
-echo "→ home page  ← $VAULT/YRT/Home.md + index-footer.md"
-cat "$VAULT/YRT/Home.md" index-footer.md > content/index.md
+echo "→ home page  ← $VAULT/YRT/Home.md"
+cp "$VAULT/YRT/Home.md" content/index.md
 
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs

@@ -31,13 +31,16 @@ unless you want to *refresh* the content.
 ironledger  ──(vault: npm run ref)──▶  yrt-vault  ──(./sync.sh)──▶  yrt-garden
 ```
 
-One direction only. Nothing is authored in this repository except the home
-page footer and the Quartz configuration.
+One direction only, and nothing is hand-authored in this repository at all.
+Every word on the site comes from the vault; what lives here is the Quartz
+configuration and the scripts that fan the content in. If you find yourself
+editing a file under `content/`, you are in the wrong repository — the next
+`./sync.sh` overwrites it.
 
 | To change… | Edit… |
 |---|---|
 | lore, regions, places | `yrt-vault/YRT/Backstory`, `yrt-vault/YRT/Atlas` (in Obsidian) |
-| the home page | `yrt-vault/YRT/Home.md` — `sync.sh` appends `index-footer.md`, which this repo owns |
+| the home page, incl. its colophon and licence note | `yrt-vault/YRT/Home.md` (in Obsidian) |
 | foes, moves, assets, oracles, rarities | the JSON in `ironledger/extensions/yrt`, then `npm run ref` in the vault |
 | site title, theme, plugins | `quartz.config.yaml`, `quartz.ts` |
 
@@ -73,13 +76,21 @@ YRT_VAULT=~/src/yrt-vault IRONLEDGER=~/src/ironledger ./sync.sh
 ./deploy.sh
 ```
 
-Syncs, builds, and force-pushes `public/` to the `gh-pages` branch that GitHub
-Pages serves. `gh-pages` is build output, not history — it is overwritten every
-time, and nothing should ever be committed to it by hand. Pages takes about a
-minute to go live.
+Every deploy starts by copying from the vault, so what goes live is always the
+vault as it stands at that moment — there is no way to publish a stale site by
+forgetting to sync first. In order, it:
 
-Because `deploy.sh` runs `sync.sh` first, deploying **does** need the vault and
-ironledger checked out. A build alone does not.
+1. runs `sync.sh` — vault lore and Atlas, ironledger's game material, foe images;
+2. commits `content/` if the sync moved anything, and pushes `main`;
+3. builds, and force-pushes `public/` to `gh-pages`.
+
+The push happens before the publish, so a failure there leaves nothing live and
+the site cannot drift away from `main`. `gh-pages` is build output, not history —
+it is overwritten every time, and nothing should ever be committed to it by hand.
+Pages takes about a minute to go live.
+
+Deploying therefore needs the vault and ironledger checked out. A plain build
+does not.
 
 ## Images
 

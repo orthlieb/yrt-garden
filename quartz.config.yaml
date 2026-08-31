@@ -203,8 +203,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Yrt Vault: https://github.com/orthlieb/yrt-vault
+        Iron Ledger: https://github.com/orthlieb/ironledger
     layout:
       position: footer
       priority: 50

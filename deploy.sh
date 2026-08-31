@@ -2,11 +2,12 @@
 # Rebuild the garden and deploy it to GitHub Pages.
 #
 # content/ is committed, so a plain `npx quartz build` needs nothing else. This
-# script goes further: it REFRESHES content from the private vault (yrt-vault)
-# and ironledger first, which is why it runs here rather than in CI — GitHub
-# can't see the vault. It then builds and force-pushes public/ to the gh-pages
-# branch that Pages serves. Run it after editing lore/regions (or after
-# `npm run ref` in the vault for foe changes).
+# script goes further: EVERY deploy begins by refreshing content from the private
+# vault (yrt-vault) and ironledger, which is why it runs here rather than in CI —
+# GitHub can't see the vault. So what goes live is always the vault as it stands
+# at that moment; there is no way to publish a stale site by forgetting to sync.
+# The refresh is committed and pushed before anything is published, then public/
+# is force-pushed to the gh-pages branch that Pages serves.
 #
 #   ./deploy.sh
 #
@@ -17,17 +18,22 @@ cd "$(dirname "$0")"
 echo "→ sync content (vault lore + regions, ironledger reference, foe images)"
 ./sync.sh
 
-# content/ is committed, so what is live and what is on main should say the same
-# thing. If the sync moved anything, stop here: deploying now would publish
-# content that no commit in this repo accounts for, and the next person to clone
-# and build would get the older site back.
+# content/ is generated and never hand-authored, so a change here is not
+# something a person needs to approve — it is just the vault having moved. Record
+# it and carry on; committing before publishing is what keeps the live site and
+# main saying the same thing.
 if [ -n "$(git status --porcelain -- content)" ]; then
-  echo >&2
-  echo "✗ the sync changed content/ — review and commit it, then deploy:" >&2
-  git status --short -- content | head -20 >&2
-  echo >&2
-  echo "    git add content && git commit -m 'Refresh content from the vault'" >&2
-  exit 1
+  echo "→ commit the refreshed content"
+  git add content
+  git commit -q -m "Refresh content from the vault"
+  git --no-pager log -1 --stat --format='    %h %s' -- content | head -12
+fi
+
+# Push main before publishing, not after: if this fails, nothing has gone live,
+# so the site and the repository cannot drift apart.
+if [ -n "$(git log --oneline '@{u}..HEAD' 2>/dev/null)" ]; then
+  echo "→ push main"
+  git push -q
 fi
 
 echo "→ build"
