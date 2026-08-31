@@ -6,9 +6,9 @@
 #   ironledger  --(vault: npm run ref)-->  yrt-vault  --(this script)-->  yrt-garden
 #
 # Content authoring:
-#   - the home page           → edit in Obsidian (yrt-vault/home.md); this script
+#   - the home page           → edit in Obsidian (yrt-vault/YRT/Home.md); this script
 #                               appends index-footer.md, which the garden owns
-#   - lore, regions & places  → edit in Obsidian (yrt-vault/Backstory, /Atlas)
+#   - lore, regions & places  → edit in Obsidian (yrt-vault/YRT/Backstory, /Atlas)
 #   - foes, moves, assets,    → edit the JSON in ironledger (extensions/yrt),
 #     oracles, rarities         then `npm run ref` in the vault
 #
@@ -56,17 +56,17 @@ IRON="${IRONLEDGER:-$HOME/dev/ironledger}"
 echo "→ refreshing the vault's generated game material from ironledger"
 ( cd "$VAULT" && IRONLEDGER="$IRON" npm run --silent ref )
 
-echo "→ lore  ← $VAULT/Backstory  (excluding Characters/, private)"
-mirror "$VAULT/Backstory/" content/backstory/ '.obsidian' '.DS_Store' 'Characters'
+echo "→ lore  ← $VAULT/YRT/Backstory  (excluding Characters/, private)"
+mirror "$VAULT/YRT/Backstory/" content/backstory/ '.obsidian' '.DS_Store' 'Characters'
 
-echo "→ atlas  ← $VAULT/Atlas  (regions & places)"
-mirror "$VAULT/Atlas/" content/atlas/ '.obsidian' '.DS_Store'
+echo "→ atlas  ← $VAULT/YRT/Atlas  (regions & places)"
+mirror "$VAULT/YRT/Atlas/" content/atlas/ '.obsidian' '.DS_Store'
 
 echo "→ extensions  ← $VAULT/Ironsworn Extensions  (foes + images, oracles, assets, moves, rarities)"
 mirror "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/ '.obsidian' '.DS_Store'
 
-echo "→ home page  ← $VAULT/Home.md + index-footer.md"
-cat "$VAULT/Home.md" index-footer.md > content/index.md
+echo "→ home page  ← $VAULT/YRT/Home.md + index-footer.md"
+cat "$VAULT/YRT/Home.md" index-footer.md > content/index.md
 
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs

@@ -36,12 +36,12 @@ page footer and the Quartz configuration.
 
 | To change… | Edit… |
 |---|---|
-| lore, regions, places | `yrt-vault/Backstory`, `yrt-vault/Atlas` (in Obsidian) |
-| the home page | `yrt-vault/Home.md` — `sync.sh` appends `index-footer.md`, which this repo owns |
+| lore, regions, places | `yrt-vault/YRT/Backstory`, `yrt-vault/YRT/Atlas` (in Obsidian) |
+| the home page | `yrt-vault/YRT/Home.md` — `sync.sh` appends `index-footer.md`, which this repo owns |
 | foes, moves, assets, oracles, rarities | the JSON in `ironledger/extensions/yrt`, then `npm run ref` in the vault |
 | site title, theme, plugins | `quartz.config.yaml`, `quartz.ts` |
 
-`yrt-vault/Backstory/Characters` is deliberately **not** published.
+`yrt-vault/YRT/Backstory/Characters` is deliberately **not** published.
 
 ## Refresh the content
 
