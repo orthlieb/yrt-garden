@@ -2,7 +2,7 @@
 title: The Verdani
 ---
 
-<figure> <img src="elf.webp" width="400" class="center"> <figcaption>A masked Verdani in a forested preserve.</figcaption> </figure>
+<figure> <img src="verdani-elf.webp" width="400" class="center"> <figcaption>A masked Verdani in a forested preserve.</figcaption> </figure>
 
 The Verdani are not an ancient species. They are a post-Fall phenomenon — ordinary people caught in the wrong place when containment failed.
 

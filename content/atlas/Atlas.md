@@ -4,7 +4,7 @@ subtitle: "Location references for the greater Freeport region"
 status: Worldbuilding reference — in progress
 ---
 
-<figure> <img src="../Backstory/images/Settled.Boundary.Remote.webp" width="600" class="center"> <figcaption>The greater region, graded by how far the settled world reaches.</figcaption> </figure>
+<figure> <img src="images/Settled.Boundary.Remote.webp" width="600" class="center"> <figcaption>The greater region, graded by how far the settled world reaches.</figcaption> </figure>
 
 # Purpose
 

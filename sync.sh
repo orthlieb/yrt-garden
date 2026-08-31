@@ -9,6 +9,9 @@
 #   - the home page           → edit in Obsidian (yrt-vault/YRT/Home.md); this script
 #                               appends index-footer.md, which the garden owns
 #   - lore, regions & places  → edit in Obsidian (yrt-vault/YRT/Backstory, /Atlas)
+#
+# The manuscript (yrt-vault/YRT/Silk and Slaughter, which now holds the character
+# references too) is not fanned in at all, so none of it is published.
 #   - foes, moves, assets,    → edit the JSON in ironledger (extensions/yrt),
 #     oracles, rarities         then `npm run ref` in the vault
 #
@@ -56,8 +59,8 @@ IRON="${IRONLEDGER:-$HOME/dev/ironledger}"
 echo "→ refreshing the vault's generated game material from ironledger"
 ( cd "$VAULT" && IRONLEDGER="$IRON" npm run --silent ref )
 
-echo "→ lore  ← $VAULT/YRT/Backstory  (excluding Characters/, private)"
-mirror "$VAULT/YRT/Backstory/" content/backstory/ '.obsidian' '.DS_Store' 'Characters'
+echo "→ lore  ← $VAULT/YRT/Backstory"
+mirror "$VAULT/YRT/Backstory/" content/backstory/ '.obsidian' '.DS_Store'
 
 echo "→ atlas  ← $VAULT/YRT/Atlas  (regions & places)"
 mirror "$VAULT/YRT/Atlas/" content/atlas/ '.obsidian' '.DS_Store'

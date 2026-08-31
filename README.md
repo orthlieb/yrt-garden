@@ -41,7 +41,8 @@ page footer and the Quartz configuration.
 | foes, moves, assets, oracles, rarities | the JSON in `ironledger/extensions/yrt`, then `npm run ref` in the vault |
 | site title, theme, plugins | `quartz.config.yaml`, `quartz.ts` |
 
-`yrt-vault/YRT/Backstory/Characters` is deliberately **not** published.
+The manuscript — `yrt-vault/YRT/Silk and Slaughter`, which holds the character
+references too — is never synced, so none of it is published.
 
 ## Refresh the content
 
