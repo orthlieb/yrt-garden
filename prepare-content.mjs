@@ -27,8 +27,11 @@
 
 import { readdir, readFile, writeFile } from 'fs/promises';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const CONTENT = path.join(path.dirname(new URL(import.meta.url).pathname), 'content');
+// fileURLToPath, not URL.pathname: the latter keeps a file URL's percent-escapes,
+// so a checkout under a path with a space in it would resolve to nothing.
+const CONTENT = path.join(path.dirname(fileURLToPath(import.meta.url)), 'content');
 const ACRONYMS = new Map([['yrt', 'YRT']]);
 const MINOR = new Set(['a', 'an', 'the', 'of', 'and', 'or', 'in', 'on', 'to', 'for']);
 

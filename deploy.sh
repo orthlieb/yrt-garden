@@ -15,7 +15,20 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 echo "→ sync content (vault lore + regions, ironledger reference, foe images)"
-./sync.sh >/dev/null
+./sync.sh
+
+# content/ is committed, so what is live and what is on main should say the same
+# thing. If the sync moved anything, stop here: deploying now would publish
+# content that no commit in this repo accounts for, and the next person to clone
+# and build would get the older site back.
+if [ -n "$(git status --porcelain -- content)" ]; then
+  echo >&2
+  echo "✗ the sync changed content/ — review and commit it, then deploy:" >&2
+  git status --short -- content | head -20 >&2
+  echo >&2
+  echo "    git add content && git commit -m 'Refresh content from the vault'" >&2
+  exit 1
+fi
 
 echo "→ build"
 npx quartz build

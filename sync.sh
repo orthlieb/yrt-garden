@@ -48,7 +48,8 @@ mirror() {
     mkdir -p "$dest"
     cp -R "${src%/}/." "$dest"
     for e in "${ex[@]}"; do
-      find "$dest" -name "$e" -exec rm -rf {} + 2>/dev/null || true
+      # -prune so find does not try to descend into a directory it just removed.
+      find "$dest" -name "$e" -prune -exec rm -rf {} +
     done
   fi
 }
@@ -56,8 +57,28 @@ mirror() {
 VAULT="${YRT_VAULT:-$HOME/dev/yrt-vault}"
 IRON="${IRONLEDGER:-$HOME/dev/ironledger}"
 
+# The vault keeps everything it publishes under YRT/. Check for that rather than
+# for the checkout, so pointing at the wrong directory fails here with something
+# readable instead of deep inside a copy.
+if [ ! -d "$VAULT/YRT" ]; then
+  echo "✗ no YRT/ in $VAULT — set YRT_VAULT to the yrt-vault checkout." >&2
+  exit 1
+fi
+
 echo "→ refreshing the vault's generated game material from ironledger"
 ( cd "$VAULT" && IRONLEDGER="$IRON" npm run --silent ref )
+
+# That rewrites the vault's generated notes wholesale, which is the point — but
+# it also silently discards any hand-edit someone made to one of them. Say what
+# moved, so the loss is visible in the vault before it is committed there.
+if git -C "$VAULT" rev-parse --git-dir >/dev/null 2>&1; then
+  touched="$(git -C "$VAULT" status --porcelain -- 'YRT/Ironsworn Extensions')"
+  if [ -n "$touched" ]; then
+    echo "  ! the refresh changed the vault's working tree:"
+    echo "$touched" | sed 's/^/    /'
+    echo "  ! hand-edits to generated notes do not survive this — check the vault before committing there"
+  fi
+fi
 
 echo "→ lore  ← $VAULT/YRT/Backstory"
 mirror "$VAULT/YRT/Backstory/" content/backstory/ '.obsidian' '.DS_Store'

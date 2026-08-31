@@ -12,12 +12,10 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 
-# Generated content (content/{backstory,atlas,reference,foes}) is fanned in from
-# the vault + ironledger by ./sync.sh and is NOT committed — but it is excluded
-# via .git/info/exclude, NOT here. Reason: Quartz honors .gitignore when
-# discovering content, so listing these here would make the build skip them.
-# info/exclude keeps them out of git while leaving them visible to the build.
-# content/index.md is assembled by sync.sh from the vault's home.md plus this
-# repo's index-footer.md. It stays TRACKED - both because Quartz would skip an
-# ignored file, and because the assembly is deterministic, so it only shows a
-# diff when the home page genuinely changed.
+# content/ IS committed. The garden is self-contained: a fresh clone builds
+# without the vault or ironledger present. ./sync.sh refreshes content from the
+# vault — review what it changed and commit it.
+#
+# Do not list content/ here even if that ever changes. Quartz honors .gitignore
+# when it discovers content, so ignoring the folder would make the build skip
+# the entire site rather than merely leaving it out of git.
