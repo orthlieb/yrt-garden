@@ -86,7 +86,8 @@ Source images live in the vault and are WebP. Keep them there — anything
 dropped straight into `content/` is overwritten by the next sync.
 
 The exception is the foe imagery under `content/ironsworn-extensions/foes/images`,
-which is generated from ironledger; optimise those at their source, not here.
+which is generated from ironledger (`yrt-vault/YRT/Ironsworn Extensions`);
+optimise those at their source, not here.
 
 ---
 

@@ -12,7 +12,7 @@
 #   - foes, moves, assets,    → edit the JSON in ironledger (extensions/yrt),
 #     oracles, rarities         then `npm run ref` in the vault
 #
-# Everything under yrt-vault/Ironsworn Extensions is generated from ironledger and is
+# Everything under yrt-vault/YRT/Ironsworn Extensions is generated from ironledger and is
 # read-only; this script refreshes it before copying so the garden never
 # publishes a stale bestiary.
 #
@@ -62,8 +62,8 @@ mirror "$VAULT/YRT/Backstory/" content/backstory/ '.obsidian' '.DS_Store' 'Chara
 echo "→ atlas  ← $VAULT/YRT/Atlas  (regions & places)"
 mirror "$VAULT/YRT/Atlas/" content/atlas/ '.obsidian' '.DS_Store'
 
-echo "→ extensions  ← $VAULT/Ironsworn Extensions  (foes + images, oracles, assets, moves, rarities)"
-mirror "$VAULT/Ironsworn Extensions/" content/ironsworn-extensions/ '.obsidian' '.DS_Store'
+echo "→ extensions  ← $VAULT/YRT/Ironsworn Extensions  (foes + images, oracles, assets, moves, rarities)"
+mirror "$VAULT/YRT/Ironsworn Extensions/" content/ironsworn-extensions/ '.obsidian' '.DS_Store'
 
 echo "→ home page  ← $VAULT/YRT/Home.md + index-footer.md"
 cat "$VAULT/YRT/Home.md" index-footer.md > content/index.md
