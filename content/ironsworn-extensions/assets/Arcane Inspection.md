@@ -3,7 +3,7 @@ title: Arcane Inspection
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Arcane Inspection
 
@@ -35,4 +35,4 @@ A basic ritual taught early to Neophytes and Disciples of the Conclave, allowing
 
 ## Fields
 
-- **Mana** — counter; max 10
+- **Mana**: counter; max 10

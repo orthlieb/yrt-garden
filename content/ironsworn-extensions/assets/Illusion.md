@@ -3,7 +3,7 @@ title: Illusion
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Illusion
 
@@ -35,4 +35,4 @@ You can cast illusion spells to deceive others. In combat, it is usually a range
 
 ## Fields
 
-- **Mana** — counter; max 10
+- **Mana**: counter; max 10

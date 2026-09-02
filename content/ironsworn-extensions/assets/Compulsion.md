@@ -3,7 +3,7 @@ title: Compulsion
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Compulsion
 
@@ -37,4 +37,4 @@ This ritual lets a caster influence thoughts, emotions, and perceptions in a tar
 
 ## Fields
 
-- **Mana** — counter; max 10
+- **Mana**: counter; max 10

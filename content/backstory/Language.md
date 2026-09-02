@@ -1,12 +1,12 @@
 ---
 title: "Language in Yrt"
 subtitle: "Linguistic drift across 230 years from the Unmaking"
-status: Worldbuilding reference — internal use
+status: Worldbuilding reference, internal use
 ---
 
 # Premise
 
-The Unmaking (Year 0 SU = 2070 in old reckoning) collapsed an industrial, mass-literate, globally-connected society into a fragmented, subsistence-economy, regionally-isolated medieval-to-early-renaissance condition. Two hundred and thirty years later, the language people speak has drifted — significantly in some registers, conservatively in others.
+The Unmaking (Year 0 SU = 2070 in old reckoning) collapsed an industrial, mass-literate, globally-connected society into a fragmented, subsistence-economy, regionally-isolated medieval-to-early-renaissance condition. Two hundred and thirty years later, the language people speak has drifted, significantly in some registers, conservatively in others.
 
 This document covers the linguistic state of Yrt at the novel's present (230 SU = 2300 old reckoning), what has drifted, what has been preserved, and how this should shape prose written about and within the world.
 
@@ -26,7 +26,7 @@ Classical Latin began breaking into proto-Romance dialects within this span. Loc
 
 ## Late Middle English to Early Modern English (~1400 → ~1600 = 200 years)
 
-Chaucer to Shakespeare. Massive shifts in pronunciation (the Great Vowel Shift), vocabulary, and grammar. Standardization began only with the printing press (~1450) and stable spelling came much later. This comparator illustrates how dramatic phonological and grammatical drift can be inside a single 200-year span without external catastrophe — pure cumulative generational change.
+Chaucer to Shakespeare. Massive shifts in pronunciation (the Great Vowel Shift), vocabulary, and grammar. Standardization began only with the printing press (~1450) and stable spelling came much later. This comparator illustrates how dramatic phonological and grammatical drift can be inside a single 200-year span without external catastrophe: pure cumulative generational change.
 
 ## Why English 1795 → 2025 (230 years) is the wrong comparator
 
@@ -47,9 +47,9 @@ Modern English has industrial stability, mass literacy, mass media, dictionaries
 
 # Forces of Continuity
 
-- **The Conclave.** A literate, institutional, multi-generational organization that conserves vocabulary deliberately. *Manite, Veil, Amber, Compulsion, Sustained-channel, Disciple, Adept, Maester, Arcanist* — these terms have been formally taught from teacher to student for centuries. Conclave-trained speakers across Yrt would mostly understand each other in technical matters even when their common speech diverged.
-- **The Pura Ecclesia.** Religious institutions are linguistically conservative. Liturgical phrases, ritual formulas, scriptural language. Sermons in 230 SU would use grammatical constructions and vocabulary the average peasant might find archaic but not unintelligible — and the persistence of religious language pulls everyday speech back toward the older forms.
-- **The Refiners' Guild.** Its founding charter (142 SU, the Year of the Black Rain) and its operational documents preserve working-class trade vocabulary across decades. *Goo, hard steam, brass crowns, troughs, drift* — Brusc Halvert's tour (215 SU) demonstrates the Guild's working dialect.
+- **The Conclave.** A literate, institutional, multi-generational organization that conserves vocabulary deliberately. *Manite, Veil, Amber, Compulsion, Sustained-channel, Disciple, Adept, Maester, Arcanist*: these terms have been formally taught from teacher to student for centuries. Conclave-trained speakers across Yrt would mostly understand each other in technical matters even when their common speech diverged.
+- **The Pura Ecclesia.** Religious institutions are linguistically conservative. Liturgical phrases, ritual formulas, scriptural language. Sermons in 230 SU would use grammatical constructions and vocabulary the average peasant might find archaic but not unintelligible, and the persistence of religious language pulls everyday speech back toward the older forms.
+- **The Refiners' Guild.** Its founding charter (142 SU, the Year of the Black Rain) and its operational documents preserve working-class trade vocabulary across decades. *Goo, hard steam, brass crowns, troughs, drift*: Brusc Halvert's tour (215 SU) demonstrates the Guild's working dialect.
 - **The Town Watch and the merchant guilds.** Institutional discipline, daily routines, training that uses formal vocabulary. *Dux, Deputy, watch team, station team, customs chit, runner.* Working-class but institutional.
 - **Books in wealthy households.** Estate libraries, the Brotherhood's commercial records, the Conclave archives. Educated children grow up reading pre-Fall and immediate-post-Fall material. The literate class is small (probably 5-10% of Freeport's population) but it preserves continuity for the rest.
 - **Stable place names** for old geographic features. Falter Bay, Falter Sound, the Pinna Mountains, Collima, Ravenna, the Duforq River. These names predate the Unmaking and have been used continuously.
@@ -78,7 +78,7 @@ Drifted from a clinical-medical descriptor of QAMed-Azure-altered humanity into 
 
 ## Year-names instead of dates
 
-*The Year of the Long Frost, The Year of the Black Rain, The Year the Walls Wept.* Most cultures with universal literacy use numerical years; cultures with limited literacy and oral folk-memory use named years. Yrt's calendar reflects the literacy stratification — the educated use **215 SU**; the working class uses *the Long Frost.* Both systems coexist and serve different registers.
+*The Year of the Long Frost, The Year of the Black Rain, The Year the Walls Wept.* Most cultures with universal literacy use numerical years; cultures with limited literacy and oral folk-memory use named years. Yrt's calendar reflects the literacy stratification: the educated use **215 SU**; the working class uses *the Long Frost.* Both systems coexist and serve different registers.
 
 ## "Mermaid" as Freeport's heraldry
 
@@ -105,11 +105,11 @@ Probably an Old Earth myth that survived as a maritime symbol. Heraldic conventi
 
 # What Has Been Coined Post-Unmaking
 
-- **Working-class trade slang of the refinement industry.** Brusc Halvert's tour demonstrates this register fully — *the face, the mill, the troughs, the sieve hall, the drying fields, hard steam, drift, sun-charge, bone ash, copper paddles, oilcloth, raker, brass-crown operator.* All post-Unmaking coinages within institutional/trade contexts.
-- **The Touched caste vocabulary.** *Pure, Prime, Second, Third, Feral* — a social categorization invented post-Unmaking as the Azure-altered populations became a recognized class. Religious and bureaucratic in origin; folk in everyday use.
+- **Working-class trade slang of the refinement industry.** Brusc Halvert's tour demonstrates this register fully: *the face, the mill, the troughs, the sieve hall, the drying fields, hard steam, drift, sun-charge, bone ash, copper paddles, oilcloth, raker, brass-crown operator.* All post-Unmaking coinages within institutional/trade contexts.
+- **The Touched caste vocabulary.** *Pure, Prime, Second, Third, Feral*: a social categorization invented post-Unmaking as the Azure-altered populations became a recognized class. Religious and bureaucratic in origin; folk in everyday use.
 - **Watch terminology.** *Dux, Deputy, Watchman, Captain, station team, watch team.* Some of this is consciously revived from old military Latin (*dux*); some is medieval English (*watch, deputy*); the combination is a post-Unmaking institutional invention.
 - **Mana-handling slang.** *Keying, seeding, weaving, channeling, projecting, drawing in.* The Vizion-trade vocabulary for compulsion and illusion practice. Conclave-formal terms; have spread into common usage among those who work alongside practitioners.
-- **Religious vocabulary.** *Yrt, Father of Earth, Sky, and Sea.* The names of the twelve Feral gods (Koya, Kroduk, Shul, Haur, Vexis, Talli, etc.). These are post-Unmaking religious invention — the survivors needed gods, and they made them.
+- **Religious vocabulary.** *Yrt, Father of Earth, Sky, and Sea.* The names of the twelve Feral gods (Koya, Kroduk, Shul, Haur, Vexis, Talli, etc.). These are post-Unmaking religious invention. The survivors needed gods, and they made them.
 - **Workplace pejoratives.** *Touched-coded* slurs, blight-coded slurs, conclave-coded honorifics that get warped into mockery (*Maester* in a sarcastic register, *Disciple* as an insult to a junior worker). Class friction generates vocabulary.
 - **Folk-medical vocabulary** for things the order does not explain. *Drift* (per Brusc's tour: long mana exposure changes how you think, feel, mend). *The marrow-deep* (replaces pre-Fall *limbic* with a felt-body description).
 
@@ -133,7 +133,7 @@ Language in Yrt is stratified along three intersecting axes:
 
 - **Conclave register** is preserved-formal: deliberate continuity with pre-Fall technical vocabulary, ritualized phrasing, Latinate sound. *Cast Conclave Ritual. Arcane Inspection. The Concordat. Sustained channel.*
 - **Pura Ecclesia register** is archaic-formal: *thou, thy,* inverted constructions, sermon cadence. *Hallowed be the Father of Sky. Yrt cleanses the unclean.*
-- **Brotherhood register** is opaque-functional: euphemism, code, deniable phrasing. *Verrin doesn't say "kill"; he says "complete the task."* The criminal register conserves vocabulary too — its phrases are technical to its trade.
+- **Brotherhood register** is opaque-functional: euphemism, code, deniable phrasing. *Verrin doesn't say "kill"; he says "complete the task."* The criminal register conserves vocabulary too: its phrases are technical to its trade.
 - **Town Watch register** is military-procedural: short, declarative, vocabulary-conservative. *Halt and break. Official escort detachment ready. Sprout a Verdani arrow in your behind.*
 - **Refiners' Guild register** is working-class but vocabulary-rich within its trade. Honest, direct, mortality-conscious. *We don't talk about Site One.*
 
@@ -143,7 +143,7 @@ Language in Yrt is stratified along three intersecting axes:
 - **Ravenna/blight English** is industrial-trade English plus survival-pessimism: short sentences, gallows humor, technical refinery vocabulary woven into everyday speech.
 - **Collima/hill English** is rural-working: charcoal trade vocabulary, slow cadence, conservative grammar (the old verb forms survive longer in isolation).
 - **Pinna mining English** has its own miner's slang the novel hasn't explored yet.
-- **Verdani speech** is entirely different — elves speak something with its own grammar, deeply Verdant-coded, and Yrt's humans don't generally learn it.
+- **Verdani speech** is entirely different: elves speak something with its own grammar, deeply Verdant-coded, and Yrt's humans don't generally learn it.
 
 ---
 
@@ -151,5 +151,5 @@ Language in Yrt is stratified along three intersecting axes:
 
 - **Spoken common speech** has drifted significantly from pre-Fall English. Pronunciation has shifted (not the full Great Vowel Shift, but partial). Slang has invented itself. Lost technology has lost its vocabulary. A modern English speaker dropped into a Stews tavern would understand maybe **60-70%** of casual speech.
 - **Spoken educated speech** has drifted less, because the educated read and write and teach. A modern English speaker dropped into a Conclave classroom would understand **80-90%**.
-- **Written English of the institutional classes** is the most conservative. The Conclave's published texts, the Pura Ecclesia's liturgy, the Refiners' Guild's training materials, the Brotherhood's commercial ledgers — all preserve formal English close to (but not identical to) the late-pre-Fall standard. A modern English speaker could read these with **light effort**.
+- **Written English of the institutional classes** is the most conservative. The Conclave's published texts, the Pura Ecclesia's liturgy, the Refiners' Guild's training materials, the Brotherhood's commercial ledgers: all preserve formal English close to (but not identical to) the late-pre-Fall standard. A modern English speaker could read these with **light effort**.
 - **Pre-Fall documents** (such as the Manite Introduction from 2041 = Year 29 BU) would feel formal-archaic to a 230 SU reader the way Shakespeare's English feels to a modern reader: comprehensible with effort, audibly old. Educated readers can parse them; common folk cannot.

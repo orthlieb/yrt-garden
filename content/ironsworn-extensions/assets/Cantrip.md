@@ -3,7 +3,7 @@ title: Cantrip
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Cantrip
 
@@ -44,4 +44,4 @@ Slots by ability: 2 / 2 / 2.
 
 ## Fields
 
-- **Mana** — counter; max 10
+- **Mana**: counter; max 10

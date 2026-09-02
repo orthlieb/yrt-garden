@@ -13,7 +13,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/amber-schemer.webp" width="400" class="center"> <figcaption>An amber schemer — a rogue Vizion, unnervingly calm, whose implant glows faintly warm beneath one iris as they read the room.</figcaption> </figure>
 

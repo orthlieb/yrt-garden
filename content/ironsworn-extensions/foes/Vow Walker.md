@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/vow-walker.webp" width="400" class="center"> <figcaption>A vow walker: a Luminous-shelled reliquary construct with Azure-lit joints and a Crimson vow-heart, bearing the ceramic death-mask of the oath-giver.</figcaption> </figure>
 

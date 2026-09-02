@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/bloater.webp" width="400" class="center"> <figcaption>A bloater — a corpse soaked for years in Azure-leaking water, kept soft and intact by the mana load and still capable of a crude reflexive grasp.</figcaption> </figure>
 

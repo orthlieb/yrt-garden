@@ -13,7 +13,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/carrion-mound.webp" width="400" class="center"> <figcaption>A carrion mound — Black slurry heaped with rotting organic matter, drifting slowly across the landscape and dissolving anything organic it touches into itself.</figcaption> </figure>
 

@@ -3,13 +3,13 @@ title: Ironsworn Extensions
 ---
 
 > [!warning] Generated file
-> Built by `npm run ref` from the Iron Ledger `yrt` extension, with the prose in `tooling/extensions-intro.md` and `tooling/extensions-outro.md`. Edit one of those — changes made here are lost.
+> Built by `npm run ref` from the Iron Ledger `yrt` extension, with the prose in `tooling/extensions-intro.md` and `tooling/extensions-outro.md`. Edit one of those. Changes made here are lost.
 
 # Ironsworn Extensions
 
-House rules, assets, moves, oracles and a bestiary for running *Ironsworn* (Core, Delve, and Lodestar) in the world of YRT. Everything here is **additive** — nothing overrides a core Ironsworn mechanic. Where a document needed a home mechanic that core does not have, such as the manite-driven **Cast Conclave Ritual**, it is defined here.
+House rules, assets, moves, oracles and a bestiary for running *Ironsworn* (Core, Delve, and Lodestar) in the world of YRT. Everything here is **additive**: nothing overrides a core Ironsworn mechanic. Where a document needed a home mechanic that core does not have, such as the manite-driven **Cast Conclave Ritual**, it is defined here.
 
-All of it — foes, assets, moves, oracles and rarities — is **authored in the Iron Ledger repository** and rendered into this vault by `npm run ref`. The notes below are a read-only view. To change any of it, edit `extensions/yrt` in ironledger and re-run the sync; edits made to these notes are overwritten on the next run.
+All of it (foes, assets, moves, oracles and rarities) is **authored in the Iron Ledger repository** and rendered into this vault by `npm run ref`. The notes below are a read-only view. To change any of it, edit `extensions/yrt` in ironledger and re-run the sync; edits made to these notes are overwritten on the next run.
 
 ## Foes (24)
 
@@ -136,7 +136,7 @@ Two mechanics that core Ironsworn does not have. Both are additive: neither chan
 
 ## Escalating Harm
 
-Introduced with the **Necrotic Sea Hare**. Some foes do not inflict fixed harm — they start low and escalate the longer the character fails to deal with them.
+Introduced with the **Necrotic Sea Hare**. Some foes do not inflict fixed harm: they start low and escalate the longer the character fails to deal with them.
 
 **Trigger.** On a Miss or Weak Hit where the fiction calls for the character to **Endure Harm**, the foe's current harm value increases by 1 tick for all subsequent attacks.
 
@@ -146,11 +146,11 @@ Introduced with the **Necrotic Sea Hare**. Some foes do not inflict fixed harm �
 
 ## Escalating Defense
 
-Introduced with the **Blighted Guilder** and the **Tomb Walker**. Some foes project a passive mana shield — a reactive lattice that absorbs incoming strikes. Each miss erodes the shield by one tier before harm can reach the foe.
+Introduced with the **Blighted Guilder** and the **Tomb Walker**. Some foes project a passive mana shield: a reactive lattice that absorbs incoming strikes. Each miss erodes the shield by one tier before harm can reach the foe.
 
 **Trigger.** On a Miss, the foe's current defense value decreases by 1 as the shield absorbs the strike. Use the Escalating Defense spinner in Iron Ledger to track it.
 
-**Defense cap by rank, in ticks.** The cap is deliberately inverse to rank — a lower-rank foe has more room for the shield to degrade before it bottoms out.
+**Defense cap by rank, in ticks.** The cap is deliberately inverse to rank: a lower-rank foe has more room for the shield to degrade before it bottoms out.
 
 | Rank | Cap |
 |---|---|
@@ -168,6 +168,6 @@ Introduced with the **Blighted Guilder** and the **Tomb Walker**. Some foes proj
 
 # The Premise
 
-**There is no supernatural in Yrt.** Every "monster" is one of five things — a wild mana phenomenon, a mana-saturated body, a pre-Fall artifact still executing dead orders, a deliberately built construct, or an altered living person. Each bestiary entry tags its foe by mechanism, mana colour, and faction interest.
+**There is no supernatural in Yrt.** Every "monster" is one of five things: a wild mana phenomenon, a mana-saturated body, a pre-Fall artifact still executing dead orders, a deliberately built construct, or an altered living person. Each bestiary entry tags its foe by mechanism, mana colour, and faction interest.
 
-See also [[YRT_Foe_Analysis|YRT Foe Analysis]] — which *Delve* foes fit YRT, which need reworking, which do not fit at all — and [[YRT_Bestiary_Image_Prompts|YRT Bestiary Image Prompts]].
+See also [[YRT_Foe_Analysis|YRT Foe Analysis]] (which *Delve* foes fit YRT, which need reworking, which do not fit at all) and [[YRT_Bestiary_Image_Prompts|YRT Bestiary Image Prompts]].

@@ -8,9 +8,9 @@ status: Worldbuilding reference, in progress
 
 # Purpose
 
-Thirty location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
+Thirty-one location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
 
-The three countries have entries of their own ([[Nysis]], [[Mososi]] and [[Buralia]]) covering how each is governed, what pays for it, and what would break it. [[Regional]] holds the oracle table and the relations between them; city-scale material for Freeport lives in [[Freeport]]. Everything else here is the *land between*, and the places the roads only pass through.
+The three countries have entries of their own ([[Nysis]], [[Mososi]] and [[Buralia]]) covering how each is governed, what pays for it, and what would break it. [[Regional]] holds the oracle table and the relations between them; city-scale material for Freeport lives in [[Freeport Gazetteer]]. Everything else here is the *land between*, and the places the roads only pass through.
 
 ## The Countries
 
@@ -83,7 +83,7 @@ Four places have Atlas entries but no slot on the roll, because you do not stumb
 - [x] Piscis
 - [x] Ostrea
 - [x] Collima
-- [x] Freeport *(Atlas section lives inside [[Freeport]])*
+- [x] Freeport
 - [x] Mons
 - [x] Termin
 - [x] Fluenti

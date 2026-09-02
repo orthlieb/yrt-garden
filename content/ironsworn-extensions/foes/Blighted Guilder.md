@@ -25,7 +25,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/blighted-guilder.webp" width="400" class="center"> <figcaption>A blighted guilder — a Conclave seed-crafter veined with grey manite tracery, eyes pulsing faintly crimson, carrying the skills and stockpile that followed them out of the refinery.</figcaption> </figure>
 

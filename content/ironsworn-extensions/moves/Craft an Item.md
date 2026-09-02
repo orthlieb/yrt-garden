@@ -3,7 +3,7 @@ title: Craft an Item
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/moves/moves.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/moves/moves.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Craft an Item
 

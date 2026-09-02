@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/witherwind.webp" width="400" class="center"> <figcaption>A witherwind — a Luminous-and-Azure wild mana storm drifting along the thermal gradient toward warmth, its calm centre the point of strongest mana flux rather than shelter.</figcaption> </figure>
 

@@ -13,7 +13,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/war-pile.webp" width="400" class="center"> <figcaption>A war pile — a pre-Fall AI bound in a Gray lattice, wearing whatever structural matter it has pulled together from an old battlefield.</figcaption> </figure>
 

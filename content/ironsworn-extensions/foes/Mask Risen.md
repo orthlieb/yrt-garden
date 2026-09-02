@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/mask-risen.webp" width="400" class="center"> <figcaption>A mask risen shambles forward — leaves, soil, and small bones accreted by Verdant flow around an elven recognition-mask, walked by an elder handler from a distance.</figcaption> </figure>
 

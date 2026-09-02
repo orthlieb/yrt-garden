@@ -13,7 +13,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/verdant-crawler.webp" width="400" class="center"> <figcaption>A verdant crawler — a forest mammal overgrown with vine and root until the original animal became a chassis for the plant matter that now rides it.</figcaption> </figure>
 

@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/coldhusk.webp" width="400" class="center"> <figcaption>A coldhusk stands motionless in the permafrost where it died, waiting to draw heat from anything warmer that wanders within its grip-radius.</figcaption> </figure>
 

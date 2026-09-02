@@ -4,7 +4,7 @@ title: Structure
 
 <figure> <img src="Raven Token.png" width="400" class="center"> <figcaption>The brotherhood symbol is a raven's head with a red eye.</figcaption> </figure>
 
-Also known as the shadow fourth or the red eye. The brotherhood is the secret arm of the city, comprised of spies, thieves, enforcers, and assassins. **Lord Frum** is the head — the **Tri-Shadow** — of this web of spies, pickpockets, and criminals that are some three hundred strong. The symbol for the brotherhood is the raven.
+Also known as the shadow fourth or the red eye. The brotherhood is the secret arm of the city, comprised of spies, thieves, enforcers, and assassins. **Lord Frum** is the head (the **Tri-Shadow**) of this web of spies, pickpockets, and criminals that are some three hundred strong. The symbol for the brotherhood is the raven.
 Composition has a lot of feral.
 Master Chorbis is in charge of recruitment and training, reporting directly to Lord Frum as a guild-level functionary rather than as a district cell leader.
 
@@ -113,7 +113,7 @@ The district’s residents are wealthy merchants, minor nobility, elite factors,
 ## Riverside – Naila
 Naila is a former river pilot with sharp eyes and a sharper tongue, famous for knowing every backwater and towpath between Freeport and the hinterland. She runs her district from a modest waterside hall full of maps and river charts, where captains, barge-owners, and overseers come seeking passes, crews, or quiet revenge.
 
-The Brotherhood’s trade here is in routing and information: arranging “mislays” of manifests, diverting barges to friendly warehouses, and controlling the hiring of trusted foremen and dock bosses along the riverfront. When needed, Naila’s people stage “accidents” on the water—snagged keels, cut tow ropes, sudden robberies at lonely bends.
+The Brotherhood’s trade here is in routing and information: arranging “mislays” of manifests, diverting barges to friendly warehouses, and controlling the hiring of trusted foremen and dock bosses along the riverfront. When needed, Naila’s people stage “accidents” on the water: snagged keels, cut tow ropes, sudden robberies at lonely bends.
 
 Riverside’s people are respectable middle class: artisans with their own shops, ship captains with small stakes in their vessels, senior laborers, and minor officials who prefer coin over honor. It feels orderly and industrious by day, but at night inn parlors fill with quiet deals and river songs that carry more coded messages than sentiment.
 ## South Wards – Tailus
@@ -121,23 +121,23 @@ Tailus, once a carter and sometime brawler, is heavyset, soot-stained, and alway
 
 Here the Brotherhood dominates logistics: monopolizing haulage contracts, skimming from warehouse inventories, and sabotaging wagons or animals of merchants who refuse to pay. Protection money buys safe transit through the Wards, priority for repairs at smithies and wheelwrights, and hired muscle when caravans need an escort on short notice.
 
-South Wards folk are working merchants, carters, stable-hands, farriers, blacksmiths, and warehouse laborers, with families living above shops and yards. It is noisy and practical, loyal to those who provide steady work; most residents dislike the Brotherhood but also know Tailus is the reason their ledgers stay in the black. Tailus's territory ends at the Stews boundary — the flats and stilt-walkways are The Fist's domain, and the two cells maintain a careful operational separation.
+South Wards folk are working merchants, carters, stable-hands, farriers, blacksmiths, and warehouse laborers, with families living above shops and yards. It is noisy and practical, loyal to those who provide steady work; most residents dislike the Brotherhood but also know Tailus is the reason their ledgers stay in the black. Tailus's territory ends at the Stews boundary. The flats and stilt-walkways are The Fist's domain, and the two cells maintain a careful operational separation.
 ## Market – Mila
 Mila is a quick-witted trader’s daughter turned fixer, always in motion, with ink-stained fingers and a permanent half-smile that never quite reaches her eyes. She is beloved by stallholders for arranging permits and settling quarrels, and feared for an encyclopedic memory of who owes what to whom. A thief by trade, she now detailes in 
 
 The Brotherhood in Market manipulates prices, controls stall allocations, fences stolen goods, and runs short-term “advance” schemes that leave desperate traders permanently indebted. Mila’s crew also has fingers in food adulteration, false weights, and quietly steering crowds toward favored vendors while spreading rumors against enemies.
 
-Residents are a mix of shopkeepers, grocers, fish packers, porters, and small traders who rent cramped rooms behind their storefronts or above busy alleys. The district is dense, polyglot, and rumor-rich—exactly the kind of place where a clever operator can light or extinguish someone’s reputation in a single market-day.
+Residents are a mix of shopkeepers, grocers, fish packers, porters, and small traders who rent cramped rooms behind their storefronts or above busy alleys. The district is dense, polyglot, and rumor-rich, exactly the kind of place where a clever operator can light or extinguish someone’s reputation in a single market-day.
 ## Shyside – Bastien
 Bastien is a charming, aging rake with a gambler’s easy laugh and a stare that goes flat when money is on the table. He runs Shyside from a combination gaming house and brothel where sailors and laborers lose their coin, their secrets, and sometimes their futures.
 
 Here the Brotherhood deals in vice: illicit gambling dens, brothels, rigged games, and a pervasive “protection” racket that keeps independent taverns nervous and compliant. Bastien also runs an informal information market, paying informants in drink and favors, then selling what he learns to Sabine, Khulan, or anyone who meets his price.
 
-The people of Shyside are sailors between voyages, dock and warehouse workers, day laborers, and those who live hand-to-mouth in cheap lodgings. It’s rowdy, dangerous, and tightly packed, with a constant churn of faces—ideal cover for disappearances, secret meetings, and night-time violence.
+The people of Shyside are sailors between voyages, dock and warehouse workers, day laborers, and those who live hand-to-mouth in cheap lodgings. It’s rowdy, dangerous, and tightly packed, with a constant churn of faces, ideal cover for disappearances, secret meetings, and night-time violence.
 ## Stews – The Fist
 “The Fist” is a nameless brute who took his moniker after crushing a rival leader’s skull in the mud; he rules the Stews by fear and brutal example. Though seemingly simple, he is canny enough to play different factions of the desperate poor against each other while skimming coin and favors for the Brotherhood’s higher echelons.
 
-Brotherhood business here is the dirtiest: controlling street prostitution, press-ganging the desperate into dangerous work, organizing beggar rings, and hiding fugitives or contraband where no official wants to wade. Floods and collapsing walkways are opportunities—disaster relief shipments can be stolen, and the chaos covers disappearances.
+Brotherhood business here is the dirtiest: controlling street prostitution, press-ganging the desperate into dangerous work, organizing beggar rings, and hiding fugitives or contraband where no official wants to wade. Floods and collapsing walkways are opportunities: disaster relief shipments can be stolen, and the chaos covers disappearances.
 
 The Stews’ population is the city’s most vulnerable: destitute families, refugees, temporary workers, the chronically ill, and feral children who know the stilt-walkways better than any guard. Life is precarious and short; loyalty is to kin, tenement, or gang rather than to Freeport itself, making the Stews a volatile powder-keg the Brotherhood can ignite or pacify as needed.
 

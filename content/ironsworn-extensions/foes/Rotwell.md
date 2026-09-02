@@ -13,7 +13,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/rotwell.webp" width="400" class="center"> <figcaption>A rotwell — a body of Black-saturated water with its tell-tale ring of dead vegetation, iridescent in bruise-purples and sickly greens rather than rainbow.</figcaption> </figure>
 

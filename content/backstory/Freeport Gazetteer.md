@@ -1,38 +1,14 @@
 ---
-title: Freeport
+title: Freeport Gazetteer
 ---
 
 <figure> <img src="Freeport City Map.webp" width="400" class="center"> <figcaption>Freeport sits at the nexus of three trading kingdoms.</figcaption> </figure>
 
-## At a Glance
+# Freeport Gazetteer
 
-*City state · **Settled** · Free-trade port, triumvirate rule*
-
-Freeport sits on a flat, swampy isthmus where the Kingdom of Nysis runs into the Buralian Empire, and it exists because of a single accident of water: a narrow tidal river between Falter Bay and Falter Sound, widened by the Unmade into a sixty-five-foot canal, and a harbour on the Sound deep enough for the big hulls out of the Sea of Bees. Almost nowhere else on this coast can take those ships. Everything else about Freeport follows from that.
-
-Its neutrality is not a moral position, it is the product. Nysis and Mososi will not trade directly with each other on any terms either can accept — the tariff at [[Termin]] sees to that — so a great deal of what crosses Freeport's docks is Nysisian goods bound for Mososi and Mososi goods bound for Nysis, passing within a hundred yards of each other and paying Freeport for the privilege of not meeting at the border.
-
-The city is neutral and says so constantly. It is ruled by three — the lord of merchants, the chief priest of the Pura Ecclesia, the archmage of the Conclave — and by a fourth nobody names aloud, the Brotherhood's shadow lord. Goods pass through untaxed if they are only passing; coin and valuables can be lodged here without account or question; the border wars of three countries are watched from the walls with professional interest and no opinion. The tide runs inland twice a day and out twice a day, and a tidal basin upstream is released every night to scour the canal, and the city has arranged its entire commercial life around that timetable.
-
-It floods. The isthmus is low and the ground is wet and the Stews sits in a depression where houses stand on stilts and the muck comes and goes beneath them. The embankments have been raised ten feet and it is not enough. What Freeport offers is not comfort or safety — it is the only place in the region where a person with money and no history can become someone, and the only place where the three powers are obliged to be polite to each other in public.
-
-**Features**
-- The canal, and the chain that goes up at dusk
-- Deep-water hulls at Dock Walk, lighters and barges everywhere else
-- Blue Sashes running berthing chits at a dead sprint
-- Customs clerks, day logs, and the smell of tallying
-- The Stews on stilts, and what moves under them at low tide
-- Caravanserai wagons camped outside the gates after dark
-- Fog off the Sound that swallows the Upper Market whole
-- Watch station teams at every gate, checking faces
-- Conclave grey, Ecclesia bells, and Brotherhood silence, all in one street
-- Water standing in the lanes for a week after a spring tide
-
-**Quest Starter**
-> Something lodged in a Freeport vault "without account and without question" has been claimed by two parties on the same morning, and both claims are in order. The house cannot honour either without making an enemy of a power it depends on. It would prefer the item simply be gone before the matter is decided. Who hired you first?
-
----
-
+The city at length: neighbourhoods, the Watch, the canal and its bridges, customs
+practice, the Pylons and the smuggling trade. The short reference, with the Features
+list and a quest starter, is the Atlas entry at [[Freeport]].
 
 Population: 15,900
 Economy: trading port
@@ -56,7 +32,7 @@ The city sustains itself as a free trade zone of goods from the surrounding land
 | The Poor, Beggars, Slum Dwellers                          | A large underclass, including orphans and those “touched” or marginalized                                                                       | 1–10                                       | 2,000  |
 | Entertainment, Service, and Hospitality Workers           | Innkeepers, tavern folk, courtesans, musicians, actors                                                                                          | 20–50                                      | 1,400  |
 | Criminal Underworld (Brotherhood, Smugglers, Pickpockets) | These are clustered in hidden parts of the city                                                                                                 | 10–100 (varies wildly)                     | 300    |
-| Nobility/Wealthy Elites                                   | A tiny but influential segment—often controlling key guilds/offices.                                                                            | 300+                                       | 100    |
+| Nobility/Wealthy Elites                                   | A tiny but influential segment, often controlling key guilds/offices.                                                                            | 300+                                       | 100    |
 | Foreigners, Transients, and Outcasts                      | Freeport’s open policy and trade magnetism brings hundreds to thousands of outsiders at any time including temporary labor, mercenaries, exiles | varies (10–80 for most)                    | 2000   |
 |                                                           |                                                                                                                                                 | **Total**                                  | 17 500 |
 ## Citizenship
@@ -136,18 +112,18 @@ The Pura Ecclessia and Conclave along with other wealthy individuals have their 
 
 ### External Contracts
 
-The Town Watch is not funded by city tax revenue alone. A substantial share of its operating budget — by some accountings the larger share — comes from **external contracts** hired by parties beyond the city itself. Captain Thews's office handles contracts under a certain weight; major contracts require Triumvirate ratification.
+The Town Watch is not funded by city tax revenue alone. A substantial share of its operating budget (by some accountings the larger share) comes from **external contracts** hired by parties beyond the city itself. Captain Thews's office handles contracts under a certain weight; major contracts require Triumvirate ratification.
 
 The standard clients:
 
 - **The Conclave** maintains standing contracts for prisoner transit, refinement-site escort, Refiners' Guild inspector escorts on dangerous routes, and the protection of mana shipments. The bulk of Watch external revenue comes from Conclave contracts, which is why the loss of any of those would force layoffs.
 - **The Pura Ecclesia** hires the Watch for missionary escort to outlying districts, doctrinal-enforcement detail in the Stews and Shy Side wards, and the protection of major religious processions on feast days.
-- **The Brotherhood** hires the Watch for caravan escort on the Mons road and overland trade routes to the inland mining regions. The Brotherhood's contracts are formally legitimate and informally complicated — the cargo a Watch team is paid to escort is not always cargo the Watch should be escorting. Deputies like Drumph, who are corruptible, can be quietly assigned to the Brotherhood's more sensitive runs; deputies like Forthwith refuse such assignments and accept the lost income.
+- **The Brotherhood** hires the Watch for caravan escort on the Mons road and overland trade routes to the inland mining regions. The Brotherhood's contracts are formally legitimate and informally complicated: the cargo a Watch team is paid to escort is not always cargo the Watch should be escorting. Deputies like Drumph, who are corruptible, can be quietly assigned to the Brotherhood's more sensitive runs; deputies like Forthwith refuse such assignments and accept the lost income.
 - **Wealthy private clients** hire the Watch for warehouse stakeouts, vault transits, household protection during high-risk periods, and similar discrete work.
 
-Contract teams are pulled from the standard city patrol rotation. A team on contract is out of city duty for the contract's duration; backfill is managed by Captain Thews's office through cross-platoon coverage. The Watch's nominal size of 100 guards is therefore deceptive — at any given time, perhaps 70 to 80 are actually on city patrol, the rest on external contracts of varying duration.
+Contract teams are pulled from the standard city patrol rotation. A team on contract is out of city duty for the contract's duration; backfill is managed by Captain Thews's office through cross-platoon coverage. The Watch's nominal size of 100 guards is therefore deceptive: at any given time, perhaps 70 to 80 are actually on city patrol, the rest on external contracts of varying duration.
 
-A standard prisoner-transit contract — a disgraced Maester escorted down from one of the Ravenna sites, say — pulls one full watch team (5 watchmen and a dux) for the trip duration. Larger contracts (mana shipments, multi-team escorts) require multiple teams and command attention by the platoon's deputy. Captain Thews personally signs off on any contract involving more than two teams.
+A standard prisoner-transit contract (a disgraced Maester escorted down from one of the Ravenna sites, say) pulls one full watch team (5 watchmen and a dux) for the trip duration. Larger contracts (mana shipments, multi-team escorts) require multiple teams and command attention by the platoon's deputy. Captain Thews personally signs off on any contract involving more than two teams.
 
 The corruption opportunities are obvious. A deputy whose debts have been purchased by the Brotherhood is unlikely to assign honest officers to a contract that requires looking the other way. The Watch's institutional health depends on the Triumvirate's continued willingness to fund corruption-resistant leadership; the Triumvirate's continued willingness depends on the Watch performing its city-patrol duties without scandal. The system functions because no party can quite afford to break it.
 

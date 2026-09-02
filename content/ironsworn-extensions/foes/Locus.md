@@ -18,7 +18,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/locus-azure.webp" width="400" class="center"> <figcaption>A Verdant locus — wood, soil, and root mass walking with the gradient of local mana flux, drawn toward higher concentrations without intent.</figcaption> </figure>
 <figure> <img src="images/locus-crimson.webp" width="400" class="center"> <figcaption>Locus Crimson</figcaption> </figure>

@@ -3,7 +3,7 @@ title: Touched, Feline
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Touched, Feline
 
@@ -26,7 +26,7 @@ You have been touched by YRT and exhibit animal traits. Roll on the [[Character 
 
 ## Fields
 
-- **Level** — dropdown; Prime / Second / Third / Feral
-- **Animal** — string
+- **Level**: dropdown; Prime / Second / Third / Feral
+- **Animal**: string
 
 Your touched value determines how many abilities you may use: Prime — 1; Second — 2; Third or Feral — all 3.

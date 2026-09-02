@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/puppet-bones.webp" width="400" class="center"> <figcaption>A puppet bones: a stripped skeleton with Gray-reinforced joints and a Crimson-fed control bead at the skull, remote-piloted by an illegal Amber handler up to two hundred paces away.</figcaption> </figure>
 

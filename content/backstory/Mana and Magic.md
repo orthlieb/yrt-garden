@@ -47,9 +47,9 @@ A mana seed is a compact, pre‑configured bundle of manite, tuned to a single e
 
 - **Core:** A mix of specialized colors (Gray, Crimson, Azure, Verdant, Luminous, Amber, rarely Black) in precise ratios.  
 - **Shell:** A Gray and Luminous “husk” that holds the structure together, shields it from stray signals, and keeps it inert until triggered.  
-- **Program:** Embedded Amber patterns that define how the seed should unfold—where force flows, what geometry it assumes, which senses it touches, how long it persists.
+- **Program:** Embedded Amber patterns that define how the seed should unfold: where force flows, what geometry it assumes, which senses it touches, how long it persists.
 
-To the untrained eye, most seeds look like small beads, wafers, or thin etched tokens. To someone with Amber in their skull, each has a distinct “feel”—a weight in the mind’s hand that hints at its potential.
+To the untrained eye, most seeds look like small beads, wafers, or thin etched tokens. To someone with Amber in their skull, each has a distinct “feel”: a weight in the mind’s hand that hints at its potential.
 
 ---
 
@@ -68,7 +68,7 @@ Apprentices begin with pre‑weighed packets from the Conclave: small envelopes 
 
 The mix is then shaped into a geometric form that guides how it will deploy:
 
-- The caster uses **simple tools**—molds, dies, or Gray workbenches—to press or grow the seed into its intended geometry.  
+- The caster uses **simple tools** (molds, dies, or Gray workbenches) to press or grow the seed into its intended geometry.  
 - During shaping, gentle Amber pulses encourage grains to settle into the correct micro‑structure.  
 - Once formed, a Luminous “lash” tightens around the seed, locking it in a dormant state.
 
@@ -77,7 +77,7 @@ Mistakes at this stage lead to seeds that leak, misfire, or collapse when trigge
 
 Finally, the seed is taught when and how to wake:
 
-- The caster impresses a short **Amber command phrase** into the seed—often tied to a word, gesture, or mental image.  
+- The caster impresses a short **Amber command phrase** into the seed, often tied to a word, gesture, or mental image.  
 - Safety conditions can be added:  
   - Only respond to the maker’s Amber signature.  
   - Stay inert if the shell is cracked.  
@@ -128,7 +128,7 @@ Shape is as important as composition. It determines how the seed’s contents sp
 - **Description:** Slender rods, pins, or coils.  
 - **Use:** Precision work, surgery, subtle enchantment.  
 - **Behavior:**  
-  - Deliver narrow, penetrating effects—nerve‑line anesthetics, precise cuts, or focused illusions.  
+  - Deliver narrow, penetrating effects: nerve‑line anesthetics, precise cuts, or focused illusions.  
   - Favored by healers, assassins, and illusionists.
 
 Note that the contents of seeds are volatile and essentially experience an internal pressure. The shape of the material determines how much gray and white mass is needed for containment. E.g.
@@ -149,7 +149,7 @@ Even a perfect seed is inert until someone wakes it.
 
 An initiated caster with Amber in their brain activates seeds in three linked steps:
 
-1. **Focus:** Fix attention on the seed—felt as a small, silent “weight” wherever it’s stored (pouch, bandolier, wand).  
+1. **Focus:** Fix attention on the seed, felt as a small, silent “weight” wherever it’s stored (pouch, bandolier, wand).  
 2. **Gesture:** Trace a pattern with hand, wand, staff, or eye line that tells the seed how to deploy (straight shot, blooming cone, rising wall).  
 3. **Word or Image:** Speak a trigger word or hold a specific mental sigil that matches the Amber key burned into the seed.
 
@@ -171,19 +171,19 @@ These are engineered with crude, physical triggers instead of subtle Amber keys,
 
 The common-use seed is not an invention. It is a substitute, and a poor one, for something the world used to have.
 
-**The Veil was never universal, even before the Fall.** Taking one on is a procedure and the procedure carries real risk — the connection is made in living tissue, it does not always seat cleanly, and the failures range from a candidate who simply never perceives anything to a candidate who is quietly and permanently altered in ways nobody detects for years. The Unmade understood this at least as well as the Conclave does. They veiled the people whose work required depth: construction engineers, artificers, refiners, physicians, the trades where you must *listen* to what you are working and hold that listening for hours. It was a qualification, not a birthright, and it was not taken lightly.
+**The Veil was never universal, even before the Fall.** Taking one on is a procedure and the procedure carries real risk: the connection is made in living tissue, it does not always seat cleanly, and the failures range from a candidate who simply never perceives anything to a candidate who is quietly and permanently altered in ways nobody detects for years. The Unmade understood this at least as well as the Conclave does. They veiled the people whose work required depth: construction engineers, artificers, refiners, physicians, the trades where you must *listen* to what you are working and hold that listening for hours. It was a qualification, not a birthright, and it was not taken lightly.
 
-**Everyone else carried a device.** Not a seed and not a wand in the Conclave's sense — a small personal instrument, held in the hand, that let an ordinary unveiled person work mana directly at a lesser but genuinely useful degree. The expertise lived in the instrument. The user did not need to know what they were doing in any deep sense, any more than a man needs to understand a lock to turn a key.
+**Everyone else carried a device.** Not a seed and not a wand in the Conclave's sense: a small personal instrument, held in the hand, that let an ordinary unveiled person work mana directly at a lesser but genuinely useful degree. The expertise lived in the instrument. The user did not need to know what they were doing in any deep sense, any more than a man needs to understand a lock to turn a key.
 
-What such a thing does, on the evidence of the few that have ever been recovered: light on demand and light that lasts. Heat for a pot or a room. Sealing a crack, setting a joint, stiffening a rotten board — small Gray work, at the scale of a household. Clean water. A ward across a doorway that will hold overnight. Simple Azure first aid: closing a cut, damping a fever, setting a small bone badly but well enough. Fire without flint.
+What such a thing does, on the evidence of the few that have ever been recovered: light on demand and light that lasts. Heat for a pot or a room. Sealing a crack, setting a joint, stiffening a rotten board: small Gray work, at the scale of a household. Clean water. A ward across a doorway that will hold overnight. Simple Azure first aid: closing a cut, damping a fever, setting a small bone badly but well enough. Fire without flint.
 
-What it does not do is anything requiring judgement sustained over time. It will not run a waking trough, because a trough is not a task but a conversation — the call spoken and re-spoken, the answer listened for, the batch read by the drift of the film and the sound of the paddle. It will not do illusion of any subtlety, or compulsion at all, or anything the Vizion order would recognise as work. It is a household tool, and it was built for households.
+What it does not do is anything requiring judgement sustained over time. It will not run a waking trough, because a trough is not a task but a conversation: the call spoken and re-spoken, the answer listened for, the batch read by the drift of the film and the sound of the paddle. It will not do illusion of any subtlety, or compulsion at all, or anything the Vizion order would recognise as work. It is a household tool, and it was built for households.
 
-That distinction is the whole of it, and it is why the pre-Fall world looks impossible from here. The Unmade were not a civilisation of mages. They were a civilisation of ordinary people each holding a small competence, with a thin layer of veiled professionals above them doing the difficult part — which is a description of every craft in every age, and is precisely the arrangement the Fall destroyed.
+That distinction is the whole of it, and it is why the pre-Fall world looks impossible from here. The Unmade were not a civilisation of mages. They were a civilisation of ordinary people each holding a small competence, with a thin layer of veiled professionals above them doing the difficult part, which is a description of every craft in every age, and is precisely the arrangement the Fall destroyed.
 
-**Why this matters now.** The Conclave's authority does not actually rest on the refining monopoly, which is an accident of capital and geography. It rests on a claim: that mana is dangerous, that working it requires a trained and licensed practitioner, and that the alternative to the order is not freedom but corpses. The common-use seed exists to prove the point — here is what a layman may safely be given, and look how little it is.
+**Why this matters now.** The Conclave's authority does not actually rest on the refining monopoly, which is an accident of capital and geography. It rests on a claim: that mana is dangerous, that working it requires a trained and licensed practitioner, and that the alternative to the order is not freedom but corpses. The common-use seed exists to prove the point: here is what a layman may safely be given, and look how little it is.
 
-A working stock of Unmade handsets would not break the refining monopoly. No device makes a trough operator; that still takes twenty years and a Veil. What it would break is the claim. Every household in Freeport doing its own light, its own heat, its own small mending, without paying the order or asking its permission — that is not an industrial problem. It is the end of the reason anyone obeys.
+A working stock of Unmade handsets would not break the refining monopoly. No device makes a trough operator; that still takes twenty years and a Veil. What it would break is the claim. Every household in Freeport doing its own light, its own heat, its own small mending, without paying the order or asking its permission. That is not an industrial problem. It is the end of the reason anyone obeys.
 
 They are also, on the two examples ever examined, **not charged**, and nobody now living knows how they were meant to be. Whether they take a sun-charge like everything else, or drew on something the pre-Fall world had and this one does not, is the question anybody holding one has to answer before it is worth anything at all.
 
@@ -284,11 +284,11 @@ A bandolier or belt system with standardized seed slots and safety locks.
 
 Because seeds consume real manite and depend on Conclave tooling:
 
-- **Costly Training:** Learning to make reliable seeds requires access to benches, clamps, meters, and high‑grade feedstock—resources controlled by the Conclave.  
+- **Costly Training:** Learning to make reliable seeds requires access to benches, clamps, meters, and high‑grade feedstock, resources controlled by the Conclave.  
 - **Ongoing Dependence:** Even seasoned mages depend on Conclave supply lines for fresh manite, replacement tools, and updated recipes.  
 - **Controlled Power:** By licensing tools, inspecting workshops, and tracking bulk manite, the Conclave can decide who practices true seed‑craft and who remains a mere user of common seeds.
 
-In practice, a magic‑user’s strength is not only their talent for casting, but also their skill and resources for preparing mana seeds—each bead, cone, and ring a tiny, hand‑built engine of will.
+In practice, a magic‑user’s strength is not only their talent for casting, but also their skill and resources for preparing mana seeds, each bead, cone, and ring a tiny, hand‑built engine of will.
 ### Mana Costs
 
 * 1 vial ≈ enough of that color for **3–5 simple seeds** or **1–2 strong seeds**, depending on recipe.
@@ -336,7 +336,7 @@ Rounded into something easy for play, a **single strong fireball seed** costs 
 
 **Ritual**
 
-You have learned minor magical tricks — small, reliable effects drawn from mana seeds. Choose 2 cantrips when you acquire this asset.
+You have learned minor magical tricks: small, reliable effects drawn from mana seeds. Choose 2 cantrips when you acquire this asset.
 
 **Limitations:** A cantrip cannot affect anything larger than you can hold in two hands, cannot last longer than 10 minutes or until dispelled (see level exceptions below), cannot reach farther than 10 paces (line of sight required), and cannot directly inflict harm in combat. Most cantrips take several seconds to cast, up to a few minutes for larger or more complex work.
 
@@ -359,7 +359,7 @@ You have learned minor magical tricks — small, reliable effects drawn from man
 **Abilities:**
 - [ ] When you perform a cantrip, **Cast Conclave Ritual** with a base difficulty of 1. Add +1 if cast at range, and +1 if cast under stress (e.g. in combat or while being watched). On a **strong hit**, the cantrip works as intended; take +1 momentum. On a **weak hit**, the cantrip works but choose one: it is weaker or shorter than intended, it draws unwanted attention, or you suffer -1 spirit from the strain. On a **miss**, the cantrip misfires; **Pay the Price**.
 - [ ] Choose 2 additional cantrips from the list (4 total). Your cantrips now last up to 1 hour or until you dismiss them.
-- [ ] Choose 2 additional cantrips from the list (6 total). Simple/touching cantrips (1 mana cost) are now free — they cost 0 mana. 
+- [ ] Choose 2 additional cantrips from the list (6 total). Simple/touching cantrips (1 mana cost) are now free: they cost 0 mana. 
 ### Mana Supply
 
 | 0   | +1  | +2  | +3  | +4  | +5  | +6  | +7  |
@@ -370,7 +370,7 @@ You have learned minor magical tricks — small, reliable effects drawn from man
 
 **Ritual**
 
-A basic ritual taught early to Neophytes and Disciples of the Conclave, allowing them to sense and interpret mana in a person, object, or area — "detect magic," grounded in the color-coded manite system. It uses primarily Amber to read patterns, with Luminous to stabilize and Gray as a structural aid when needed.
+A basic ritual taught early to Neophytes and Disciples of the Conclave, allowing them to sense and interpret mana in a person, object, or area: "detect magic," grounded in the color-coded manite system. It uses primarily Amber to read patterns, with Luminous to stabilize and Gray as a structural aid when needed.
 
 **Difficulty Factors:**
 
@@ -378,25 +378,25 @@ Each factor is scored 0–2. Sum all factors to get the spell difficulty (0–12
 
 | Factor | 0 | 1 | 2 |
 |---|---|---|---|
-| **Presence & Purity** | Simple ping — only learn whether any mana is present (yes/no). | Presence + rough purity — know if mana is stable, mixed, or corrupted. | Detailed purity — distinguish refined Conclave-grade, wild blight, or Black/corrupted signatures. |
-| **Color Resolution** | No color discrimination — sense only mana present vs. none. | Broad categories — structural (Gray), vital (Azure/Verdant), energetic (Crimson/Luminous), mental/decay (Amber/Black). | Exact colors and proportions (e.g., mostly Gray with traces of Luminous and faint Amber residue). |
-| **Intensity & Scale** | Crude strength sense — gut impression of weak/moderate/strong. | Rough magnitude and footprint — estimate radius/volume (localized charm, room-wide ward, residual field). | Detailed mapping — locate hotspots, weak points, anchor nodes, and strongest direction of effect. |
-| **Temporal Insight** | No time sense — only perceive the current state. | Recent vs. old — tell if the effect is fresh, fading, or ancient, and whether it has been changed recently. | Event echoes — catch impressions of one or two key events: a recent casting, strong emotional imprint, or violent discharge. |
-| **Structural / Intent Insight** | Broad function only — sense whether the effect is protective, harmful, sensory, healing, or corruptive. | Simple structure — identify seed-based effect, ritual pattern, crude infusion, or natural blight; educated guess at intended use. | Detailed structure — infer likely seed shapes, probable triggering conditions, and one or two concrete capabilities or limitations. |
-| **Penetration & Subtlety** | Superficial scan — easily blocked by wards or barriers; casting is unobtrusive (faint prickle at most). | Moderate penetration — read through basic concealment or light Luminous masking; sensitive targets may feel they are being looked at. | Deep probe — push through sophisticated wards or read mana in living bodies or sealed containers; obvious to other casters, may trigger alarms or backlash. |
+| **Presence & Purity** | Simple ping: only learn whether any mana is present (yes/no). | Presence + rough purity: know if mana is stable, mixed, or corrupted. | Detailed purity: distinguish refined Conclave-grade, wild blight, or Black/corrupted signatures. |
+| **Color Resolution** | No color discrimination: sense only mana present vs. none. | Broad categories: structural (Gray), vital (Azure/Verdant), energetic (Crimson/Luminous), mental/decay (Amber/Black). | Exact colors and proportions (e.g., mostly Gray with traces of Luminous and faint Amber residue). |
+| **Intensity & Scale** | Crude strength sense: gut impression of weak/moderate/strong. | Rough magnitude and footprint: estimate radius/volume (localized charm, room-wide ward, residual field). | Detailed mapping: locate hotspots, weak points, anchor nodes, and strongest direction of effect. |
+| **Temporal Insight** | No time sense: only perceive the current state. | Recent vs. old: tell if the effect is fresh, fading, or ancient, and whether it has been changed recently. | Event echoes: catch impressions of one or two key events: a recent casting, strong emotional imprint, or violent discharge. |
+| **Structural / Intent Insight** | Broad function only: sense whether the effect is protective, harmful, sensory, healing, or corruptive. | Simple structure: identify seed-based effect, ritual pattern, crude infusion, or natural blight; educated guess at intended use. | Detailed structure: infer likely seed shapes, probable triggering conditions, and one or two concrete capabilities or limitations. |
+| **Penetration & Subtlety** | Superficial scan: easily blocked by wards or barriers; casting is unobtrusive (faint prickle at most). | Moderate penetration: read through basic concealment or light Luminous masking; sensitive targets may feel they are being looked at. | Deep probe: push through sophisticated wards or read mana in living bodies or sealed containers; obvious to other casters, may trigger alarms or backlash. |
 
 **Example:** A Disciple wants to quietly check if a street-side shrine has been marked or trapped by magic, without lighting it up for everyone on the street.
 
-- **Presence & Purity:** 1 — Is there mana, and is it stable or corrupt?
-- **Color Resolution:** 1 — Broad categories.
-- **Intensity & Scale:** 1 — Localized or extended?
-- **Temporal Insight:** 0 — No need for age.
-- **Structural / Intent Insight:** 1 — Protective, harmful, or a signal?
-- **Penetration & Subtlety:** 1 — Peek through basic masking, no hard push.
+- **Presence & Purity:** 1 (Is there mana, and is it stable or corrupt?)
+- **Color Resolution:** 1 (Broad categories).
+- **Intensity & Scale:** 1 (Localized or extended?)
+- **Temporal Insight:** 0 (No need for age).
+- **Structural / Intent Insight:** 1 (Protective, harmful, or a signal?)
+- **Penetration & Subtlety:** 1 (Peek through basic masking, no hard push).
 
 **Total difficulty = 5**
 
-She commits 3 mana and Casts Conclave Ritual. She rolls 1d6[4] + 3 mana = 7 vs difficulty 5 and 1d10[9]. That is a weak hit — downgrade 2 factors (9 − 7 = 2). She drops Penetration from 1 to 0 (losing the ability to see through masking) and Color from 1 to 0 (only learning whether mana is present, not its type). She still senses a stable mana presence, gets a rough footprint, and knows the shrine's effect is protective — enough to decide it's safe.
+She commits 3 mana and Casts Conclave Ritual. She rolls 1d6[4] + 3 mana = 7 vs difficulty 5 and 1d10[9]. That is a weak hit: downgrade 2 factors (9 − 7 = 2). She drops Penetration from 1 to 0 (losing the ability to see through masking) and Color from 1 to 0 (only learning whether mana is present, not its type). She still senses a stable mana presence, gets a rough footprint, and knows the shrine's effect is protective, enough to decide it's safe.
 
 **Abilities:**
 - [ ] You can perform an Arcane Inspection to sense and interpret mana in a person, object, or area. Record the total difficulty by summing the difficulty factors and **Cast Conclave Ritual**.
@@ -406,7 +406,7 @@ She commits 3 mana and Casts Conclave Ritual. She rolls 1d6[4] + 3 mana = 7 vs d
 
 - This ritual is one of the first “serious” techniques taught to Neophytes and Disciples; Conclave instructors drill them on low‑factor, low‑risk scans before allowing deeper probes.  
 - Higher‑factor uses (especially Penetration & Subtlety at 2, or Structural / Intent at 2) are usually restricted to advanced students under supervision, due to the risk of triggering sophisticated wards or exposing Conclave interest.
-- In play, Arcane Inspection can justify everything from “Is this thing magical?” to detailed forensic analysis of murder scenes, warded sites, and mana‑tainted relics—at the cost of greater difficulty and narrative risk as you push the factors higher.
+- In play, Arcane Inspection can justify everything from “Is this thing magical?” to detailed forensic analysis of murder scenes, warded sites, and mana‑tainted relics, at the cost of greater difficulty and narrative risk as you push the factors higher.
 ## Conclave Ritual: Illusion
 
 **Ritual**
@@ -420,24 +420,24 @@ Each factor is scored 0–2. Sum all factors to get the spell difficulty (0–12
 | Factor | 0 | 1 | 2 |
 |---|---|---|---|
 | **Components** | One component: visual, auditory, or physical (touchable). | Two components. | All three components: visual, auditory, and physical. |
-| **Viewing** | Limited — convincing only from straight on. | Half sphere — convincing from most angles. | Full sphere — convincing from all angles, top and bottom. |
-| **Animation** | Static — no movement. | Small animated details — subtle motion. Requires red mana. | Full animation — lifelike movement. Requires red mana. |
+| **Viewing** | Limited: convincing only from straight on. | Half sphere: convincing from most angles. | Full sphere: convincing from all angles, top and bottom. |
+| **Animation** | Static: no movement. | Small animated details: subtle motion. Requires red mana. | Full animation: lifelike movement. Requires red mana. |
 | **Persistence** | Only while actively casting. | Less than an hour. Requires red mana. | Up to two hours. Requires red mana. |
-| **Size** | Small — deck of cards. | Medium — chest sized. | Large — horse sized. |
-| **Detail** | Rough — obviously an illusion up close. | Passes casual inspection. | Lifelike — indistinguishable from real. |
+| **Size** | Small: deck of cards. | Medium: chest sized. | Large: horse sized. |
+| **Detail** | Rough: obviously an illusion up close. | Passes casual inspection. | Lifelike: indistinguishable from real. |
 
 **Example:** You desire to distract a guard by creating a small hopping frog illusion.
 
-- **Components:** 1 — Visual + auditory.
-- **Viewing:** 1 — Half sphere — convincing from most angles.
-- **Animation:** 2 — Full animation — lifelike hopping movement.
-- **Persistence:** 0 — Only while actively casting.
-- **Size:** 0 — Small — deck of cards sized frog.
-- **Detail:** 1 — Passes casual inspection.
+- **Components:** 1 (Visual + auditory).
+- **Viewing:** 1 (Half sphere: convincing from most angles).
+- **Animation:** 2 (Full animation: lifelike hopping movement).
+- **Persistence:** 0 (Only while actively casting).
+- **Size:** 0 (Small: deck of cards sized frog).
+- **Detail:** 1 (Passes casual inspection).
 
 **Total difficulty = 5**
 
-You commit 4 mana and Cast Conclave Ritual. You roll 1d6[3] + 4 mana = 7 vs difficulty 5 and 1d10[8]. That is a weak hit — downgrade 1 factor (8 − 7 = 1). You drop Detail from 1 to 0 (rough — obviously an illusion up close), hoping the guard focuses on the movement and sound rather than inspecting the frog closely.
+You commit 4 mana and Cast Conclave Ritual. You roll 1d6[3] + 4 mana = 7 vs difficulty 5 and 1d10[8]. That is a weak hit: downgrade 1 factor (8 − 7 = 1). You drop Detail from 1 to 0 (rough: obviously an illusion up close), hoping the guard focuses on the movement and sound rather than inspecting the frog closely.
 
 **Abilities:**
 - [ ] You can cast illusion spells to deceive others. Choose what you want to create, record the total difficulty by summing the difficulty factors, and **Cast Conclave Ritual**.
@@ -472,25 +472,25 @@ Each factor is scored 0–2. Sum all factors to get the spell difficulty (0–12
 
 | Factor | 0 | 1 | 2 |
 |---|---|---|---|
-| **Depth** | Surface nudge — momentary distraction, fleeting doubt, slight calm. | Emotional steering — fear, trust, guilt, confidence for minutes. | Directive compulsion — you plant a specific urge or instruction. |
-| **Clarity** | Vague impression — a feeling they can second-guess. | Convincing emotion or thought — they think it is their own. | Overriding priority — it dominates other concerns while it lasts. |
-| **Scope** | Single emotional axis — fear, calm, curiosity, etc. | Emotion plus a simple belief ("you can trust me," "they are watching"). | Emotion plus a specific, framed memory or interpretation. |
-| **Duration** | Seconds — enough to slip a question past their guard. | Minutes. | Up to an hour or until jolted (pain, shock, another caster). |
-| **Resistance** | Willing / unsuspecting — they want to talk, or think you are helping. | Guarded / anxious — afraid, suspicious, but not trained. | Hardened — Brotherhood-trained, fanatic, or currently terrified. |
-| **Subtlety** | Crude push — they feel pushed, may notice something is off. | Gentle guidance — they rationalize it as their own reaction. | Seamless masking — memories fill in naturally; they are sure it was all their idea. |
+| **Depth** | Surface nudge: momentary distraction, fleeting doubt, slight calm. | Emotional steering: fear, trust, guilt, confidence for minutes. | Directive compulsion: you plant a specific urge or instruction. |
+| **Clarity** | Vague impression: a feeling they can second-guess. | Convincing emotion or thought: they think it is their own. | Overriding priority: it dominates other concerns while it lasts. |
+| **Scope** | Single emotional axis: fear, calm, curiosity, etc. | Emotion plus a simple belief ("you can trust me," "they are watching"). | Emotion plus a specific, framed memory or interpretation. |
+| **Duration** | Seconds: enough to slip a question past their guard. | Minutes. | Up to an hour or until jolted (pain, shock, another caster). |
+| **Resistance** | Willing / unsuspecting: they want to talk, or think you are helping. | Guarded / anxious: afraid, suspicious, but not trained. | Hardened: Brotherhood-trained, fanatic, or currently terrified. |
+| **Subtlety** | Crude push: they feel pushed, may notice something is off. | Gentle guidance: they rationalize it as their own reaction. | Seamless masking: memories fill in naturally; they are sure it was all their idea. |
 
 **Example:** You want to gently coax information from a frightened but untrained witness for a few minutes, nudging their fear away and trust toward you.
 
-- **Depth:** 1 — Emotional steering — calm them and build trust.
-- **Clarity:** 1 — Convincing — they think it is their own feeling.
-- **Scope:** 1 — Emotion + simple belief: "you can trust me."
-- **Duration:** 1 — Minutes — long enough for a conversation.
-- **Resistance:** 1 — Guarded / anxious but not trained.
-- **Subtlety:** 1 — Gentle guidance — they rationalize it.
+- **Depth:** 1 (Emotional steering: calm them and build trust).
+- **Clarity:** 1 (Convincing: they think it is their own feeling).
+- **Scope:** 1 (Emotion + simple belief: "you can trust me.")
+- **Duration:** 1 (Minutes: long enough for a conversation).
+- **Resistance:** 1 (Guarded / anxious but not trained).
+- **Subtlety:** 1 (Gentle guidance: they rationalize it).
 
 **Total difficulty = 6**
 
-You commit 5 mana and Cast Conclave Ritual. You roll 1d6[3] + 5 mana = 8 vs difficulty 6 and 1d10[9]. That is a weak hit — downgrade 1 factor (9 − 8 = 1). You drop Subtlety from 1 to 0 (crude push). The witness calms down and talks freely, but afterward feels uneasy — something about the conversation felt off, and they may later question why they were so open with a stranger.
+You commit 5 mana and Cast Conclave Ritual. You roll 1d6[3] + 5 mana = 8 vs difficulty 6 and 1d10[9]. That is a weak hit: downgrade 1 factor (9 − 8 = 1). You drop Subtlety from 1 to 0 (crude push). The witness calms down and talks freely, but afterward feels uneasy: something about the conversation felt off, and they may later question why they were so open with a stranger.
 
 **Abilities:**
 

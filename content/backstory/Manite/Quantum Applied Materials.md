@@ -4,7 +4,7 @@ title: "Quantum Applied Materials: The Startup That Turned Nanodreams into “Ma
 
 <figure> <img src="quantum-applied-materials-color.webp" width="200" class="center"> </figure>
 
-`Quantum Applied Materials shocked the industry with an incredible announcement today as they introduced the next generation of nano materials: "manite". This is an incredible advancement of modern technology--a photonic nanomachine matrix that is moldable into any desired form. With a command "wand" stimulus, it will reassemble itself accordingly into an unlimited number of useful objects. Conductivity for power transmission, command adjectives for tensile strength, surface feel, color, opacity, etc. are literally at your fingertips. This will transform the nano landscape.`
+`Quantum Applied Materials shocked the industry with an incredible announcement today as they introduced the next generation of nano materials: "manite". This is an incredible advancement of modern technology: a photonic nanomachine matrix that is moldable into any desired form. With a command "wand" stimulus, it will reassemble itself accordingly into an unlimited number of useful objects. Conductivity for power transmission, command adjectives for tensile strength, surface feel, color, opacity, etc. are literally at your fingertips. This will transform the nano landscape.`
 
 Applied Nanotechnology Magazine
 
@@ -41,7 +41,7 @@ Founded in a cramped Sunnyvale lab by Greek-born entrepreneur **Spiros Kodounis*
 
 ## From Athens to Sunnyvale
 
-Kodounis arrived in Silicon Valley with the usual founder’s baggage: a half-finished PhD, a stack of preprints on nanophotonic energy harvesters and soft robotics, and a conviction that human beings should not spend their lives doing what machines can do better. His rhetoric echoes a growing tech narrative—that advanced automation, including AI and molecular nanotechnology, should “end human drudgery” and free people for more creative and humane work.
+Kodounis arrived in Silicon Valley with the usual founder’s baggage: a half-finished PhD, a stack of preprints on nanophotonic energy harvesters and soft robotics, and a conviction that human beings should not spend their lives doing what machines can do better. His rhetoric echoes a growing tech narrative: that advanced automation, including AI and molecular nanotechnology, should “end human drudgery” and free people for more creative and humane work.
 
 Where others saw another lab curiosity, Kodounis saw leverage. Academic work on **quantum dots, plasmonic nanoantennas, and structural color composites** showed that nanoscale structures could efficiently harvest light and manipulate it with exquisite precision. Parallel advances in **micro/nanorobotics** demonstrated that catalytic, magnetically driven, or light-driven micromotors could navigate complex environments, self-assemble, and perform tasks such as drug delivery and environmental remediation.
 
@@ -56,7 +56,7 @@ Quantum’s first breakthrough was not in magical self-replicating nanobots, but
 3. Minimal computation and local electrical interconnects.  
 4. A color-specific effector module: structural bonding, biochemical interface, energy storage, field generation, or control logic.
 
-This family of nanomachines would become **Manite™**—or “manite” in generic usage—commercially segmented into color-coded classes:
+This family of nanomachines would become **Manite™** (or “manite” in generic usage) commercially segmented into color-coded classes:
 
 - **Gray** for structural and programmable matter: tunable stiffness, shape, and structural color skins.  
 - **Azure** for biomedical repair and enhancement.  
@@ -64,7 +64,7 @@ This family of nanomachines would become **Manite™**—or “manite” in gene
 - **Verdant** for plant systems and agriculture.  
 - **Luminous** for stabilization and shielding.  
 - **Amber** for brain–computer interfacing and RF control.  
-- **Black**—a speculative concept in early internal roadmaps, and officially off the table for now—for decay and corruption functions.
+- **Black** (a speculative concept in early internal roadmaps, and officially off the table for now) for decay and corruption functions.
 
 The “mana” moniker came later, from early field engineers who saw Gray armor flow across a surface or Azure close a wound and joked that it looked like magic. QAM’s branding team leaned into it, but the underlying physics stayed grounded in the same literature driving academic nanorobotics and programmable matter: swarm coordination, structural color composites, hybrid energy harvesting, and microenergy systems.
 
@@ -72,7 +72,7 @@ The “mana” moniker came later, from early field engineers who saw Gray armor
 
 The real inflection point in Quantum’s rise was not any single manite color, but the way they **manufactured** them.
 
-Classic fears around “grey goo”—uncontrolled self-replicating nanomachines—have long shaped nanotech discourse. Eric Drexler and others have already argued that the safer, more efficient path is not free-roaming self-replicators, but **nanofactories**: fixed, powered systems where nanoscale tools build products (and additional tools) under tight control, a concept sometimes called safe exponential manufacturing.
+Classic fears around “grey goo” (uncontrolled self-replicating nanomachines) have long shaped nanotech discourse. Eric Drexler and others have already argued that the safer, more efficient path is not free-roaming self-replicators, but **nanofactories**: fixed, powered systems where nanoscale tools build products (and additional tools) under tight control, a concept sometimes called safe exponential manufacturing.
 
 Kodounis took that playbook and pushed it to its logical extreme.
 
@@ -80,9 +80,9 @@ Quantum’s early revenue came from selling specialized Gray and Crimson formula
 
 - First-generation fabs used conventional top-down processes to assemble small batches of integrated manite units.  
 - Those manites were then used as **in‑fab tools**: Gray swarms for in-situ structural tuning, Azure-like chemistries for precision surface functionalization, Crimson elements as distributed actuators and microenergy buffers.  
-- As capacity grew, Quantum introduced **autoproductive manite lines**—factory-contained manite assemblers that could build more manite modules and core nanofactory hardware, but had no autonomous ability to roam or self-direct outside their tightly specified environment.
+- As capacity grew, Quantum introduced **autoproductive manite lines**: factory-contained manite assemblers that could build more manite modules and core nanofactory hardware, but had no autonomous ability to roam or self-direct outside their tightly specified environment.
 
-The result is a controlled form of **exponential bootstrapping**: each generation of manite-enabled fabrication tools makes the next generation cheaper, faster, and more capable. Where traditional nanomaterials often struggle to achieve economically viable scale, Quantum’s vertically integrated nanofactories bend the cost curve—the more they produce, the easier it becomes to produce more.
+The result is a controlled form of **exponential bootstrapping**: each generation of manite-enabled fabrication tools makes the next generation cheaper, faster, and more capable. Where traditional nanomaterials often struggle to achieve economically viable scale, Quantum’s vertically integrated nanofactories bend the cost curve: the more they produce, the easier it becomes to produce more.
 
 Today, QAM operates a growing network of such facilities: some co-located with solar farms or hydro plants for reliable power, others buried under industrial campuses or embedded in offshore platforms.
 
@@ -92,7 +92,7 @@ As production has ramped, Quantum has invested heavily in **color specialization
 
 - **Gray Manite** has evolved from simple reconfigurable coatings into full-blown programmable-matter platforms, with structural color skins inspired by photonic crystal research and bioinspired “real-time dynamic responsive structural colors.”  
 - **Azure** is moving from laboratory wound-healing trials into systemic therapies and augmentation, building on a growing body of work in micro/nanorobots for medicine and wound management.  
-- **Crimson** rides the wave of breakthroughs in high-power, high-energy-density micro- and nanoscale storage—hybrid supercapacitors and advanced electrode materials—allowing manite swarms to carry and deliver meaningful energy in tiny volumes.  
+- **Crimson** rides the wave of breakthroughs in high-power, high-energy-density micro- and nanoscale storage (hybrid supercapacitors and advanced electrode materials) allowing manite swarms to carry and deliver meaningful energy in tiny volumes.  
 - **Luminous** and **Amber** are becoming lynchpins as QAM positions manite not just as material, but as **infrastructure**: Luminous for safety and containment, Amber as the control and communication spine linking human minds, RF networks, and local swarms.
 
 Through it all, Kodounis has maintained a consistent public line: manite is about **liberation**, not replacement.
@@ -107,8 +107,8 @@ Regulators and ethicists continue to watch closely, citing the need to manage en
 
 In the words of one industry analyst, “We’ve talked about nanotechnology changing everything for decades. Quantum is the first company that looks like it might actually pull it off.”
 
-If they succeed, future generations may grow up in a world where **roads repair themselves, bodies heal faster, fields stay green in harsher climates, and backbreaking labor is something you read about in history books**—all because trillions of tiny machines, humming just below the threshold of sight, quietly went to work.
+If they succeed, future generations may grow up in a world where **roads repair themselves, bodies heal faster, fields stay green in harsher climates, and backbreaking labor is something you read about in history books**, all because trillions of tiny machines, humming just below the threshold of sight, quietly went to work.
 
-And at the center of it will be the company that taught the world to call programmable matter “mana”—and convinced us that it could be a blessing.
+And at the center of it will be the company that taught the world to call programmable matter “mana”, and convinced us that it could be a blessing.
 
 ---

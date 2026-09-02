@@ -3,7 +3,7 @@ title: Bittercraft
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/assets/assets.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Bittercraft
 
@@ -37,5 +37,5 @@ A **flawed** poison (Craft weak-hit telltale) takes **-1** on the deploy roll.
 
 ## Fields
 
-- **Notes** — markdown
-- **Doses** — counter; max 5
+- **Notes**: markdown
+- **Doses**: counter; max 5

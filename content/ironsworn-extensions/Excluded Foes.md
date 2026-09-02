@@ -3,11 +3,11 @@ title: Excluded Foes
 ---
 
 > [!warning] Generated file
-> Built by `npm run ref` from `extensions/yrt/foes/overrides.json` in the Iron Ledger repository. Edit it there — changes made here are lost.
+> Built by `npm run ref` from `extensions/yrt/foes/overrides.json` in the Iron Ledger repository. Edit it there. Changes made here are lost.
 
 # Excluded Foes
 
-Creatures from the Ironsworn and Delve bestiaries that do **not** exist in YRT, and the reason in each case. The pattern is consistent and worth reading as a set: almost every exclusion is something that requires a soul, a spirit, a returning dead, or a god that answers — and YRT has none of those. Where a workable substitute exists it is named, and most of those substitutes are now foes in their own right.
+Creatures from the Ironsworn and Delve bestiaries that do **not** exist in YRT, and the reason in each case. The pattern is consistent and worth reading as a set: almost every exclusion is something that requires a soul, a spirit, a returning dead, or a god that answers, and YRT has none of those. Where a workable substitute exists it is named, and most of those substitutes are now foes in their own right.
 
 ## Ironsworn
 

@@ -25,7 +25,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/necrotic-sea-hare.webp" width="400" class="center"> <figcaption>A Necrotic Sea Hare — palm-sized, iridescent, and patient, trailing Black-saturated mucus across contaminated sediment.</figcaption> </figure>
 

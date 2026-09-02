@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/carrier.webp" width="400" class="center"> <figcaption>A carrier — a living person bearing an Amber compulsion-seed surgically implanted at the base of the skull, keyed to a trigger they usually do not know they carry.</figcaption> </figure>
 

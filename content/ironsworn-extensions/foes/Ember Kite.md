@@ -13,7 +13,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/ember-kite.webp" width="400" class="center"> <figcaption>An Ember Kite — a Crimson-saturated raptor whose feathers retain heat like a living forge, banking on thermals above a blight zone it has claimed as territory.</figcaption> </figure>
 

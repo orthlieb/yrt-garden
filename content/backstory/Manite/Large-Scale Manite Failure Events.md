@@ -28,7 +28,7 @@ The deployment of Manite™ (colloquially “mana”) as a structural, biomedica
 
 ## 1. Introduction
 
-Manite™—a family of color-coded, solar-rechargeable nanomachines commercialized by Quantum Applied Materials (QAM) and widely known in the field as “mana”—has become a cornerstone of post-conventional infrastructure, medicine, and defense. Gray manite enables reconfigurable structures; Azure interfaces with biological tissue; Crimson serves as a high-density energy storage and actuation layer; Verdant optimizes plant systems; Luminous provides stabilization and shielding; Amber mediates neural and radio control; and Black, officially proscribed, is associated with decay and corruption processes.
+Manite™, a family of color-coded, solar-rechargeable nanomachines commercialized by Quantum Applied Materials (QAM) and widely known in the field as “mana”, has become a cornerstone of post-conventional infrastructure, medicine, and defense. Gray manite enables reconfigurable structures; Azure interfaces with biological tissue; Crimson serves as a high-density energy storage and actuation layer; Verdant optimizes plant systems; Luminous provides stabilization and shielding; Amber mediates neural and radio control; and Black, officially proscribed, is associated with decay and corruption processes.
 
 The integration of these subsystems across urban infrastructure and living systems, while transformative, raises the specter of catastrophic failure modes reminiscent of early “gray goo” thought experiments in nanotechnology. Unlike purely speculative scenarios involving fully self-replicating nanobots, contemporary manite systems exhibit constrained replication but extensive **coordination and coupling**, making them vulnerable to systemic faults.
 
@@ -255,7 +255,7 @@ Large-scale manite failure events arise from **systemic interactions** among con
 Future work should prioritize:
 
 - Formal verification and diversity of Amber control stacks.
-- Robust physical and logical compartmentalization between colors—especially Black and Crimson.
+- Robust physical and logical compartmentalization between colors, especially Black and Crimson.
 - Universally implemented inertization pathways that can reliably convert active manite into benign composites under emergency conditions.
 
 If implemented, these measures can substantially reduce the likelihood and impact of future gray-goo-class failures in a world increasingly dependent on Manite™.

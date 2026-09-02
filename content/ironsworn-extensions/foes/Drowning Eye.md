@@ -14,7 +14,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/drowning-eye.webp" width="400" class="center"> <figcaption>A drowning eye — a vortex sustained by ruptured Azure and Luminous seeds from a lost shipment, still burning through its stockpile at the bottom of the sea.</figcaption> </figure>
 

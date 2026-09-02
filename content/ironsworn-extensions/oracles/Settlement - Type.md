@@ -3,7 +3,7 @@ title: "Settlement: Type"
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/oracles` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/oracles` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 # Settlement: Type
 

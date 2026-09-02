@@ -26,7 +26,7 @@ yrt:
 ---
 
 > [!warning] Generated file
-> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref` — changes made here are lost.
+> Built from `extensions/yrt/foes/foes.json` in the Iron Ledger repository. Edit it there and run `npm run ref`. Changes made here are lost.
 
 <figure> <img src="images/tomb-walker.webp" width="400" class="center"> <figcaption>A tomb walker — a living person inside a Gray-and-Azure life-support rig, iron-masked and lens-eyed, honouring an oath at a cost no sane person would pay.</figcaption> </figure>
 
