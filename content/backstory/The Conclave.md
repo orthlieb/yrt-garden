@@ -55,7 +55,7 @@ For a few terrifying moments, perception fractures. Sounds smear into color, the
 
 At the end of the procedure, the filigree veil has integrated directly into the body of the initiate, thus the name "Taking on the Amber Veil" for the name of the ceremony.
 
-A final test follows. A simple, inert Gray bead is placed in the initiate’s palm. Under the guidance of their sponsor, they must infuse it with a trace of Crimson and wrap it in a Luminous shell, shaping their first true mana seed by thought, gesture, and word alone. If the bead holds its form and responds to a whispered trigger—a brief flare of light, a puff of harmless warmth—the council recognizes the new bond. Oaths are sworn, names are inscribed in a Conclave ledger, and from that day on, the initiate carries Amber in their skull and debt in their soul.
+A final test follows. A simple, inert Gray bead is placed in the initiate’s palm. Under the guidance of their sponsor, they must infuse it with a trace of Crimson and wrap it in a Luminous shell, shaping their first true mana seed by thought, gesture, and word alone. If the bead holds its form and responds to a murmured trigger—a brief flare of light, a puff of harmless warmth—the council recognizes the new bond. Oaths are sworn, names are inscribed in a Conclave ledger, and from that day on, the initiate carries Amber in their skull and debt in their soul.
 
 The process is still fraught with potential failure. Some initiates, despite significant testing, cannot interface with the veil and are rejected by the Conclave as magically stunted. It is rumoured that some initiates are damaged mentally during the ceremony, having their personalities subverted and end up as functional zombies or even psychotic.
 ## Greetings

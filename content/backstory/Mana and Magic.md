@@ -385,7 +385,7 @@ Each factor is scored 0–2. Sum all factors to get the spell difficulty (0–12
 | **Structural / Intent Insight** | Broad function only — sense whether the effect is protective, harmful, sensory, healing, or corruptive. | Simple structure — identify seed-based effect, ritual pattern, crude infusion, or natural blight; educated guess at intended use. | Detailed structure — infer likely seed shapes, probable triggering conditions, and one or two concrete capabilities or limitations. |
 | **Penetration & Subtlety** | Superficial scan — easily blocked by wards or barriers; casting is unobtrusive (faint prickle at most). | Moderate penetration — read through basic concealment or light Luminous masking; sensitive targets may feel they are being looked at. | Deep probe — push through sophisticated wards or read mana in living bodies or sealed containers; obvious to other casters, may trigger alarms or backlash. |
 
-**Example:** A Disciple wants to quietly check if a street-side shrine has been marked or trapped by magic, without lighting it up like a beacon.
+**Example:** A Disciple wants to quietly check if a street-side shrine has been marked or trapped by magic, without lighting it up for everyone on the street.
 
 - **Presence & Purity:** 1 — Is there mana, and is it stable or corrupt?
 - **Color Resolution:** 1 — Broad categories.

@@ -12,13 +12,13 @@ Nysis has the sea, the iron, the timber and the blight. It is, after [[Freeport]
 
 Not in the sense a Mososi courtier means it. There is no capital, no crown that matters, no treasury, no national law, no standing force and no office anyone could petition. What there is instead is a couple of dozen towns strung along bad roads through forest, mountain and blight, each of which has spent two hundred years solving its own problems because there was never anybody else to ask.
 
-Each is ruled by an *urbestro*. He is not a local official of a national government; within a day's ride he **is** the government, entire. He raises what levies he can, keeps what watch he pays for, judges what disputes reach him, and answers in practice to nobody. How a man becomes one differs from town to town and nobody has ever tried to make the forms agree — some towns elect among their propertied men, some confirm a family that has held it for four generations, one openly sells it — and the only thing every method has in common is that the people doing the choosing are the people with something to lose. The laws of Nysis favour merchants and guilds, which is another way of saying they favour whoever the urbestro's own money comes from.
+Each is ruled by an *urbestro*. He is not a local official of a national government; within a day's ride he **is** the government, entire. He raises what levies he can, keeps what watch he pays for, judges what disputes reach him, and answers in practice to nobody. How a man becomes one differs from town to town and nobody has ever tried to make the forms agree (some towns elect among their propertied men, some confirm a family that has held it for four generations, one openly sells it) and the only thing every method has in common is that the people doing the choosing are the people with something to lose. The laws of Nysis favour merchants and guilds, which is another way of saying they favour whoever the urbestro's own money comes from.
 
 The practical consequence for anyone travelling: there is no such thing as *Nysisian law*. There are two dozen legal systems, they do not recognise each other's judgments, and a debt, a charge or a marriage that is binding in [[Collima]] may be a curiosity thirty miles down the road. Guilds exist partly to paper over exactly this, which is why the [[Ravenna|Refiner's Guild]] and the coopering and carting guilds carry weight out of all proportion to their numbers: a guild ticket is the only document in the country that means the same thing everywhere.
 
 ## The Chevayo
 
-Twice a year the urbestroy meet in a rotating town for a *chevayo* — a corral — and settle what cannot be settled locally: road upkeep, tolls, bandit seasons, disputes between towns, and the division of the country's one great shared asset.
+Twice a year the urbestroy meet in a rotating town for a *chevayo* (a corral) and settle what cannot be settled locally: road upkeep, tolls, bandit seasons, disputes between towns, and the division of the country's one great shared asset.
 
 It has no power to compel anyone. It has never had any and nobody has ever proposed giving it any. It works because every urbestro present wants it to keep working, and the reason they want that is money.
 
@@ -30,7 +30,7 @@ That payment does not go to a treasury, because there is no treasury. It is divi
 
 - Every mayor has an income that has nothing to do with his own town and cannot be taken from him by his own people. He can be unpopular indefinitely.
 - Nysisian towns are lightly taxed by regional standards, and the reason is not benevolence. A man with an outside income does not need to squeeze the people he lives among, and would rather not.
-- Any proposal to open [[Ravenna]] to a second party — a rival order, a Buralian concern, an independent combine — is an attack on every urbestro at once, and they answer as one. It is the only thing they ever do as one.
+- Any proposal to open [[Ravenna]] to a second party (a rival order, a Buralian concern, an independent combine) is an attack on every urbestro at once, and they answer as one. It is the only thing they ever do as one.
 - The blight that cuts the country in half and poisons its ground is, to the men who govern Nysis, the most reliable thing they own.
 
 Shares are set by the chevayo and are not public. Seniority, leverage, and how much trouble a given urbestro is prepared to make.
@@ -47,13 +47,13 @@ Nobody calls this a labour supply. It is called justice, it is legal, it is publ
 
 There isn't any, nationally. No army, no navy, no muster.
 
-What exists is town watches — a dozen men in a small place, a few score in Freeport — and **guard companies**, which are private, hired by the trip, and the reason anything moves through the [[Nebula Forest|Nebula]] or down the Termin road at all. Collima alone supports three. They are competent, they are not loyal to anything, and a company that has sold a caravan's route and timings to someone else has done something contemptible rather than treasonous, because there is no state to betray.
+What exists is town watches (a dozen men in a small place, a few score in Freeport) and **guard companies**, which are private, hired by the trip, and the reason anything moves through the [[Nebula Forest|Nebula]] or down the Termin road at all. Collima alone supports three. They are competent, they are not loyal to anything, and a company that has sold a caravan's route and timings to someone else has done something contemptible rather than treasonous, because there is no state to betray.
 
 This is not a problem for Nysis in the way it looks. Nobody has invaded in living memory. [[Typpe|Mososi]] cannot: it is landlocked, its quarrel is commercial, and it would have to come through Termin in front of everybody. The [[The Verdani|Verdani]] raid Ravenna and want nothing that Nysis would fight a war over. The country is not defended because it has not needed to be, and every urbestro understands that the day it does need to be will find twenty-odd towns discovering they have no mechanism for anything.
 
 ## Faith
 
-The [[Religion|Pura Ecclesia]] is strong here and strongest on the coast, and its Puritan grading — Pure, Prime, Second, Third, Feral — is the ordinary social ladder of Nysisian life. An inquisitor attends a cradle. A Touched child whose beast-nature does not match its parents' is removed. Collima will not let a Touched girl walk the open street, and that is not eccentricity, that is the mainstream.
+The [[Religion|Pura Ecclesia]] is strong here and strongest on the coast, and its Puritan grading (Pure, Prime, Second, Third, Feral) is the ordinary social ladder of Nysisian life. An inquisitor attends a cradle. A Touched child whose beast-nature does not match its parents' is removed. Collima will not let a Touched girl walk the open street, and that is not eccentricity, that is the mainstream.
 
 The Ecclesia sets the abstinence calendar that a third of the year runs on, which makes it the largest single buyer of food in the region and gives it more practical leverage over [[Piscis]] and [[Ostrea]] than any urbestro has. No mayor has ever tried to tax it and none is going to.
 
@@ -61,6 +61,6 @@ The Ecclesia sets the abstinence calendar that a third of the year runs on, whic
 
 Nothing internal. The chevayo has survived two centuries of men who despised each other because none of them wanted to lose the payment.
 
-The exposure is that the payment depends on the Conclave's ability to pay, and the Conclave's ability to pay depends on selling refined mana, and its largest customer by a wide margin is the Ecclesia — which has spent a decade quietly arranging not to need it, four hundred miles east behind a mission wall at [[Spero]].
+The exposure is that the payment depends on the Conclave's ability to pay, and the Conclave's ability to pay depends on selling refined mana, and its largest customer by a wide margin is the Ecclesia, which has spent a decade quietly arranging not to need it, four hundred miles east behind a mission wall at [[Spero]].
 
 Nobody in Nysis knows this. If the order's revenue falls, the lease payment falls, every urbestro's private income falls with it, and the only thing holding two dozen ungoverned towns together is a number getting smaller every year for reasons none of them can see. There is no institution in this country capable of noticing that in time and no procedure whatever for what happens next.

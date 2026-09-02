@@ -2,7 +2,7 @@
 title: Regional
 ---
 
-<figure> <img src="Regional Map.webp" width="400" class="center"> <figcaption>The greater region is a confluence of three realms and one city state.</figcaption> </figure>
+<figure> <img src="Regional Map.webp" width="400" class="center"> <figcaption>The greater region is a confluence of three countries and one city state.</figcaption> </figure>
 
 The greater region is graded by how far the settled world reaches: **Settled** (walls, a watch, a maintained road), **Boundary** (worked land, no standing authority), **Remote** (blight, high mountain, or country the Unmaking broke). Full location references live in [[Atlas]]; this page holds the country-level politics those places sit inside.
 

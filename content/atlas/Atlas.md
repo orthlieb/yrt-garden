@@ -1,7 +1,7 @@
 ---
 title: Atlas
 subtitle: "Location references for the greater Freeport region"
-status: Worldbuilding reference — in progress
+status: Worldbuilding reference, in progress
 ---
 
 <figure> <img src="images/Settled.Boundary.Remote.webp" width="600" class="center"> <figcaption>The greater region, graded by how far the settled world reaches.</figcaption> </figure>
@@ -10,7 +10,7 @@ status: Worldbuilding reference — in progress
 
 Thirty location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
 
-The three countries have entries of their own — [[Nysis]], [[Mososi]] and [[Buralia]] — covering how each is governed, what pays for it, and what would break it. [[Regional]] holds the oracle table and the relations between them; city-scale material for Freeport lives in [[Freeport]]. Everything else here is the *land between*, and the places the roads only pass through.
+The three countries have entries of their own ([[Nysis]], [[Mososi]] and [[Buralia]]) covering how each is governed, what pays for it, and what would break it. [[Regional]] holds the oracle table and the relations between them; city-scale material for Freeport lives in [[Freeport]]. Everything else here is the *land between*, and the places the roads only pass through.
 
 ## The Countries
 
@@ -29,14 +29,14 @@ The region is graded not by who claims it on a map but by how reliably the settl
 | Grade | Meaning |
 |---|---|
 | **Settled** | Walls, a watch, an *urbestro* or equivalent, and a road that is maintained. Law is enforceable. Someone will come looking for you. |
-| **Boundary** | Worked land — timber, charcoal, grazing, foraging — but no standing authority. Travelled in daylight and in company. Law is what your party can enforce. |
+| **Boundary** | Worked land (timber, charcoal, grazing, foraging) but no standing authority. Travelled in daylight and in company. Law is what your party can enforce. |
 | **Remote** | Blight, high mountain, or country the Unmaking left broken. Entered deliberately, by people with a reason. Nobody is coming. |
 
 The grade is a statement about **support**, not danger. Freeport will kill you as readily as the Weirden Fen. The difference is that in Freeport there is a body to bury.
 
 ---
 
-# Oracle — YRT Location
+# Oracle: YRT Location
 
 Roll 1d100.
 
@@ -67,7 +67,7 @@ Roll 1d100.
 
 ## Off-oracle entries
 
-Four places have Atlas entries but no slot on the roll, because you do not stumble into them — you go through a neighbour to get there. Roll the parent, then decide.
+Four places have Atlas entries but no slot on the roll, because you do not stumble into them: you go through a neighbour to get there. Roll the parent, then decide.
 
 | Location | Type | Reached via |
 | --- | --- | --- |
