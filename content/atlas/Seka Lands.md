@@ -34,6 +34,8 @@ South, in the low country, the pans lie white and dead flat and are the Seka's o
 
 The work is simple and brutal: the crust is scored and lifted in slabs, trimmed square, stacked to dry hard, and lashed in pairs onto donkeys for a train that goes out strung a mile long. Nobody owns the pans. The right to cut is held the same way a well is held, by mark and by memory, and the cutting seasons are staggered between clans by an arrangement nobody has ever written down and nobody has broken in living memory.
 
+The pans yield a second thing that the clans regard as a by-product and price accordingly. The saltwort that grows on the sour ground around them is cut, dried and burned, and the grey ash raked out of the pit is sold by the sack to a buyer who comes twice a year and does not explain himself. It goes to [[Vitre]], where it is half of what makes glass clear. The clans know it is worth more than they get. They have never been able to find out how much more, because the only people who could tell them are four days' travel away and stateless.
+
 What makes salt matter beyond the table is that out here it *is* money. A trimmed slab of a standard size is a known quantity — it does not spoil, it does not need an assayer, and it can be broken for change — and in the western reaches, where coin is thin and a Freeport gent means very little, prices are quoted in slabs and settled in slabs. The clans consider [[Materton]]'s merchants to be children at this. They are correct, and the merchants know it, and the exchange rate between salt and silver is negotiated fresh at every meeting by people who have been negotiating it their whole lives against people who do it twice a year.
 
 ## What Mososi Gets

@@ -30,7 +30,7 @@ Getting silver out of lead is old, slow, filthy, and completely reliable, and th
 
 The ore is smelted down to lead bullion. The bullion is then run into a **cupel** — a shallow hearth lined with bone ash, packed and smoothed by men whose only job that is — and blown with a hard draught at heat for hours. The lead oxidises. The bone ash drinks the oxide. What is left in the middle of the hearth when it is done, sitting in a dish of grey exhausted ash, is a button of silver.
 
-The oxide is not wasted; it is skimmed as **litharge** and sold on for glass and for glazes and comes back to the Oray eventually as somebody's window. The silver goes south under escort. And where the gold and silver have come out of the ground married to each other, they are parted with salt and heat in a separate operation that is jealously held by two families and is the only step in the whole business that anyone bothers to keep secret.
+The oxide is not wasted; it is skimmed as **litharge** and goes east to the glass sheds at [[Vitre]], where it makes the heavy ware that rings, and comes back to the Oray eventually as somebody's window. The silver goes south under escort. And where the gold and silver have come out of the ground married to each other, they are parted with salt and heat in a separate operation that is jealously held by two families and is the only step in the whole business that anyone bothers to keep secret.
 
 All of it needs fuel and all of it needs it constantly. There is no forest up here. What there is, in enormous quantity, is **peat** — so the smelt is fed by peat cut from the hill itself, in banks that are now visible for miles, on ground that will not carry a sheep again in the lifetime of anyone reading this.
 

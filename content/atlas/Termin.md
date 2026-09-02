@@ -6,7 +6,7 @@ title: Termin
 
 *Town · Mososi · **Settled** · Coal, and the only overland crossing that matters · pop. ~1,600, plus whoever the tariff is currently holding*
 
-**Exports** — Coal, by the wagonload, east to the Pinna smelters that cannot get enough of it. Beyond that Termin sells waiting: stabling, feed, warehousing, beds, and beer, to people who did not plan to be here this long.
+**Exports** — Coal, by the wagonload, east to the Pinna smelters that cannot get enough of it, and east a shorter way to the glass sheds at [[Vitre]] along with the fireclay that comes up from under the same seams. Beyond that Termin sells waiting: stabling, feed, warehousing, beds, and beer, to people who did not plan to be here this long.
 
 **Imports** — Pinna iron and steel moving west into Mososi. Timber down the lake from [[Fluenti]]. Grain, because the coal country grows nothing worth eating. Very little else, and that is the point.
 
@@ -18,7 +18,7 @@ The consequence is that anything valuable enough to be worth freight goes around
 
 The coal underneath gives it a floor regardless. Shallow seams run under the low ground east of town, worked by drift and adit rather than shaft — men walking in on the level, following a seam until the roof gets bad, then starting another. It is dirtier work than the Pinna iron and less respected, and it never stops. Coal dust is in the mortar, in the bread, and in the lungs of anyone who has been here twenty years.
 
-Mososi collects here through a *prefekto* appointed out of Typpe — salaried, rotated, and forbidden to be flexible. Nysis collects through an urbestro who is nobody's employee and answers to no one, and who draws a share of the Conclave's rent for Ravenna every year on top of it, for a blight he has never visited. The two officials are correct with each other and nothing more. The strip of ground between their posts is where a certain amount of commerce happens that neither country has a form for.
+Mososi collects here through a *prefekto* appointed out of Typpe — salaried, rotated, and forbidden to be flexible. Nysis collects through an urbestro who is nobody's employee and answers to no one, and who draws a share of the Conclave's rent for Ravenna every year on top of it, for a blight he has never visited. The two officials are correct with each other and nothing more. The strip of ground between their posts is where a certain amount of commerce happens that neither country has a form for, and where, for eleven years, six furnaces have been burning. [[Vitre]] is a day east and it is not in anyone's ledger: seven hundred people making the best glass in Yrt on ground that both capitals claim and neither will govern, because governing it means conceding that it could have been governed by the other. Termin sells it coal and clay and buys nothing back, and the two officials have between them never once written the name down.
 
 **Features**
 - Wagon yards full of vehicles that are not going anywhere today

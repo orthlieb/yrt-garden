@@ -8,7 +8,7 @@ status: Worldbuilding reference — in progress
 
 # Purpose
 
-Twenty-nine location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
+Thirty location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
 
 The three countries have entries of their own — [[Nysis]], [[Mososi]] and [[Buralia]] — covering how each is governed, what pays for it, and what would break it. [[Regional]] holds the oracle table and the relations between them; city-scale material for Freeport lives in [[Freeport]]. Everything else here is the *land between*, and the places the roads only pass through.
 
@@ -67,13 +67,14 @@ Roll 1d100.
 
 ## Off-oracle entries
 
-Three places have Atlas entries but no slot on the roll, because you do not stumble into them — you go through a neighbour to get there. Roll the parent, then decide.
+Four places have Atlas entries but no slot on the roll, because you do not stumble into them — you go through a neighbour to get there. Roll the parent, then decide.
 
 | Location | Type | Reached via |
 | --- | --- | --- |
 | [[Typpe]] | Settled | The Falter Bay crossing, or the road west out of [[Seka Lands]] |
 | [[Sveba]] | Settled | Boat from [[Materton]] or [[Fluenti]] |
 | [[Vulkana Caldera]] | Remote | The high road above [[Mons]] |
+| [[Vitre]] | Settled | The strip east of [[Termin]], between the two customs posts |
 
 ---
 
@@ -104,3 +105,4 @@ Three places have Atlas entries but no slot on the roll, because you do not stum
 - [x] Typpe *(off-oracle)*
 - [x] Sveba *(off-oracle)*
 - [x] Vulkana Caldera *(off-oracle)*
+- [x] Vitre *(off-oracle)*
