@@ -2,6 +2,8 @@
 title: Dronitay Shelf
 ---
 
+<figure> <img src="Dronitay Shelf.webp" width="400" class="center"> <figcaption>The drowned town at midwater, wall-tops and one squared tower, and the streets legible under the surface.</figcaption> </figure>
+
 # Dronitay Shelf
 
 *Remote · Nysis / Mososi · The drowned shelf; salvage*

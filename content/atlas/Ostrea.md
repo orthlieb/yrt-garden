@@ -2,6 +2,8 @@
 title: Ostrea
 ---
 
+<figure> <img src="Ostrea.webp" width="400" class="center"> <figcaption>Holding parks flooding at the tide, middens of shell, and the try-works smoking on the far shore.</figcaption> </figure>
+
 # Ostrea
 
 *City · Nysis · **Settled** · Oysters, whale oil, bone · pop. ~1,600 in the city, ~1,000 more along the strand*

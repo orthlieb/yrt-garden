@@ -2,6 +2,8 @@
 title: Termin
 ---
 
+<figure> <img src="Termin.webp" width="400" class="center"> <figcaption>Drift mouths in the low ground, coal in everything, and braziers burning in the street.</figcaption> </figure>
+
 # Termin
 
 *Town · Mososi · **Settled** · Coal, and the only overland crossing that matters · pop. ~1,600, plus whoever the tariff is currently holding*

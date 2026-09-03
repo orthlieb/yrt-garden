@@ -2,6 +2,8 @@
 title: Ravenna
 ---
 
+<figure> <img src="Ravenna.webp" width="400" class="center"> <figcaption>The mill, the troughs and the drying fields, fenced off inside ground that is getting wrong by degrees.</figcaption> </figure>
+
 # Ravenna
 
 *Remote · Nysis · Blight; Conclave mana extraction*

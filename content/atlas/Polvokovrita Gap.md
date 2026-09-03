@@ -2,6 +2,8 @@
 title: Polvokovrita Gap
 ---
 
+<figure> <img src="Polvokovrita Gap.webp" width="400" class="center"> <figcaption>A caravan crossing fast and not stopping, and the things half-buried in the dust that did not.</figcaption> </figure>
+
 # Polvokovrita Gap
 
 *Remote · Mososi · The dust-covered gap; the direct south-western road*

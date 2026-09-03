@@ -2,6 +2,8 @@
 title: Altiplano
 ---
 
+<figure> <img src="Altiplano.webp" width="400" class="center"> <figcaption>The city cut into the mesa, reading as texture in the cliff, with the herds on the basin below.</figcaption> </figure>
+
 # Altiplano
 
 *City · Buralia · **Settled** · Imperial capital; terraced grain, herds, records · pop. ~6,000 · off-oracle*

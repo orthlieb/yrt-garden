@@ -2,6 +2,8 @@
 title: Spero
 ---
 
+<figure> <img src="Spero.webp" width="400" class="center"> <figcaption>A mission wall far too long for the mission inside it.</figcaption> </figure>
+
 # Spero
 
 *Remote · Buralia · Blight; worked off the books*

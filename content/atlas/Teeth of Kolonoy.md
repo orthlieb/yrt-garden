@@ -2,6 +2,8 @@
 title: Teeth of Kolonoy
 ---
 
+<figure> <img src="Teeth of Kolonoy.webp" width="400" class="center"> <figcaption>Hoodoos across eleven miles of pale badland, and the ones that have already come down.</figcaption> </figure>
+
 # Teeth of Kolonoy
 
 *Remote · Mososi · Hoodoo country; wind, disorientation, old work*

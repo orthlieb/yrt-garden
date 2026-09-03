@@ -2,6 +2,8 @@
 title: Pinna Mtns
 ---
 
+<figure> <img src="Pinna Mtns.webp" width="400" class="center"> <figcaption>Slag running warm out of the adits, ore carts on braked runners, and nothing growing anywhere.</figcaption> </figure>
+
 # Pinna Mtns
 
 *Remote · Nysis · Iron, coal, smelting; the district that eats people*

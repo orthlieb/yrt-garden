@@ -2,6 +2,8 @@
 title: Piscis
 ---
 
+<figure> <img src="Piscis.webp" width="400" class="center"> <figcaption>A mile of drying racks, gull-clouds thick enough to throw a shadow, and the wall on the sea side only.</figcaption> </figure>
+
 # Piscis
 
 *City · Nysis · **Settled** · Salt fish, salt, coastal freight · pop. ~2,400*

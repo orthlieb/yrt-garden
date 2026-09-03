@@ -2,6 +2,8 @@
 title: Buralia
 ---
 
+<figure> <img src="Buralia.webp" width="400" class="center"> <figcaption>An imperial road laid straight across the cinder, and a post on it that is always manned.</figcaption> </figure>
+
 # Buralia
 
 *Empire · capital [[Altiplano]] · a real state seen only from its worst edge*

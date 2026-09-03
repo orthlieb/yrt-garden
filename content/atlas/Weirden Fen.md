@@ -2,6 +2,8 @@
 title: Weirden Fen
 ---
 
+<figure> <img src="Weirden Fen.webp" width="400" class="center"> <figcaption>Alder on stilted roots, a named channel through it, and the fruit racks of somebody's collecting round.</figcaption> </figure>
+
 # Weirden Fen
 
 *Remote · Buralia · Fruit, medicinals, fungus, eels, alder*

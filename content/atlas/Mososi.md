@@ -2,6 +2,8 @@
 title: Mososi
 ---
 
+<figure> <img src="Mososi.webp" width="400" class="center"> <figcaption>Sluice gates kept to a standard that would embarrass a shipwright, and an official writing down whose turn it is.</figcaption> </figure>
+
 # Mososi
 
 *Empire · capital [[Typpe]] · benevolent dictatorship, terraced ground, and food nobody can take away*

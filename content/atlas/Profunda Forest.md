@@ -2,6 +2,8 @@
 title: Profunda Forest
 ---
 
+<figure> <img src="Profunda Forest.webp" width="400" class="center"> <figcaption>Clan sigils cut chest-high and kept fresh, a drop-stone on the margin, and eyes holding the firelight.</figcaption> </figure>
+
 # Profunda Forest
 
 *Boundary · Nysis · Old-growth timber; the interior claimed*

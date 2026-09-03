@@ -2,6 +2,8 @@
 title: Typpe
 ---
 
+<figure> <img src="Typpe.webp" width="400" class="center"> <figcaption>The terraces catching the light one row at a time, with the flower fields in blocks of flat colour.</figcaption> </figure>
+
 # Typpe
 
 *City · Mososi · **Settled** · Tea, rice, bamboo, flowers; seat of the Imperiestro · pop. ~4,500 · off-oracle*

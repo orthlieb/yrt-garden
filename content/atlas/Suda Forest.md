@@ -2,6 +2,8 @@
 title: Suda Forest
 ---
 
+<figure> <img src="Suda Forest.webp" width="400" class="center"> <figcaption>Box cuts chipped fresh on every mature trunk, stills on this season's ground, tar running into a barrel.</figcaption> </figure>
+
 # Suda Forest
 
 *Boundary · Nysis / Mososi · Pine, pitch, tar, turpentine; the crossing nobody admits to*

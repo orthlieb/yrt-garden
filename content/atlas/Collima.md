@@ -2,6 +2,8 @@
 title: Collima
 ---
 
+<figure> <img src="Collima.webp" width="400" class="center"> <figcaption>Charcoal smoke standing straight up at dawn, and traffic on all four roads.</figcaption> </figure>
+
 # Collima
 
 *Town · Nysis · **Settled** · Charcoal, timber, waystation trade*

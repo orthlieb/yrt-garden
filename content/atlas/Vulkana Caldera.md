@@ -2,6 +2,8 @@
 title: Vulkana Caldera
 ---
 
+<figure> <img src="Vulkana Caldera.webp" width="400" class="center"> <figcaption>The young cone building itself inside the ruin of the old, with the sulphur flats cut by hand.</figcaption> </figure>
+
 # Vulkana Caldera
 
 *Remote · Buralia · Volcanic minerals, crystal; live ground · off-oracle*

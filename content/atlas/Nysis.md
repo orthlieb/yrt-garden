@@ -2,6 +2,8 @@
 title: Nysis
 ---
 
+<figure> <img src="Nysis.webp" width="400" class="center"> <figcaption>A fortified hall rather than a castle, wagons on a maintained road, and the cut coming down at the treeline.</figcaption> </figure>
+
 # Nysis
 
 *Confederation of urbestroy · no capital · richest country in the region and the least governed*

@@ -2,6 +2,8 @@
 title: Fluenti
 ---
 
+<figure> <img src="Fluenti.webp" width="400" class="center"> <figcaption>Log booms penned in the shallows, the saws going, and the cut biting into the forest upstream.</figcaption> </figure>
+
 # Fluenti
 
 *City · Nysis · **Settled** · Timber, sawmilling, river driving · pop. ~2,000*

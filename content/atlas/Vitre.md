@@ -2,6 +2,8 @@
 title: Vitre
 ---
 
+<figure> <img src="Vitre.webp" width="400" class="center"> <figcaption>Six stacks over a treeless flat, the ground white with quartz dust, and the cullet sorted by colour.</figcaption> </figure>
+
 # Vitre
 
 *Town · Claimed by Nysis and Mososi, held by neither · **Settled** · Glass, and nothing else · pop. ~700 · off-oracle*

@@ -2,6 +2,8 @@
 title: Verday Groves
 ---
 
+<figure> <img src="Verday Groves.webp" width="400" class="center"> <figcaption>Skywalks grown branch into branch, and the meadows below holding ponies and gaunts together.</figcaption> </figure>
+
 # Verday Groves
 
 *Boundary · Nysis · Verdani heartland; hardwood, seed stock, medicinal green*

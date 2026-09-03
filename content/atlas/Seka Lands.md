@@ -2,6 +2,8 @@
 title: Seka Lands
 ---
 
+<figure> <img src="Seka Lands.webp" width="400" class="center"> <figcaption>A donkey train strung out a mile, a dry watercourse, and salt stacked white in the low south.</figcaption> </figure>
+
 # Seka Lands
 
 *Boundary · Mososi · Dry grazing, salt, hides; clan law and no other kind*

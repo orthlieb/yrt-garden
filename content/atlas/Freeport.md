@@ -2,6 +2,8 @@
 title: Freeport
 ---
 
+<figure> <img src="Freeport.webp" width="400" class="center"> <figcaption>The chain up across the canal at dusk, deep-water hulls inside it and rafts waiting outside.</figcaption> </figure>
+
 # Freeport
 
 *City · City state · **Settled** · Free-trade port, triumvirate rule; the only deep harbour on this coast · pop. ~15,900*

@@ -2,6 +2,8 @@
 title: Mons
 ---
 
+<figure> <img src="Mons.webp" width="400" class="center"> <figcaption>Streets that are stairs, everything faced in black glass, and the ring of set stones out on the flat.</figcaption> </figure>
+
 # Mons
 
 *City · Buralia · **Settled** · The neutral market; obsidian, sulphur, crystal · pop. ~2,800, and twice that at a gathering*

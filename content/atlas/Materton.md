@@ -2,6 +2,8 @@
 title: Materton
 ---
 
+<figure> <img src="Materton.webp" width="400" class="center"> <figcaption>Four square miles of beds staked out on the water, worked from punts at every hour.</figcaption> </figure>
+
 # Materton
 
 *City · Mososi · **Settled** · The floating gardens; lake fish, ferries · pop. ~3,200*

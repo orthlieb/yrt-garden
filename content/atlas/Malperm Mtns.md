@@ -2,6 +2,8 @@
 title: Malperm Mtns
 ---
 
+<figure> <img src="Malperm Mtns.webp" width="400" class="center"> <figcaption>A return cairn at the line, and three expeditions' worth of gear left where it was set down.</figcaption> </figure>
+
 # Malperm Mtns
 
 *Remote · Nysis · Forbidden ground; nothing extracted*

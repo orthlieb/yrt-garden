@@ -2,6 +2,8 @@
 title: Sveba
 ---
 
+<figure> <img src="Sveba.webp" width="400" class="center"> <figcaption>Plank-walks and rope bridges between moored platforms, and lamps on the water where there is no ground at all.</figcaption> </figure>
+
 # Sveba
 
 *Floating town · Mososi · **Settled** · Deep-water fishing, reed craft, boat-building · pop. ~600 · off-oracle*

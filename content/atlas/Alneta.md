@@ -2,6 +2,8 @@
 title: Alneta
 ---
 
+<figure> <img src="Alneta.webp" width="400" class="center"> <figcaption>Alder standing in black water, and a wharf built for more traffic than four hundred people can explain.</figcaption> </figure>
+
 # Alneta
 
 *Village · Buralia · **Boundary** · Alder piling, eel, fen goods; the last landing north · pop. ~400*

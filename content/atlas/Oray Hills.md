@@ -2,6 +2,8 @@
 title: Oray Hills
 ---
 
+<figure> <img src="Oray Hills.webp" width="400" class="center"> <figcaption>Peat banks cut open across the hill, standing stones on the skyline, and a new working robbing them for stone.</figcaption> </figure>
+
 # Oray Hills
 
 *Boundary · Nysis · Upland grazing, wool, transhumance; silver, lead, gold*

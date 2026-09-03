@@ -2,6 +2,8 @@
 title: Nebula Forest
 ---
 
+<figure> <img src="Nebula Forest.webp" width="400" class="center"> <figcaption>The Unmade roadbed under the mud, a culvert that still runs, and fog between the trunks at every hour.</figcaption> </figure>
+
 # Nebula Forest
 
 *Boundary · Nysis · Charcoal, hardwoods; the Freeport road*
