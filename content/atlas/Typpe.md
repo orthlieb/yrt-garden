@@ -6,6 +6,10 @@ title: Typpe
 
 *City · Mososi · **Settled** · Tea, rice, bamboo, flowers; seat of the Imperiestro · pop. ~4,500 · off-oracle*
 
+**Type:** Capital · **Condition:** Grand · **Disposition:** Welcoming
+**First look:** Lush gardens · **Projects:** Farming · **Touchstones:** Courtesy and hospitality
+**Location:** Terraced above the water at the head of Falter Bay, east of the Seka
+
 **Exports:** Tea above all, loose and pressed, in grades from bud-picked down to the sweepings. Rice off the wet terraces. Bamboo cut and stacked by grade, which is half the region's scaffolding and all of its good baskets. And flowers, as scent, as dye, and as dried petal by the ton. A Freeport perfumer's entire stock started in a Typpe field.
 
 **Imports:** Everything that crosses the Sea of Bees, and all of it through somebody else's port. Salt fish, whale oil, iron, cordage, glass, and Conclave seed at whatever [[Freeport]] decides it costs this year.

@@ -6,6 +6,8 @@ title: Suda Forest
 
 *Boundary · Nysis / Mososi · Pine, pitch, tar, turpentine; the crossing nobody admits to*
 
+**Location:** South of the Pinna, on the sandy ridges where the hardwood gives out
+
 South of the Pinna range, where the mountains break down into long sandy ridges, the hardwood gives out and the pine takes over. The Suda is a drier, brighter, poorer forest than the [[Nebula Forest|Nebula]]: open stands of tall red-barked pine on thin soil, floored in needle litter, hot in summer and loud with insects, with the ground showing white between the trees. You can see a long way in the Suda. This is the first thing everyone notices and the reason it feels safer than it is.
 
 It is also the quietest ground in the region. A foot of needle litter takes every sound a boot makes and gives nothing back, and the insects cover what is left. The Nebula takes your eyes and leaves you your ears. The Suda does the opposite, and people who know both will tell you the Suda is worse, and cannot always say why.

@@ -6,6 +6,8 @@ title: Nebula Forest
 
 *Boundary · Nysis · Charcoal, hardwoods; the Freeport road*
 
+**Location:** The country between Collima and Freeport, fifty miles of road and no settlement
+
 The Nebula fills the country between [[Collima]] and [[Freeport]] and it is named for what sits in it. Fog gathers here and does not clear: off the Sound in the evening, up out of the ground at dawn, standing between the trunks at midday in weather that has no business producing it. Fifty miles of road run through it. Every caravan out of the north walks that road and every one of them would rather not.
 
 The near country at either end is worked to death. Collima's ovens have been eating the northern fringe for a century and the southern fringe belongs to Freeport's charcoal and firewood trade, so the first hours in either direction are stumps, coppice, buck brush and the wreckage of a forest being converted into heat. It is the middle that matters. The middle is old hardwood standing over lodgepole and dogwood, poorly mapped, and close enough to [[Ravenna]] that the wildlife is wrong.

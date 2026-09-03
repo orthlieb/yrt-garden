@@ -6,6 +6,10 @@ title: Sveba
 
 *Floating town · Mososi · **Settled** · Deep-water fishing, reed craft, boat-building · pop. ~600 · off-oracle*
 
+**Type:** Town · **Condition:** Ramshackle · **Disposition:** Welcoming
+**First look:** Connected by bridges · **Projects:** Hunting or fishing · **Touchstones:** Communal resources
+**Location:** Moored on open water off the eastern shore of Lake Mater
+
 **Exports:** Deep-water fish, the good kind, salted and fresh. Reed cane worked into rope, matting and hull sheathing. And boats: the light fast hulls Sveba builds are the best on Lake Mater and are bought by people who have never been to Sveba and would not enjoy it.
 
 **Imports:** Everything that grows in soil, and everything made of iron. Grain and greens come out from [[Materton]] daily; timber, nails, pitch and cordage come the long way round.

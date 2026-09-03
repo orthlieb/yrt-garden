@@ -6,6 +6,10 @@ title: Ostrea
 
 *City · Nysis · **Settled** · Oysters, whale oil, bone · pop. ~1,600 in the city, ~1,000 more along the strand*
 
+**Type:** City · **Condition:** Well-kept · **Disposition:** Indifferent
+**First look:** Foul stench · **Projects:** Hunting or fishing · **Touchstones:** Spirituality
+**Location:** A drowned valley on the north coast, at the head of the Nether Strand
+
 **Exports:** Oysters by the barrel, live in seawater or damp weed for the near trade, salted and pickled in casks for anywhere further. Whale oil, which lights half of Nysis. Baleen and bone, sold by the ton and worked into everything from corset stays to roof-ribs. Burnt shell lime from the middens, for mortar and for sweetening sour fields inland.
 
 **Imports:** Everything else. Grain and flour, because there is no arable ground here worth the name. Timber and barrel staves in enormous quantity, since the whole city runs on cooperage. Iron, cordage, canvas, cloth, wine, and every manufactured good, none of which Ostrea makes.

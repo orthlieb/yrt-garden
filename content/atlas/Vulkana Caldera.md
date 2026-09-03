@@ -6,6 +6,8 @@ title: Vulkana Caldera
 
 *Remote · Buralia · Volcanic minerals, crystal; live ground · off-oracle*
 
+**Location:** The broken ring standing above Mons, rim open to the west
+
 The caldera stands above [[Mons]] and is the reason Mons is there. It is enormous: a broken ring some nine miles across, its rim shattered on the western side where the great flow went out and made the terraces the city is cut into, and the ground inside it, **the Back**, a country in its own right: cinder fields, steaming ground, sulphur flats in yellow and white, and a central cone that has built itself back up inside the ruin of the old one over the last two centuries.
 
 Everything Buralia sells that is not stone comes off the Back. Volcanic glass in workable sheets from the young flows. Sulphur, cut and carried out on the backs of men because no animal will work the flats. And the crystal, grown in the vent systems on the eastern side, in cavities opened by working down through cooled rock into ground that is still warm. Almost nobody does that work by choice. The vents are run on tribute: people taken in the wars out in the country and rendered to the Gardistoy as a share of the winning, held until the Clearing frees them and replaced by the next war. A few free crews take the shafts for wages that would buy a holding, and do not last many years at it either. Crystal from Vulkana goes to the Conclave, to the Refiners' Guild, and to the Buralian court, and there is not enough of it for all three.

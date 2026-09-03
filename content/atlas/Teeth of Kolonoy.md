@@ -6,6 +6,8 @@ title: Teeth of Kolonoy
 
 *Remote · Mososi · Hoodoo country; wind, disorientation, old work*
 
+**Location:** Far to the south-west, out past the dry margin of the Seka Lands
+
 Far to the south-west, out past the dry margin of the [[Seka Lands]], the ground breaks into hoodoos. Several hundred of them stand across some eleven miles of pale badland: columns of soft banded rock, forty to two hundred feet, each one carrying a cap of harder stone that has sheltered the pillar beneath it while everything around eroded away. The banding runs in courses of cream and rust and grey, so the whole field is striped horizontally and the stripes line up across every column, which is the detail that undoes people. From a distance, along the skyline, the line of them reads as a jawbone lying on its side. The name is Mososi and the *Kolonoy* part is not a Mososi word and nobody can say whose it was.
 
 Nothing gates them and nothing has to. The Teeth are not a wall. You can walk in anywhere, between any two columns, and that is the problem. Inside the field there are no sightlines longer than a hundred yards, every column looks like every other column, the banding gives you a false horizon that is not level, and the wind is loud enough and confused enough that sound arrives from the wrong bearing. People go in and circle. The Seka clans do not enter the field at all; they read it from outside, off the sound, because certain columns at certain wind strengths give a sustained tone, and the clans have names for the individual notes and take weather from them.

@@ -6,6 +6,10 @@ title: Collima
 
 *Town · Nysis · **Settled** · Charcoal, timber, waystation trade*
 
+**Type:** Town · **Condition:** Well-kept · **Disposition:** Wary
+**First look:** At a crossroads · **Projects:** Forestry · **Touchstones:** Suspicion of outsiders
+**Location:** Where four roads meet in the low hills, fifty miles north-east of Freeport
+
 The name means *hilly*, and that is the whole of the description. Collima sits fifty miles north of Freeport in the foothills where the Pinna Mountains begin to give up, cradled in low hills that catch the evening light and hold it a while after the flats have gone dark. Two hundred souls live here. On any given night there may be four hundred people in it. The town is a knot in four roads: the ore caravans in from the Empire Mine on the Termin road west, the overland traders coming east out of Mososi, the guild traffic down from Ravenna and the small furtive share of it that has no docket, and everything that is going on to Freeport through the Nebula Forest and would rather not start that leg tired.
 
 Collima's own trade is charcoal and timber, and it is eating itself to make them. The charcoal is not ordinary fuel and Collima is not an ordinary fuel town: charcoal is the only thing that will smelt Pinna ore into iron worth the name, because coal carries sulphur and sulphur makes the metal brittle under the hammer. Termin's coal heats the district; Collima's charcoal makes the steel. That is why the smelters pay to cart a light, bulky, awkward cargo up into the hills rather than use the cheap black stuff arriving from the other direction. The ovens run in lines along the southern edge, six or eight to a holding, smoke standing up in slow columns on a still morning. The Pinna smelters are voracious and pay well and never stop, so year by year the forest slides further off, and each family's walk to the woodline gets longer and the road to it worse. The older char-burners can point out where the trees stood when they were children. It is a long way to point.

@@ -36,6 +36,27 @@ The grade is a statement about **support**, not danger. Freeport will kill you a
 
 ---
 
+---
+
+# Settlement Scale
+
+Lodestar's **Settlement: Type** oracle is rolled against the grade above, and it
+tops out at Hold. Yrt's named settlements run past it, so the larger sizes are
+not rolled: they are established places set on the map.
+
+| Type | Population | Here |
+|---|---|---|
+| **Town** | 600–2,500 | [[Termin]], [[Sveba]], [[Vitre]], [[Collima]] |
+| **City** | 2,500–6,000 | [[Ostrea]], [[Piscis]], [[Fluenti]], [[Materton]], [[Mons]] |
+| **Capital** | 6,000–10,000 | [[Typpe]], [[Altiplano]] |
+| **Free port** | ~15,900 | [[Freeport]], which is its own case: bigger than everything and fed by ship |
+
+Below Town, roll: Stead, Camp, Outpost, Hamlet, Village, Hold. [[Alneta]] is a
+Village and is the only named settlement small enough to sit on the rolled part
+of the table.
+
+---
+
 # Oracle: YRT Location
 
 Roll 1d100.

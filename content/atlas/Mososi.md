@@ -6,6 +6,8 @@ title: Mososi
 
 *Empire · capital [[Typpe]] · benevolent dictatorship, terraced ground, and food nobody can take away*
 
+**Location:** East and south of Lake Mater, from the terraces at Typpe to the dry western march
+
 Mososi is old, tidy, and governed. It has run the same terraces for three hundred years, it inspects everything, its officials are competent, and a farmer here is measurably better off than his opposite number under a Nysisian *urbestro*. It is also landlocked, dependent on a rival's port for everything that crosses the Sea of Bees, and constructed entirely around one geological accident that could stop tomorrow.
 
 ## The Quiet Fact

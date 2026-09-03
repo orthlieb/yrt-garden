@@ -6,6 +6,8 @@ title: Profunda Forest
 
 *Boundary · Nysis · Old-growth timber; the interior claimed*
 
+**Location:** The country on the southern flank of the Malperm, worked from Fluenti at its margin
+
 The Profunda is the largest unbroken forest in the region and the only one whose middle nobody has seen. It fills the country between the [[Oray Hills]] and the northern flank of the [[Malperm Mtns]], and its southern margin is worked hard: this is where [[Fluenti]]'s cut is, and the cut has been pushed further in every decade for a century. What that has produced is a graded forest: a fringe of stumps and regrowth, then twenty years of second growth, then the working face, and then, past the working face, the actual Profunda.
 
 The old growth is a different order of thing. Trees five and six feet through, standing far enough apart that the floor is open and dim and covered in a deep springy litter that takes footprints and holds them for months. Very little undergrowth. Very little sound. The canopy is high enough that weather happens above it and arrives at ground level late and softened. River-drivers who have worked the upper reaches describe it in the flattened voice people use for things they have decided not to think about, and the standing advice at Fluenti is that you may go in and you may go out but you do not stop.

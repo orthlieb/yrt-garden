@@ -6,6 +6,10 @@ title: Termin
 
 *Town · Mososi · **Settled** · Coal, and the only overland crossing that matters · pop. ~1,600, plus whoever the tariff is currently holding*
 
+**Type:** Town · **Condition:** Modest · **Disposition:** Demanding
+**First look:** Visited by large caravan or fleet · **Projects:** Mining · **Touchstones:** Adherence to authority
+**Location:** The gap between the eastern shore of Lake Mater and the foot of the Pinna
+
 **Exports:** Coal, by the wagonload, east to the Pinna smelters that cannot get enough of it, and east a shorter way to the glass sheds at [[Vitre]] along with the fireclay that comes up from under the same seams. Beyond that Termin sells waiting: stabling, feed, warehousing, beds, and beer, to people who did not plan to be here this long.
 
 **Imports:** Pinna iron and steel moving west into Mososi. Timber down the lake from [[Fluenti]]. Grain, because the coal country grows nothing worth eating. Very little else, and that is the point.

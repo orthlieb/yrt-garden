@@ -6,6 +6,10 @@ title: Mons
 
 *City · Buralia · **Settled** · The neutral market; obsidian, sulphur, crystal · pop. ~2,800, and twice that at a gathering*
 
+**Type:** City · **Condition:** Well-kept · **Disposition:** Wary
+**First look:** Boundary of standing stones · **Projects:** Trade · **Touchstones:** Strict laws
+**Location:** Terraced up the flank of the Vulkana caldera, above the Buralian ash country
+
 **Exports:** Volcanic glass: blades, prismatic cores, ground plate, and mirrors. Sulphur, pumice, and the crystal out of the high vents. Everything the fen and the ash country produce, bulked and sent west: fen fruit, medicinals, dried fungus, hides, horn, and feathers. Mons makes little and moves everything.
 
 **Imports:** Grain, cloth, iron and salt off the Freeport road, traded on for whatever comes down out of the interior.

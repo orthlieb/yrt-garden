@@ -6,6 +6,8 @@ title: Dronitay Shelf
 
 *Remote · Nysis / Mososi · The drowned shelf; salvage*
 
+**Location:** A drowned valley south of the Suda Forest, fed by every stream off the southern Pinna
+
 The Dronitay is a lake that does not behave like one. The Unmade impounded a broad shallow valley south of the [[Suda Forest]], and two hundred and thirty years later the water is still there: fifty-odd square miles of it, fed by every stream coming off the southern Pinna and the Suda country, and spilling over its southern rim in a broad shallow sheet that gathers into channels and goes down to Falter Bay. What makes it strange is the floor. It is dead level, engineered level, and the whole sheet is nowhere more than waist to chest deep. You can stand up anywhere on the Dronitay. That is the first thing anyone tells you about it and it is not the reassurance it sounds like.
 
 Because it is shallow and flat and open, the wind owns it. A day of hard southerly will pile a foot of water against the far rim and take a foot off the near one, and the margins move by hundreds of yards between morning and evening: ground that was dry at dawn is knee-deep by noon and the skiff you left is gone. Stirred water goes the colour of milky tea and stays that way for a day; on a still morning it goes clear and you can see the whole bottom, the streets, the field walls, the shapes of things that do not move. Reed beds stand in the shallows at the edges. Herons and waders work them in flocks that lift all at once for no reason anyone can see.

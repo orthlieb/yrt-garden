@@ -6,6 +6,10 @@ title: Altiplano
 
 *City · Buralia · **Settled** · Imperial capital; terraced grain, herds, records · pop. ~6,000 · off-oracle*
 
+**Type:** Capital · **Condition:** Grand · **Disposition:** Indifferent
+**First look:** Built into the terrain · **Projects:** History · **Touchstones:** Adherence to authority
+**Location:** A mesa above a cold grassy basin, south-east beyond the edge of this Atlas
+
 **Exports:** Very little that reaches this region, and nothing that reaches it recognisably. Wool and worked cloth, hardy grain, dried tuber flour, silver plate, and law: the empire's writs, licences and judgments, which travel further than any of its goods.
 
 **Imports:** Everything the high country will not grow, hauled a very long way: salt, timber, iron, sugar, oil, and such Freeport curiosities as survive the journey and arrive as gifts rather than cargo.

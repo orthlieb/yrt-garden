@@ -6,6 +6,8 @@ title: Malperm Mtns
 
 *Remote · Nysis · Forbidden ground; nothing extracted*
 
+**Location:** The high range north of the Profunda, above the treeline
+
 *Malperm* is a contraction of the old word for forbidden, and unlike most names in this region it is not poetic. The range stands over the [[Profunda Forest]] in a wall of grey rock and permanent snow, and there is iron in it, and there is timber on its lower slopes, and none of it is worked. Nysis does not forbid it. There is no ordinance, no posted edict, no patrol. The range forbids itself, and it has been doing so consistently for longer than the current arrangement of countries has existed.
 
 What happens is documented and boring and absolute. Above a certain height (which varies with the valley, which people have mapped, which does not move) travellers stop. Not violently. They arrive at a place where continuing becomes a thing they find they are not doing, turn around without deciding to, and walk back down, and when questioned afterwards give accounts that are lucid, unembarrassed, and completely unable to explain the decision. **The line** is the same for everyone. It has been the same for two hundred years. Cairns mark it in a dozen valleys, built by people who came back.

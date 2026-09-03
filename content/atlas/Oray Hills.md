@@ -6,6 +6,8 @@ title: Oray Hills
 
 *Boundary · Nysis · Upland grazing, wool, transhumance; silver, lead, gold*
 
+**Location:** North and west of Fluenti, past the last of the cut
+
 North and west of [[Fluenti]], past the last of the cut, the land stops being forest and becomes hill. The Oray is high open ground (bracken, heather, cropped turf, wind) rolling away in long grey-green swells with the bones of the rock showing through at the crests. There are no towns. There are shielings: low stone huts with turf roofs, occupied from late spring to first frost and empty the rest of the year, and a network of drove roads worn a foot deep into the ground by four generations of hooves.
 
 The Oray families come up from the lake shore each year with sheep and hardy little cattle and they come down again before the weather turns, and in between they are entirely on their own. It is not dangerous country in the way the mountains are dangerous. It is *unattended* country. If you break a leg on the Oray in high summer you may be found in a day; you may be found in a month. The herders' etiquette around this is elaborate and taken seriously: the smoke signals, the cairn marks, the standing obligation to check an unlit shieling.

@@ -6,6 +6,8 @@ title: Ravenna
 
 *Remote · Nysis · Blight; Conclave mana extraction*
 
+**Location:** Inland between the shore and the northern Pinna, north of Collima
+
 Ravenna is where the region's mana comes from and it is the price the region pays for having any. The blight covers the country either side of the lower Duforq, between the Falter Sound shore and the northern Pinna, and it is not a place so much as a gradient: the ground gets worse, the vegetation gets stranger, the animals get larger and more deliberate, and at some point along that gradient you are in it. There is no line and no gate. The road runs through and the road is the only ordinary thing on it.
 
 The Conclave holds the extraction monopoly here by state grant and pays Nysis heavily for it every year, and the monopoly is administered from three numbered Mana Refinement Sites strung along the river. **Site \#3** is the deep site and the largest. **Site \#2** is active and fortified, and its watchtowers are the first built thing most travellers see. **Site \#1** sat at the Duforq bridge and processed westward-flowing mana before river transport, and it has been abandoned since 140 SU, the Year of the Black Rain, when a trough went hard-steam and worked down into a single-lined black well and the well let go. Fourteen died where they stood. Corrosive material fell for hundreds of yards. Ninety years of Verdant reclamation have grown over the foundations in bloodthorn and the residual Black is still there and nobody has proposed reopening it. Guild hands do not discuss Site One.

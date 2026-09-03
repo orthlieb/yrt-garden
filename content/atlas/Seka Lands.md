@@ -6,6 +6,8 @@ title: Seka Lands
 
 *Boundary · Mososi · Dry grazing, salt, hides; clan law and no other kind*
 
+**Location:** South-west of Lake Mater, beyond the Polvokovrita Gap, where the rain stops
+
 South-west of Lake Mater the rain stops. Whatever the [[Polvokovrita Gap]] does to the weather coming off the water, the country beyond it gets almost none of it, and the Seka is the result: a wide, pale, open landscape of thorn scrub, wiry grass, dust, and dry watercourses that run three times a year and are the most dangerous thing in the region when they do. The horizon is very far away. There is nothing between you and it.
 
 People live here and always have, and they are not enduring it. They are extremely good at it, and they have been for longer than Mososi has been a country.

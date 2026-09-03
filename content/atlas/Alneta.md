@@ -6,6 +6,10 @@ title: Alneta
 
 *Village · Buralia · **Boundary** · Alder piling, eel, fen goods; the last landing north · pop. ~400*
 
+**Type:** Village · **Condition:** Modest · **Disposition:** Wary
+**First look:** Built over or beside water · **Projects:** Trade · **Touchstones:** Isolationism and privacy
+**Location:** The last landing on the Weirden delta, thirty miles of channel off the head of Falter Sound
+
 **Exports:** Alder piling above all: green alder, cut long, which does not rot underwater and which [[Freeport]] buys by the shipload because Freeport is built on a sinking isthmus and has been driving new piles under itself for two hundred years. Smoked eel by the barrel. Dried fen fruit, fungus in grades, and medicinals for the hospices and for whoever else is buying.
 
 **Imports:** Grain, salt, iron, cloth, cordage, oil. More of all of it than four hundred people could eat in three lifetimes, and nobody in Alneta has ever been asked to explain that.

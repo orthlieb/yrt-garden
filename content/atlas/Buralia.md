@@ -6,6 +6,8 @@ title: Buralia
 
 *Empire · capital [[Altiplano]] · a real state seen only from its worst edge*
 
+**Location:** The volcanic march south and east of the fen, reaching far beyond this Atlas to Altiplano
+
 Everything the Freeport region knows about Buralia it has learned from the western march, and the western march is to Buralia roughly what a quarry is to a country. A Freeport merchant will tell you Buralia means ash, thorn, tribes who take each other in war, obsidian, sulphur, and slaving. He is describing four hundred miles of frontier accurately and the empire not at all.
 
 ## The Two Buralias

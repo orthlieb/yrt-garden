@@ -6,6 +6,8 @@ title: Pinna Mtns
 
 *Remote · Nysis · Iron, coal, smelting; the district that eats people*
 
+**Location:** The spine of the region, Termin at its western foot and Collima at its eastern
+
 The Pinna is the spine of the region: a long range running north-west to south-east with [[Termin]] at its western foot and [[Collima]] at its eastern, and everything of value in it is underground. What sits on the surface is the cost. The ore is smelted where it comes out, because moving rock is stupid and moving iron is not, so the workings are ringed by smelters and the smelters by tailings, and the tailings have made a blistered dead country of the valley floors: slag in terraces still warm a week after tipping, water the colour of rust with nothing living in it, ground that has grown nothing in decades. Nothing is farmed in the Pinna. Every loaf eaten here came up a road.
 
 One thing does go back down it. The coal wagons that come east out of [[Termin]] would otherwise return empty, and for a decade now they have returned loaded instead: white quartz, calcite and a soft black ore picked out of the tailings by contract and carted to the glass sheds at [[Vitre]]. No smelterman can say what the third of those is for. It is waste rock; they are paid to be rid of it; and the arrangement is the only instance in the district's history of the Pinna being sold something it had already thrown away.

@@ -6,6 +6,8 @@ title: Polvokovrita Gap
 
 *Remote · Mososi · The dust-covered gap; the direct south-western road*
 
+**Location:** A rift running forty miles south-west of Termin toward the Seka Lands
+
 The name means *dust-covered*, and it is a description of the only route, not of the terrain around it. South-west of [[Termin]] the ground splits. A rift runs for some forty miles down toward the [[Seka Lands]]: walls of pale broken rock, in places a mile apart and in places close enough to throw a stone across, floored flat and level the whole way. The flat floor is what makes it a road. The reason the floor is flat is what makes it Remote.
 
 It is filled with dust. Not soil, not sand: a fine pale grey particulate, ankle-deep in the open reaches and waist-deep in the hollows, that holds no moisture, packs under a boot and then releases, and hangs in the air for an hour after anything disturbs it. The Refiners' Guild has looked at it and will tell you, without ceremony, that it is degraded Gray: programmable matter from something the Unmaking broke, ground down over two centuries into a medium that is no longer doing anything but has not stopped being what it is. It is not poison. It is not inert either. Long exposure produces the same **drift** the refinery hands know: a change in how a person thinks and feels and mends, arriving too slowly to notice from inside.

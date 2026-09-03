@@ -6,6 +6,10 @@ title: Freeport
 
 *City · City state · **Settled** · Free-trade port, triumvirate rule; the only deep harbour on this coast · pop. ~15,900*
 
+**Type:** Free port · **Condition:** Prosperous · **Disposition:** Indifferent
+**First look:** Numerous comings and goings · **Projects:** Trade · **Touchstones:** Hidden identities
+**Location:** The isthmus between Falter Bay and Falter Sound, astride the canal
+
 **Exports:** Almost nothing of its own. Freeport sells passage, storage and discretion: berthing, warehousing, bonded transit, insurance, and vaults that take coin and valuables without account or question. What leaves its docks is other people's cargo with a Freeport tally mark on it.
 
 **Imports:** Everything, and most of it does not stop. Grain, timber, iron, salt fish, tea, glass, alder piling, refined mana, and the entire output of three countries that will not trade with each other directly.

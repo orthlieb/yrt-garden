@@ -6,6 +6,8 @@ title: Spero
 
 *Remote · Buralia · Blight; worked off the books*
 
+**Location:** The eastern shore of Falter Sound, roughly opposite Ravenna
+
 Spero lies on the eastern shore of Falter Sound, in dry country roughly opposite [[Ravenna]]: a blight of comparable extent and, by the two surveys ever made of it, comparable richness. Buralia named it *Spero*, hope, in the years after the Unmaking, when it was expected to be the making of the empire. Nothing came of that. There is no river to move product on, no road that reaches it overland, and no fresh water within twenty miles to run a refinery with, and for two hundred years the name was a joke told with a particular face. That the two richest blights in the world face each other across forty miles of water, and that one of them made a Conclave and the other made nothing, is a fact Buralians raise more often than Nysisians enjoy.
 
 Two hundred years of a blight left entirely alone is not the same thing as two hundred years of a blight under management, and the difference is the whole of Spero's reputation. Ravenna's outcroppings are surveyed, claimed, fenced and drawn down. Spero's simply continued. The scrub country deep in has gone through changes with no parallel in the west; the surveys describe standing formations rather than outcroppings, both surveys use the word *structure*, and the second one, which was better funded and got further in, spends four pages being careful about what it does not mean by that. Nobody goes out that far now. There is no need to.

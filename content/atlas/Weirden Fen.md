@@ -6,6 +6,8 @@ title: Weirden Fen
 
 *Remote · Buralia · Fruit, medicinals, fungus, eels, alder*
 
+**Location:** North of the Buralian ash country, where the ground finally lets go
+
 **Exports:** Dried fen fruit by the barrel. Medicinals, sold to the Azure Mendicants at prices that fund whole platforms. Fungus, in a dozen grades from ordinary eating to preparations the Conclave has views about. Smoked eel. And alder piling, which does not rot underwater and which [[Freeport]] buys by the shipload because Freeport is built on a sinking isthmus.
 
 **Imports:** Grain, salt, iron, cloth. Everything that will not grow in standing water.

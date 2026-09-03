@@ -6,6 +6,10 @@ title: Materton
 
 *City · Mososi · **Settled** · The floating gardens; lake fish, ferries · pop. ~3,200*
 
+**Type:** City · **Condition:** Prosperous · **Disposition:** Indifferent
+**First look:** Built over or beside water · **Projects:** Farming · **Touchstones:** Rigid hierarchy
+**Location:** A headland on the western shore of Lake Mater, with its beds out on the shallows
+
 **Exports:** Food, in quantity and all year: beans, gourds, roots, greens and alliums off the young beds, grain off the old thick ones, salted lake fish, and seed stock that will not grow properly anywhere else. Materton feeds Mososi and sells the surplus to people who have no idea how it is produced.
 
 **Imports:** Timber, iron, cloth, salt, and coal. Everything that is not food.

@@ -6,6 +6,8 @@ title: Verday Groves
 
 *Boundary · Nysis · Verdani heartland; hardwood, seed stock, medicinal green*
 
+**Location:** Between the eastern flank of the Pinna and the shore of Falter Sound
+
 Between the eastern flank of the [[Pinna Mtns]] and the shore of Falter Sound lies a belt of woodland that does not look like the rest of the region's forest, because it is not forest. It is *garden*, two centuries out of true, but garden still. These were bio-preserves and estate grounds before the Unmaking, laid out by people with an intention, and the intention is still visible in the spacing of the trees, the survival of species that have no business growing together, and the way a stand ends in a line rather than a fade.
 
 This is Verdani country. Not exclusively and not by treaty, but in every way that matters on the ground: the groves sit on surviving Verdant flow, and where the Verdant runs the [[The Verdani|Verdani]] are, because their physiology runs better near it and because these places are the last of something and they know it. Passage is generally permitted and generally uneventful. It is also watched. Travellers report the specific sensation of having been looked at by something that then declined to come out, and the road north toward [[Ravenna]] carries carved boundary posts that are not decorative and are not a suggestion.
