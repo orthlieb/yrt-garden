@@ -8,7 +8,8 @@ title: Altiplano
 
 **Type:** Capital · **Condition:** Grand · **Disposition:** Indifferent
 **First look:** Built into the terrain · **Projects:** History · **Touchstones:** Adherence to authority
-**Location:** A mesa above a cold grassy basin, south-east beyond the edge of this Atlas
+**Region:** Altiplano · **Location:** Cliff
+**Location detail:** A mesa above a cold grassy basin, south-east beyond the edge of this Atlas
 
 **Exports:** Very little that reaches this region, and nothing that reaches it recognisably. Wool and worked cloth, hardy grain, dried tuber flour, silver plate, and law: the empire's writs, licences and judgments, which travel further than any of its goods.
 

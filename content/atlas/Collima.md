@@ -8,7 +8,8 @@ title: Collima
 
 **Type:** Town · **Condition:** Well-kept · **Disposition:** Wary
 **First look:** At a crossroads · **Projects:** Forestry · **Touchstones:** Suspicion of outsiders
-**Location:** Where four roads meet in the low hills, fifty miles north-east of Freeport
+**Region:** Collima · **Location:** Road
+**Location detail:** Where four roads meet in the low hills, fifty miles north-east of Freeport
 
 The name means *hilly*, and that is the whole of the description. Collima sits fifty miles north of Freeport in the foothills where the Pinna Mountains begin to give up, cradled in low hills that catch the evening light and hold it a while after the flats have gone dark. Two hundred souls live here. On any given night there may be four hundred people in it. The town is a knot in four roads: the ore caravans in from the Empire Mine on the Termin road west, the overland traders coming east out of Mososi, the guild traffic down from Ravenna and the small furtive share of it that has no docket, and everything that is going on to Freeport through the Nebula Forest and would rather not start that leg tired.
 

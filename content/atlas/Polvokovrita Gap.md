@@ -6,7 +6,8 @@ title: Polvokovrita Gap
 
 *Remote · Mososi · The dust-covered gap; the direct south-western road*
 
-**Location:** A rift running forty miles south-west of Termin toward the Seka Lands
+**Region:** Polvokovrita Gap · **Location:** Ravine
+**Location detail:** A rift running forty miles south-west of Termin toward the Seka Lands
 
 The name means *dust-covered*, and it is a description of the only route, not of the terrain around it. South-west of [[Termin]] the ground splits. A rift runs for some forty miles down toward the [[Seka Lands]]: walls of pale broken rock, in places a mile apart and in places close enough to throw a stone across, floored flat and level the whole way. The flat floor is what makes it a road. The reason the floor is flat is what makes it Remote.
 

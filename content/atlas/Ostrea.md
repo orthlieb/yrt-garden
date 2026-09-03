@@ -8,7 +8,8 @@ title: Ostrea
 
 **Type:** City · **Condition:** Well-kept · **Disposition:** Indifferent
 **First look:** Foul stench · **Projects:** Hunting or fishing · **Touchstones:** Spirituality
-**Location:** A drowned valley on the north coast, at the head of the Nether Strand
+**Region:** Ostrea · **Location:** Bay/Fjord
+**Location detail:** A drowned valley on the north coast, at the head of the Nether Strand
 
 **Exports:** Oysters by the barrel, live in seawater or damp weed for the near trade, salted and pickled in casks for anywhere further. Whale oil, which lights half of Nysis. Baleen and bone, sold by the ton and worked into everything from corset stays to roof-ribs. Burnt shell lime from the middens, for mortar and for sweetening sour fields inland.
 

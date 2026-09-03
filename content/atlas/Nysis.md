@@ -6,7 +6,8 @@ title: Nysis
 
 *Confederation of urbestroy · no capital · richest country in the region and the least governed*
 
-**Location:** The northern coastal country, from Piscis round to the Pinna
+**Region:** Nysis · **Location:** Coast
+**Location detail:** The northern coastal country, from Piscis round to the Pinna
 
 Nysis has the sea, the iron, the timber and the blight. It is, after [[Freeport]], the wealthiest country anybody here deals with, and a traveller crossing it will go four days without meeting an official of any kind. Both of those facts have the same cause.
 

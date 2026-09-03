@@ -8,7 +8,8 @@ title: Piscis
 
 **Type:** City · **Condition:** Modest · **Disposition:** Wary
 **First look:** Protected by stout walls · **Projects:** Hunting or fishing · **Touchstones:** Independence from authority
-**Location:** The north shore where Falter Sound widens into the Sea of Bees
+**Region:** Piscis · **Location:** Coast
+**Location detail:** The north shore where Falter Sound widens into the Sea of Bees
 
 **Exports:** Salt fish above all, split and salted and smoked and barrelled in brine, in quantities that feed abstinence days across three countries. Coarse salt off the pans north of the strand. Fish oil, glue, and meal. All of it goes out by sea.
 

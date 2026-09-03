@@ -8,7 +8,8 @@ title: Materton
 
 **Type:** City · **Condition:** Prosperous · **Disposition:** Indifferent
 **First look:** Built over or beside water · **Projects:** Farming · **Touchstones:** Rigid hierarchy
-**Location:** A headland on the western shore of Lake Mater, with its beds out on the shallows
+**Region:** Materton · **Location:** Lake
+**Location detail:** A headland on the western shore of Lake Mater, with its beds out on the shallows
 
 **Exports:** Food, in quantity and all year: beans, gourds, roots, greens and alliums off the young beds, grain off the old thick ones, salted lake fish, and seed stock that will not grow properly anywhere else. Materton feeds Mososi and sells the surplus to people who have no idea how it is produced.
 

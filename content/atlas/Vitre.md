@@ -8,7 +8,8 @@ title: Vitre
 
 **Type:** Town · **Condition:** Ramshackle · **Disposition:** Unwelcoming
 **First look:** Dense smoke from worksites · **Projects:** Craftwork · **Touchstones:** Rigid hierarchy
-**Location:** The strip between the two customs posts, a day's walk east of Termin
+**Region:** Termin · **Location:** Plain
+**Location detail:** The strip between the two customs posts, a day's walk east of Termin
 
 **Exports:** Glass. Bottles, jars and apothecary ware by the crate; crown quarries for leaded windows; lamp chimneys, and the thick green rounds that go into a ship's deck to light the hold. And out of four chairs in thirty, work with no competitor anywhere in Yrt: clear metal thin enough to read a page through, canes twisted into the wall of a cup, opaque white laid against colourless, lead glass that is heavy in the hand and rings when it is struck and takes a cut edge.
 

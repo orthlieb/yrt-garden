@@ -8,7 +8,8 @@ title: Sveba
 
 **Type:** Town · **Condition:** Ramshackle · **Disposition:** Welcoming
 **First look:** Connected by bridges · **Projects:** Hunting or fishing · **Touchstones:** Communal resources
-**Location:** Moored on open water off the eastern shore of Lake Mater
+**Region:** Materton · **Location:** Lake
+**Location detail:** Moored on open water off the eastern shore of Lake Mater
 
 **Exports:** Deep-water fish, the good kind, salted and fresh. Reed cane worked into rope, matting and hull sheathing. And boats: the light fast hulls Sveba builds are the best on Lake Mater and are bought by people who have never been to Sveba and would not enjoy it.
 

@@ -51,9 +51,10 @@ not rolled: they are established places set on the map.
 | **Capital** | 6,000–10,000 | [[Typpe]], [[Altiplano]] |
 | **Free port** | ~15,900 | [[Freeport]], which is its own case: bigger than everything and fed by ship |
 
-Below Town, roll: Stead, Camp, Outpost, Hamlet, Village, Hold. [[Alneta]] is a
-Village and is the only named settlement small enough to sit on the rolled part
-of the table.
+The rolled tiers are Stead, Camp, Outpost, Hamlet, Village and Hold. Hold is
+600–2,500, the same band as Town: the difference is that a Hold is rolled and a
+Town is named. [[Alneta]] is a Village, and is the only named settlement small
+enough to sit on the rolled part of the table.
 
 ---
 

@@ -6,7 +6,8 @@ title: Teeth of Kolonoy
 
 *Remote · Mososi · Hoodoo country; wind, disorientation, old work*
 
-**Location:** Far to the south-west, out past the dry margin of the Seka Lands
+**Region:** Teeth of Kolonoy · **Location:** Ridge
+**Location detail:** Far to the south-west, out past the dry margin of the Seka Lands
 
 Far to the south-west, out past the dry margin of the [[Seka Lands]], the ground breaks into hoodoos. Several hundred of them stand across some eleven miles of pale badland: columns of soft banded rock, forty to two hundred feet, each one carrying a cap of harder stone that has sheltered the pillar beneath it while everything around eroded away. The banding runs in courses of cream and rust and grey, so the whole field is striped horizontally and the stripes line up across every column, which is the detail that undoes people. From a distance, along the skyline, the line of them reads as a jawbone lying on its side. The name is Mososi and the *Kolonoy* part is not a Mososi word and nobody can say whose it was.
 

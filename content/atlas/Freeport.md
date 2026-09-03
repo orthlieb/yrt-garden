@@ -8,7 +8,8 @@ title: Freeport
 
 **Type:** Free port · **Condition:** Prosperous · **Disposition:** Indifferent
 **First look:** Numerous comings and goings · **Projects:** Trade · **Touchstones:** Hidden identities
-**Location:** The isthmus between Falter Bay and Falter Sound, astride the canal
+**Region:** Freeport · **Location:** Coast
+**Location detail:** The isthmus between Falter Bay and Falter Sound, astride the canal
 
 **Exports:** Almost nothing of its own. Freeport sells passage, storage and discretion: berthing, warehousing, bonded transit, insurance, and vaults that take coin and valuables without account or question. What leaves its docks is other people's cargo with a Freeport tally mark on it.
 

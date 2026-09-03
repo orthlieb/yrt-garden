@@ -6,7 +6,8 @@ title: Vulkana Caldera
 
 *Remote · Buralia · Volcanic minerals, crystal; live ground · off-oracle*
 
-**Location:** The broken ring standing above Mons, rim open to the west
+**Region:** Mons · **Location:** Mountain
+**Location detail:** The broken ring standing above Mons, rim open to the west
 
 The caldera stands above [[Mons]] and is the reason Mons is there. It is enormous: a broken ring some nine miles across, its rim shattered on the western side where the great flow went out and made the terraces the city is cut into, and the ground inside it, **the Back**, a country in its own right: cinder fields, steaming ground, sulphur flats in yellow and white, and a central cone that has built itself back up inside the ruin of the old one over the last two centuries.
 

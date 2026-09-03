@@ -8,7 +8,8 @@ title: Alneta
 
 **Type:** Village · **Condition:** Modest · **Disposition:** Wary
 **First look:** Built over or beside water · **Projects:** Trade · **Touchstones:** Isolationism and privacy
-**Location:** The last landing on the Weirden delta, thirty miles of channel off the head of Falter Sound
+**Region:** Weirden Fen · **Location:** Fen
+**Location detail:** The last landing on the Weirden delta, thirty miles of channel off the head of Falter Sound
 
 **Exports:** Alder piling above all: green alder, cut long, which does not rot underwater and which [[Freeport]] buys by the shipload because Freeport is built on a sinking isthmus and has been driving new piles under itself for two hundred years. Smoked eel by the barrel. Dried fen fruit, fungus in grades, and medicinals for the hospices and for whoever else is buying.
 

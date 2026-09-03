@@ -8,7 +8,8 @@ title: Termin
 
 **Type:** Town · **Condition:** Modest · **Disposition:** Demanding
 **First look:** Visited by large caravan or fleet · **Projects:** Mining · **Touchstones:** Adherence to authority
-**Location:** The gap between the eastern shore of Lake Mater and the foot of the Pinna
+**Region:** Termin · **Location:** Pass
+**Location detail:** The gap between the eastern shore of Lake Mater and the foot of the Pinna
 
 **Exports:** Coal, by the wagonload, east to the Pinna smelters that cannot get enough of it, and east a shorter way to the glass sheds at [[Vitre]] along with the fireclay that comes up from under the same seams. Beyond that Termin sells waiting: stabling, feed, warehousing, beds, and beer, to people who did not plan to be here this long.
 

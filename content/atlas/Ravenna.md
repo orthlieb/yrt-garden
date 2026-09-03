@@ -6,7 +6,8 @@ title: Ravenna
 
 *Remote · Nysis · Blight; Conclave mana extraction*
 
-**Location:** Inland between the shore and the northern Pinna, north of Collima
+**Region:** Ravenna · **Location:** Waste
+**Location detail:** Inland between the shore and the northern Pinna, north of Collima
 
 Ravenna is where the region's mana comes from and it is the price the region pays for having any. The blight covers the country either side of the lower Duforq, between the Falter Sound shore and the northern Pinna, and it is not a place so much as a gradient: the ground gets worse, the vegetation gets stranger, the animals get larger and more deliberate, and at some point along that gradient you are in it. There is no line and no gate. The road runs through and the road is the only ordinary thing on it.
 

@@ -8,7 +8,8 @@ title: Fluenti
 
 **Type:** City · **Condition:** Prosperous · **Disposition:** Indifferent
 **First look:** Built over or beside water · **Projects:** Forestry · **Touchstones:** Seasonal festivals
-**Location:** The head of Lake Mater, where the river comes down out of the Nysis forest
+**Region:** Fluenti · **Location:** River
+**Location detail:** The head of Lake Mater, where the river comes down out of the Nysis forest
 
 **Exports:** Sawn timber in every dimension the region uses: ship frames and spars for Freeport, pit props for the Pinna, roof beams, planking, shingles, and barrel staves by the thousand for the coopering towns down the coast. Fluenti sells structure.
 
