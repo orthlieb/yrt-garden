@@ -56,3 +56,15 @@ Which is why the **Woodies** of Materton are the wealthiest families in their to
 Not Nysis. The rivalry is a commercial argument conducted by two states that have never fought and cannot easily reach each other.
 
 The court's real anxieties are two, and neither is spoken aloud in the palace. The first is the succession, because none of this is an institution. It is a man, and every competent official in Typpe has thought carefully about that and none of them has written anything down. The second is the beds: what the seep does to the people who work it, over three generations, and whether the distinction between a Materton bed-family and a Verdani survives another hundred years. The court has known about it for a century, needs the food, and does not raise it.
+
+## Heraldry
+
+<figure> <img src="Mososi Arms.webp" width="200" class="center"> <figcaption>Nine green beds in a three by three grid on a gold field, the gold showing between them, and a gold tea leaf on the middle bed.</figcaption> </figure>
+
+*Or, nine billets vert three three and three, the centre charged with a tea leaf Or*
+
+The green is the terraces. The gold between them is neither decoration nor the crop: it is the channels, the gates and the walkways, which is the part of a terrace the state actually owns. Anyone can grow rice. What Mososi administers is water arriving on a schedule and everyone knowing whose turn it is, so the arms give the engineering the field and let the beds sit on top of it.
+
+Three by three is the smallest grid that has a middle. The middle bed is [[Typpe]], marked with the leaf it sells, and it is drawn the same size as the other eight. That is the claim the empire makes about itself: the Imperiestro is a bed in the grid rather than a crown above it. It is also, as the succession will eventually demonstrate, a polite fiction.
+
+Its character is that it is more often stamped than flown. It appears on gate-boards, on the weights, and at the foot of sealed documents; the cloth version is for the palace at [[Typpe]] and the frontier posts. An empire of inspectors marks things rather than parading them.

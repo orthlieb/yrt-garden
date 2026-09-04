@@ -51,7 +51,7 @@ That last part is the strangest thing on the Oray now and the thing the old peop
 
 ## Charters and Coin
 
-There is no authority on the Oray, so the charters are sold from the lake shore. [[Materton]]'s *urbestro* issues them, takes the fee, and has therefore been selling licences to poison the pasture of the families who elect him, which he does not put that way, and which is understood well enough that nobody who wants a quiet life says it in front of him either.
+There is no authority on the Oray, so the charters are sold from the lake shore. [[Fluenti]]'s *urbestro* issues them, takes the fee, and has therefore been selling licences to poison the pasture of the families who elect him, which he does not put that way, and which is understood well enough that nobody who wants a quiet life says it in front of him either.
 
 What makes the arrangement immovable is where the silver goes. It goes south to Freeport, to the Mint, and comes out stamped as **gents**, and a good part of the coin in every purse in the region began as an Oray hillside. The Conclave lays its signature on each coin as it leaves the press and is paid for doing so, which means the order has a standing interest in a trade it has nothing to do with. Between a mint, a mayor, a chartered company and an order taking a fee on every piece struck, the number of people with a reason to keep the smelt houses burning is large, and the number with a reason to care about a valley of dead lambs is one family at a time.
 
@@ -73,4 +73,4 @@ What makes the arrangement immovable is where the silver goes. It goes south to 
 > A shieling has been unlit for six days in high summer and the family that should be in it has not come down. The herders' obligation says someone must go and look. What is found there is not an accident, and the Oray has no watch, no magistrate, and no one to hand it to.
 
 **Second Quest Starter**
-> An Oray family has lost eighty head to the staggers in two summers and has worked out, correctly, which smelt is upwind of them. They cannot sue, because there is no court up here and the charter was issued at the lake. They have asked for help getting a hearing at [[Materton]]. And separately, and without saying so in the same room, two of the sons have been pricing lamp oil.
+> An Oray family has lost eighty head to the staggers in two summers and has worked out, correctly, which smelt is upwind of them. They cannot sue, because there is no court up here and the charter was issued at the lake. They have asked for help getting a hearing at [[Fluenti]]. And separately, and without saying so in the same room, two of the sons have been pricing lamp oil.

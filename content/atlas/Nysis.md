@@ -15,11 +15,11 @@ Nysis has the sea, the iron, the timber and the blight. It is, after [[Freeport]
 
 ## There Is No Nysis
 
-Not in the sense a Mososi courtier means it. There is no capital, no crown that matters, no treasury, no national law, no standing force and no office anyone could petition. What there is instead is a couple of dozen towns strung along bad roads through forest, mountain and blight, each of which has spent two hundred years solving its own problems because there was never anybody else to ask.
+Not in the sense a Mososi courtier means it. There is no capital, no crown that matters, no treasury, no national law, no standing force and no office anyone could petition. What there is instead is five towns strung along bad roads through forest, mountain and blight, each of which has spent two hundred years solving its own problems because there was never anybody else to ask. Four of them you can name: [[Piscis]], [[Ostrea]], [[Fluenti]] and [[Collima]]. The fifth is dealt with below.
 
 Each is ruled by an *urbestro*. He is not a local official of a national government; within a day's ride he **is** the government, entire. He raises what levies he can, keeps what watch he pays for, judges what disputes reach him, and answers in practice to nobody. How a man becomes one differs from town to town and nobody has ever tried to make the forms agree (some towns elect among their propertied men, some confirm a family that has held it for four generations, one openly sells it) and the only thing every method has in common is that the people doing the choosing are the people with something to lose. The laws of Nysis favour merchants and guilds, which is another way of saying they favour whoever the urbestro's own money comes from.
 
-The practical consequence for anyone travelling: there is no such thing as *Nysisian law*. There are two dozen legal systems, they do not recognise each other's judgments, and a debt, a charge or a marriage that is binding in [[Collima]] may be a curiosity thirty miles down the road. Guilds exist partly to paper over exactly this, which is why the [[Ravenna|Refiner's Guild]] and the coopering and carting guilds carry weight out of all proportion to their numbers: a guild ticket is the only document in the country that means the same thing everywhere.
+The practical consequence for anyone travelling: there is no such thing as *Nysisian law*. There are five legal systems, they do not recognise each other's judgments, and a debt, a charge or a marriage that is binding in [[Collima]] may be a curiosity thirty miles down the road. Guilds exist partly to paper over exactly this, which is why the [[Ravenna|Refiner's Guild]] and the coopering and carting guilds carry weight out of all proportion to their numbers: a guild ticket is the only document in the country that means the same thing everywhere.
 
 ## The Chevayo
 
@@ -40,6 +40,16 @@ That payment does not go to a treasury, because there is no treasury. It is divi
 
 Shares are set by the chevayo and are not public. Seniority, leverage, and how much trouble a given urbestro is prepared to make.
 
+## The Fifth Ring
+
+Four urbestroy come to the chevayo. Five shares are counted out.
+
+The fifth is drawn against a town in the far north, past the last of the road and well beyond anything this Atlas covers, and it is collected every year by a man who arrives with a proxy in order, signs a name the clerks copy without comment, and goes back the way he came. He is not always the same man. The name is not always spelled the same way.
+
+Nobody at a chevayo in living memory has been there. Nobody has refused the share either, because refusing it would mean saying out loud that the count is four, and a country whose entire constitution is the division of one payment does not open the question of how many ways it divides. So the fifth share goes north every year, and the fifth ring stays on the flag.
+
+The urbestroy of [[Piscis]] and [[Ostrea]] have each, privately, made enquiries. Neither will discuss what came back.
+
 ## Law, Debt and the Pinna
 
 What Nysis has instead of a criminal system is a labour market with a magistrate attached.
@@ -54,7 +64,7 @@ There isn't any, nationally. No army, no navy, no muster.
 
 What exists is town watches (a dozen men in a small place, a few score in Freeport) and **guard companies**, which are private, hired by the trip, and the reason anything moves through the [[Nebula Forest|Nebula]] or down the Termin road at all. Collima alone supports three. They are competent, they are not loyal to anything, and a company that has sold a caravan's route and timings to someone else has done something contemptible rather than treasonous, because there is no state to betray.
 
-This is not a problem for Nysis in the way it looks. Nobody has invaded in living memory. [[Typpe|Mososi]] cannot: it is landlocked, its quarrel is commercial, and it would have to come through Termin in front of everybody. The [[The Verdani|Verdani]] raid Ravenna and want nothing that Nysis would fight a war over. The country is not defended because it has not needed to be, and every urbestro understands that the day it does need to be will find twenty-odd towns discovering they have no mechanism for anything.
+This is not a problem for Nysis in the way it looks. Nobody has invaded in living memory. [[Typpe|Mososi]] cannot: it is landlocked, its quarrel is commercial, and it would have to come through Termin in front of everybody. The [[The Verdani|Verdani]] raid Ravenna and want nothing that Nysis would fight a war over. The country is not defended because it has not needed to be, and every urbestro understands that the day it does need to be will find five towns discovering they have no mechanism for anything.
 
 ## Faith
 
@@ -68,4 +78,14 @@ Nothing internal. The chevayo has survived two centuries of men who despised eac
 
 The exposure is that the payment depends on the Conclave's ability to pay, and the Conclave's ability to pay depends on selling refined mana, and its largest customer by a wide margin is the Ecclesia, which has spent a decade quietly arranging not to need it, four hundred miles east behind a mission wall at [[Spero]].
 
-Nobody in Nysis knows this. If the order's revenue falls, the lease payment falls, every urbestro's private income falls with it, and the only thing holding two dozen ungoverned towns together is a number getting smaller every year for reasons none of them can see. There is no institution in this country capable of noticing that in time and no procedure whatever for what happens next.
+Nobody in Nysis knows this. If the order's revenue falls, the lease payment falls, every urbestro's private income falls with it, and the only thing holding five ungoverned towns together is a number getting smaller every year for reasons none of them can see. There is no institution in this country capable of noticing that in time and no procedure whatever for what happens next.
+
+## Heraldry
+
+<figure> <img src="Nysis Arms.webp" width="200" class="center"> <figcaption>Five gold rings in a circle on a green field, with nothing in the centre.</figcaption> </figure>
+
+*Vert, five annulets Or in annulo*
+
+The green is the timber country the money used to come from. The rings are the urbestroy: equal, unjoined, and arranged around an empty middle, which is an accurate constitutional diagram and was adopted as a compromise rather than as a statement. A device with anything at the centre would have meant somebody was at the centre, and no proposal of that kind has ever survived a chevayo.
+
+It is flown on hulls and at the border posts, because ships must fly something and a customs house must hang something. At home nobody flies it. At home you fly your own town.

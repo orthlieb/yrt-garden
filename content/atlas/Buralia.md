@@ -52,3 +52,13 @@ Buralia refused the [[The Conclave|Conclave]] a concession at [[Spero]] and has 
 What it did not refuse was a church. Twelve years ago the Pura Ecclesia asked leave to put a mission in the dry interior and offered a rent for the ground it would stand on, and the empire took the rent and accepted the distinction, which is thin. At the capital it is a line in a ledger: *mission concession, worthless district, paid punctually, in silver.* Provincially it is understood that there is more behind that wall than a mission, and understood equally clearly that nobody is to write it in a report, because a report creates an obligation.
 
 What nobody in the imperial administration knows is the labour: that the works is staffed by Nysisian subjects imported by sea and worked to death inside imperial territory by a foreign institution. That is not a moral problem to anyone concerned. It is a sovereignty problem, and a far worse one than the mana ever was: the day it is said aloud, Buralia stops being the landlord who charged rent and becomes the accomplice who was paid, holding a grievance it handed [[Nysis]] for nothing.
+
+## Heraldry
+
+<figure> <img src="Buralia Arms.webp" width="200" class="center"> <figcaption>A red field, a gold chain, and one link left open.</figcaption> </figure>
+
+*Gules, a chain of seven links Or, the seventh unclosed*
+
+The red is the ash country, which is the only part of Buralia this region ever sees. The chain is what the empire is on its frontier, and the empire has never pretended otherwise. The open seventh link is the **Clearing**: six years closed and the seventh struck off, and Buralia regards that open link as the whole of its moral argument against every neighbour who has ever raised the subject.
+
+On the march the Gardistoy point at it. In [[Altiplano]] nobody thinks about it at all, because in the interior a manumission goes through a magistrate and the chain is a frontier idiom the civil service finds slightly embarrassing.

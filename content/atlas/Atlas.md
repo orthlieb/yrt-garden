@@ -16,7 +16,7 @@ The three countries have entries of their own ([[Nysis]], [[Mososi]] and [[Bural
 
 |                 | Capital       | Governed by                                                 | Held together by                                                  |
 | --------------- | ------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- |
-| **[[Nysis]]**   | none          | a couple of dozen *urbestroy*, answerable to nobody         | the Conclave's annual payment for [[Ravenna]], divided among them |
+| **[[Nysis]]**   | none          | five *urbestroy*, answerable to nobody         | the Conclave's annual payment for [[Ravenna]], divided among them |
 | **[[Mososi]]**  | [[Typpe]]     | the Imperiestro Roberto, through an unbribable inspectorate | food off [[Materton]]'s beds that no one can blockade             |
 | **[[Buralia]]** | [[Altiplano]] | an imperial civil service, weeks away and off this map      | four centuries of unbroken records                                |
 
