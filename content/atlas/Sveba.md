@@ -23,7 +23,7 @@ Sveba floats. It is a town of perhaps six hundred living on rafts, hulks, pontoo
 
 Three kinds of thing float here and they are not equivalent.
 
-**Reed platforms** are the oldest technology and the commonest. Bundles of cane are lashed into mats, mats are lashed into rafts, and the whole assembly is renewed by adding new reed on top as fast as the bottom rots away, which means a platform has no fixed age and is instead measured in *layers*, and the underside of Sveba is continuously turning into lake. A well-kept platform lasts indefinitely and has nothing original left in it. Svebans find nothing remarkable in this and outsiders find it unsettling for reasons they usually cannot articulate.
+**Reed platforms** are the oldest technology and the commonest. Bundles of cane are lashed into mats, mats are lashed into rafts, and the whole assembly is renewed by adding new reed on top as fast as the bottom rots away, which means a platform has no fixed age and is instead measured in *layers*, and the underside of Sveba is continuously turning into lake. A well-kept platform lasts indefinitely and has nothing original left in it. Svebans find nothing remarkable in this. A Materton man asked where the original platform went will get the question repeated back to him.
 
 **Hulks** are boats too worn to work, brought in, ballasted down to a comfortable trim, and built upon. A hulk is dry, it is warm, and it is what a prosperous family lives on. You can date a Sveban household by which hull it sits on.
 
@@ -43,7 +43,7 @@ The other half of the living is cane. The reed beds along the eastern margin are
 
 The cables go down into black water and somebody has to set them, check them, and cut them. That is a trade, it is well paid, it is held by four or five families, and it is the one part of Sveban life that goes deep.
 
-Materton's dredgers work the strong water over the Verdant seep and pay for it in public: the green coming up under the skin, the thickening, the slow walk, the standing out at noon with their faces turned to the sun. Sveba has always regarded this as Materton's business and has been quietly certain it was not theirs, because Svebans do not dredge and do not farm and live on the surface of water that is merely water.
+Materton's dredgers work the strong water over the Verdant seep and everybody on this lake has seen what it does to them by the third generation. Sveba has always regarded this as Materton's business and has been quietly certain it was not theirs, because Svebans do not dredge and do not farm and live on the surface of water that is merely water.
 
 The divers are the exception, and it has begun to show. Not in all of them and not quickly. But the oldest of them move the way a Materton bed-family man moves, and one of them has stopped eating meat and will not discuss it, and the town has noticed and has not decided what it thinks. Sveba has spent two hundred years being the place that does not ask. It is finding that harder than usual.
 
@@ -51,7 +51,7 @@ The divers are the exception, and it has begun to show. Not in all of them and n
 
 Sveba takes people the shore does not want (Touched, debtors, deserters, the awkward) and asks them only whether they can work a line or a pole. This is not charity and Svebans are irritated when it is described that way. It is labour policy. The result is a community that is genuinely open and genuinely closed at once: anybody may come, nobody may ask, and what Sveba decides about you is decided once and never revisited.
 
-There is no gaol here, no fine, no magistrate and nothing to lock anybody in. What there is instead is the cable, and a sanction with three degrees that everybody understands and nobody has ever written down. First you are **re-moored to the edge**, out where the walk to anywhere is long and the weather is worse. Then you are **moved below the draw**, which is exact and public and says what the town thinks of you in a way no words would. And then, rarely, the cable is **cut**, which is not vandalism and not murder and is not appealed.
+There is no gaol here, no fine, no magistrate and nothing to lock anybody in. What there is instead is the cable, and a sanction with three degrees that every child on the plank-walks can recite in order. First you are **re-moored to the edge**, out where the walk to anywhere is long and the weather is worse. Then you are **moved below the draw**, and everybody upstream of you knows it by the evening. And then, rarely, the cable is **cut**, which is not vandalism and not murder and is not appealed.
 
 The same instrument does the town's other business. Quarters re-moor after a quarrel, families re-moor to marry, and the whole settlement's layout is a map of its relationships that is redrawn continuously and never recorded. A Materton clerk who tried to make a register of Sveba gave up after two seasons, and his notes are the only survey anyone ever attempted.
 

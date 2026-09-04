@@ -34,7 +34,7 @@ The fen-folk live on platforms and in shallow-draft boats and are the only peopl
 - Fungus on drowned wood where the water never moves
 - Willow eel-traps, and smoke-houses going all season
 - Flat-bottomed boats poled down channels a shoulder wide
-- Collecting rounds inherited, walked, and never written down
+- Collecting rounds inherited, and taught by walking them
 - A channel that was not there last year, and one that no longer is
 - Coasters going home from Freeport heavier than a return leg should be
 

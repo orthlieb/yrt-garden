@@ -47,7 +47,7 @@ It also means the caravan men and the animals are undergoing the same process by
 - Grey dust ankle-deep, waist-deep in the hollows
 - Air still hazy an hour after anything passes
 - Veiled caravans moving fast and not stopping
-- Hollows that nobody camps in, agreed by everyone, explained by no one
+- Hollows that nobody camps in, and the same list of them for thirty years
 - Wind putting a wall of dust down the rift with no warning
 - Things half-buried and preserved dry: carts, bones, gear
 - No water, and no possibility of any
@@ -60,7 +60,7 @@ It also means the caravan men and the animals are undergoing the same process by
 **Second Quest Starter**
 > A Refiners' Guild man has worked out that the Gap is loading Gray into everything that lives in it, tier by tier, and wants to know how far up it has gone. He needs hide off a wyrm, and it has to come off a living one, because nobody has ever recovered a dead wyrm from the Gap: the dust covers a carcass inside a day and it is never found again. He has funding and a plan and has never set foot in the rift.
 >
-> The caravan men have refused at any price and have been polite about why, and the reason is not the wyrm. If the dust concentrates in a trog and a wyvern and a wyrm, it concentrates in a man, and drift on this route stops being exposure and becomes something that adds up over a working life. Every one of them has already done the arithmetic in his head. None of them wants it written down by somebody from Freeport.
+> The caravan men have refused at any price and have been polite about why, and the reason is not the wyrm. If the dust concentrates in a trog and a wyvern and a wyrm, it concentrates in a man, and drift on this route stops being exposure and becomes something that adds up over a working life. Every one of them has already done the arithmetic in his head. None of them wants the number from a man who will go home afterwards.
 
 **Quest Starter**
 > A caravan is overdue in the Gap and the wind has been wrong for four days. There is a window of perhaps a day and a half before it turns again. Whatever is standing out there in the dust has been standing there long enough that the question is no longer rescue, except that someone is paying as though it is.

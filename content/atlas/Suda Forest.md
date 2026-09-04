@@ -11,9 +11,9 @@ title: Suda Forest
 **Region:** Suda Forest · **Location:** Woods
 **Location detail:** South of the Pinna, on the sandy ridges where the hardwood gives out
 
-South of the Pinna range, where the mountains break down into long sandy ridges, the hardwood gives out and the pine takes over. The Suda is a drier, brighter, poorer forest than the [[Nebula Forest|Nebula]]: open stands of tall red-barked pine on thin soil, floored in needle litter, hot in summer and loud with insects, with the ground showing white between the trees. You can see a long way in the Suda. This is the first thing everyone notices and the reason it feels safer than it is.
+South of the Pinna range, where the mountains break down into long sandy ridges, the hardwood gives out and the pine takes over. The Suda is a drier, brighter, poorer forest than the [[Nebula Forest|Nebula]]: open stands of tall red-barked pine on thin soil, floored in needle litter, hot in summer and loud with insects, with the ground showing white between the trees. You can see a long way in the Suda. Crews new to it walk spread out and stop posting a watch inside a week.
 
-It is also the quietest ground in the region. A foot of needle litter takes every sound a boot makes and gives nothing back, and the insects cover what is left. The Nebula takes your eyes and leaves you your ears. The Suda does the opposite, and people who know both will tell you the Suda is worse, and cannot always say why.
+It is also the quietest ground in the region. A foot of needle litter takes every sound a boot makes and gives nothing back, and the insects cover what is left. The Nebula takes your eyes and leaves you your ears. The Suda does the opposite. Crews who have worked both will take the Nebula.
 
 ## Naval Stores
 
@@ -49,7 +49,7 @@ It has to be small, because there are no roads here and no bridges and a wagon g
 
 They come in for the season, build nothing, and leave. Chippers, dippers, kiln men, coopers, a still crew, and whoever is walking the barrels out. They are the poorest paid skilled workers in the region and they are paid better than they would be anywhere they came from.
 
-The Suda does not ask questions, and this is its one real mercy. There is no magistrate to register with, no inquisitor at any gate, no Ecclesia house within four days' walk and no reason for one to come. A Touched man who cannot get hired in [[Collima]] can chip resin in the Suda and be judged entirely on whether his trees run, and a great many of them do exactly that. It is hot, filthy, seasonal, dangerous work in a forest that periodically catches fire, and for a certain kind of person in this region it is the best offer available.
+The Suda does not ask questions. There is no magistrate to register with, no inquisitor at any gate, no Ecclesia house within four days' walk and no reason for one to come. A Touched man who cannot get hired in [[Collima]] can chip resin in the Suda and be judged entirely on whether his trees run, and a great many of them do exactly that. It is hot, filthy, seasonal, dangerous work in a forest that periodically catches fire, and for a certain kind of person in this region it is the best offer available.
 
 **Features**
 - Open stands of tall red-barked pine, white ground between

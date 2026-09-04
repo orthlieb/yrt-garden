@@ -19,7 +19,7 @@ It is live ground and it is treated as such, and it is also a god. The **Gardist
 
 The vocabulary is not metaphor to anyone who lives here, and outsiders learn it fast because everyone else is already using it. The ground inside the ring is the **Back**, because that is what it is. When the earth shakes (which it does most weeks, in small ways, and hard enough two or three times a year to bring down loose stone), **he is moving**. When ash comes down, **he has spoken**, and what he said is a matter for the Gardistoy to interpret and for nobody else to guess at aloud. A tremor is not dangerous in itself. A tremor means he has shifted his weight, and a thing that has shifted its weight may be about to get up, and that is why the Back is cleared on a tremor and not on a schedule.
 
-They are right often enough that the empire, on the rare occasions it has looked this way, has never tried to replace them with anyone more official. Between the readers' word and the ash ordinance in the city below, an entire regional economy rests on the assumption that a mountain will keep giving warning. It has, so far. The order does not describe that as luck and does not describe it as mercy either.
+They are right often enough that the empire, on the rare occasions it has looked this way, has never tried to replace them with anyone more official. Between the readers' word and the ash ordinance in the city below, an entire regional economy rests on the assumption that a mountain will keep giving warning. It has, so far. Ask a gardisto about the ones it did not warn and you will be told the dates.
 
 **Features**
 - A broken ring nine miles across, rim open to the west

@@ -25,11 +25,11 @@ It is also mana the Conclave does not control. The order's monopoly is a grant o
 
 ## The Imperiestro and the Inspectorate
 
-**Imperiestro Roberto** rules from [[Typpe]] and rules well. There is no council that could outvote him, no law he could not revise, and no procedure at all for what happens after him.
+**Imperiestro Roberto** rules from [[Typpe]] and rules well. No council can outvote him and no law binds him, and he is sixty-one.
 
 What makes it work day to day is not the man but the **inspectorate**. Everything in Mososi is inspected (leaf grade, water allocation, terrace maintenance, bamboo cuts, the count of a flower field's rows) by officials who are numerous, competent, and genuinely unbribable at the point where a farmer meets them. The system is clean where it touches ordinary people, every farmer knows it, and that is the foundation of the court's real popularity.
 
-The corruption is a level up and it is not in the enforcement. It is in the rules: who sets the season's grading standard, whose water moves in the schedule, which contract is called a strategic export. An honest inspectorate is not the opposite of a corrupt state. It is the machinery a corrupt state needs to make its decisions stick.
+The corruption is a level up and it is not in the enforcement. It is in the rules: who sets the season's grading standard, whose water moves in the schedule, which contract is called a strategic export. The inspector with the measuring stick is clean and is meant to be. He is what makes the decision above him enforceable.
 
 ## Water Is The Law
 
@@ -41,7 +41,7 @@ That is the whole of Mososi's internal politics, repeated at every scale up to t
 
 Mososi claims more than it governs and is comfortable with the difference.
 
-The [[Seka Lands|Seka]] clans acknowledge the Imperiestro's writ in principle, ignore it in practice, and invoke it selectively when they are losing an argument. [[Sveba]] floats, owns no land, pays no land tax, and has defended that technicality for two centuries. Both are tolerated for the same unromantic reason: what they produce is worth more than what governing them would cost, and both absorb people the court would otherwise have to have a policy about. A court with one genuine dependency does not go looking for arguments it would have to win.
+The [[Seka Lands|Seka]] clans acknowledge the Imperiestro's writ in principle, ignore it in practice, and invoke it selectively when they are losing an argument. [[Sveba]] floats, owns no land, pays no land tax, and has defended that technicality for two centuries. Both are tolerated for the same unromantic reason: what they produce is worth more than what governing them would cost, and both absorb people the court would otherwise have to have a policy about.
 
 ## Faith
 

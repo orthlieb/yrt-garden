@@ -56,7 +56,7 @@ What Nysis has instead of a criminal system is a labour market with a magistrate
 
 Terms at the [[Pinna Mtns|Pinna]] workings are the standard sentence for a wide range of offences, handed down at Freeport and in every town with a magistrate, and handed down freely because the mines always want bodies and everybody involved understands that they do. Debt runs the same way by a different door: a debt can be worked off at the workings, and the arithmetic of how fast is done by the company holding both the debt and the wage book.
 
-Nobody calls this a labour supply. It is called justice, it is legal, it is public, and the men who pronounce it sleep well. It is worth setting beside what the [[Religion|Ecclesia]] does quietly with its oblates, because the mechanism is identical and only one of the two is a scandal.
+The sentence is passed in open court by men who have never seen a working. It is worth setting beside what the [[Religion|Ecclesia]] does quietly with its oblates, because the mechanism is identical and only one of the two is a scandal.
 
 ## Force
 

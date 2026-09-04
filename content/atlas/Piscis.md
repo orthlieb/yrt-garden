@@ -25,7 +25,7 @@ The fish goes where the fasts are. A third of the year is abstinence, nothing wa
 
 What shapes Piscis is that it is not, in any useful sense, connected to its own country. Between the northern shore and the rest of Nysis lies [[Ravenna]], and the road that skirts it runs the blight's edge for eleven miles before it turns inland. The road exists. It is on maps. Almost nothing goes down it, because almost nothing is worth what the passage costs: a cargo has to be small, dense and enormously valuable before it is cheaper to armour a convoy and walk it past the blight than to put it on a ship and sail four days to Freeport. Such convoys happen perhaps twice a year and are remembered by name. Everything else goes by water.
 
-So the northern shore is a pocket. Piscis and [[Ostrea]] have each other, sixty miles of coast road between them, and the sea; and they have Freeport, which is where their fish goes and where their grain and iron and cloth come from. Ostrea has the deep water and no hinterland worth the word; Piscis has the shallows and the lighters and must handle everything twice. Neither is sufficient and both know it, and two centuries of needing each other has produced a relationship of total dependence and constant irritation.
+So the northern shore is a pocket. Piscis and [[Ostrea]] have each other, sixty miles of coast road between them, and Freeport four days down the Sound. Everything else is a decision about whether a cargo is worth the blight road, and twice a year something is.
 
 ## The Wild Ground
 
@@ -35,7 +35,7 @@ The **Verdani** are the ones you can reason with. They come out of the green cou
 
 The **Broken** are what the blight makes of people over time. Work gangs that walked off, camps that were never recovered, families three generations out there now who have never seen a wall. Drift taken past the point where it stops being a change in how a man thinks and becomes what he is. They are not a tribe and have no purpose beyond the immediate; they come in when the season is bad, take what is portable, and go. The Watch does not pursue them far, because pursuit means going into the ground that made them.
 
-Everyone on this shore keeps a watch and everyone knows the bell. Raids are not a season and not a war. They are a fact of the place, like the weather off the Sound, and are planned around with the same weary competence.
+Everyone on this shore keeps a watch and everyone knows the bell. Raids are not a season and not a war. They are a fact of the place, like the weather off the Sound, and the shutters are built for both.
 
 ## The Banks
 

@@ -43,7 +43,7 @@ The clans fight each other constantly and have done for six generations: holding
 
 Running with the inheritance is a nervous quirk: an unusual sensitivity to ambient **Crimson**, and to the smell of fresh blood, which together produce a rising, narrowing, physically insistent state that is very hard to stop once it has started. Nobody transforms. It is closer to the first second of a real fight, sustained, amplified, and arriving without permission.
 
-Holding it back is the central discipline of varou life and the thing children are raised into before anything else. A kill is bled and dressed far out by people whose particular business that is. A cut hand is taken outside before anybody looks at it. Their manners around injury would strike a stranger as either exquisite or deranged, and they are the accumulated etiquette of a people for whom a domestic accident can end a household. They also do not go near blight, ever, since Crimson pools at a fringe, which is why the varou have no interest whatever in [[Ravenna]] and never will.
+Holding it back is the central discipline of varou life and the thing children are raised into before anything else. A kill is bled and dressed far out by people whose particular business that is. A cut hand is taken outside before anybody looks at it. A stranger would take their manners around injury for extreme courtesy and be half right. They are the accumulated etiquette of a people for whom a domestic accident can end a household. They also do not go near blight, ever, since Crimson pools at a fringe, which is why the varou have no interest whatever in [[Ravenna]] and never will.
 
 And in war they let it go on purpose.
 
@@ -51,7 +51,7 @@ That is the part outsiders do not survive learning. A varou raiding party comes 
 
 ## What Fluenti Calls Trade
 
-At three or four places along the margin there are drops: a flat stone, a split trunk, a stump nobody has cut. A Fluenti woodsman leaves salt, iron, needles, cloth, worked tools, and once a year a great deal of good rope. He comes back in four days and it is gone, and there are furs, or honey, or resin, or a piece of deep-stand timber that would make a shipwright weep.
+At three or four places along the margin there are drops: a flat stone, a split trunk, a stump nobody has cut. A Fluenti woodsman leaves salt, iron, needles, cloth, worked tools, and once a year a great deal of good rope. He comes back in four days and it is gone, and there are furs, or honey, or resin, or a length of deep-stand timber with no knot in forty feet.
 
 Fluenti calls this trade and has called it that for a century, and it is not. It is a licence, renewed annually, on ground the varou consider theirs and are allowing to be cut. The cut has advanced a mile a decade because a mile a decade is what has been permitted, one silent negotiation at a time, by a counterparty Fluenti has never met and does not believe exists.
 
