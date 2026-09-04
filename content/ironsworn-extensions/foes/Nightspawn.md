@@ -17,7 +17,7 @@ yrt:
 <figure> <img src="images/nightspawn.webp" width="400" class="center"> <figcaption>Nightspawn</figcaption> </figure>
 
 ## Features
-- Mutated <a class="oracle-link" data-oracle="monstrosityPrimaryForm">form</a>, <a class="oracle-link" data-oracle="monstrositySize">size</a>, <a class="oracle-link" data-oracle="monstrosityCharacteristics">characteristics</a>
+- Mutated form, size, characteristics
 
 ## Drives
 - Guard against intruders
@@ -25,7 +25,7 @@ yrt:
 - Endure beyond memory
 
 ## Tactics
-- Varied <a class="oracle-link" data-oracle="monstrosityAbilities">ability</a>
+- Varied ability
 
 ## Description
 What we call the nightspawn are mutated beasts which take a variety of forms. Some are animal-like, or combine the characteristics of different creatures. Others are bizarre aberrations seemingly born of chaos. A few even possess twisted mockeries of human features.
