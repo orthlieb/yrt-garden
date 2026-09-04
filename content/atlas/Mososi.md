@@ -68,3 +68,8 @@ The green is the terraces. The gold between them is neither decoration nor the c
 Three by three is the smallest grid that has a middle. The middle bed is [[Typpe]], marked with the leaf it sells, and it is drawn the same size as the other eight. That is the claim the empire makes about itself: the Imperiestro is a bed in the grid rather than a crown above it. It is also, as the succession will eventually demonstrate, a polite fiction.
 
 Its character is that it is more often stamped than flown. It appears on gate-boards, on the weights, and at the foot of sealed documents; the cloth version is for the palace at [[Typpe]] and the frontier posts. An empire of inspectors marks things rather than parading them.
+
+**Motto:** *Akvo lauvice.* Water in its turn.
+
+Cut into the sluice gates, stamped on the brass weights, set at the head of every allocation schedule the inspectorate issues. To a farmer on the eighth step it is a promise, and it is kept: his water comes. To anyone who has watched a run scheduled two weeks late in a dry year it is also a complete account of how this country is governed, which is that nothing here is ever refused. It is sequenced.
+

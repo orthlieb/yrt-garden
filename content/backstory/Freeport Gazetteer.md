@@ -87,6 +87,11 @@ A tidal basin (some 310 ft in diameter) sits near the south end of town to ensur
 <figure> <img src="./images/Freeport Arms.webp" width="200" class="center"> <figcaption>Azure, a mermaid argent stantant facing sinister</figcaption> </figure>
 
 The field of the shield is azure (light blue), symbolizing loyalty, truth, and the sea. The charge is a mermaid argent (rendered in silver or white), emblematic of Freeport’s maritime heritage, allure, and the city’s elusive, protective spirit.
+
+**Motto:** *Liber Liberum Significat.* Freedom means Free.
+
+It is struck on every coin the Mint issues (see [[Currency and Prices]]) and it is a customs term before it is a philosophy: goods in transit pay nothing, and a man who arrives with money and no history is under the same rule. Freeport did not inherit the Latin. It bought it, along with the mermaid, from a herald who was paid to give a two-hundred-year-old trading camp a pedigree, and every other country in the region knows exactly where it came from.
+
 ## Town Guards
 ```mermaid
 flowchart LR

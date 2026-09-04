@@ -89,3 +89,8 @@ Nobody in Nysis knows this. If the order's revenue falls, the lease payment fall
 The green is the timber country the money used to come from. The rings are the urbestroy: equal, unjoined, and arranged around an empty middle, which is an accurate constitutional diagram and was adopted as a compromise rather than as a statement. A device with anything at the centre would have meant somebody was at the centre, and no proposal of that kind has ever survived a chevayo.
 
 It is flown on hulls and at the border posts, because ships must fly something and a customs house must hang something. At home nobody flies it. At home you fly your own town.
+
+**Motto:** *What we agree, we agree.*
+
+The chevayo that adopted the arms considered four mottoes and carried this one. The three that failed all contained a verb somebody could later be held to. It went onto the customs boards and the stern boards along with the rings, and a Freeport clerk reading it at the head of a tariff schedule will tell you it means the confederation honours its contracts. It means the confederation honours the contracts it has already honoured. Nysisians find this funny and have never explained it, because the misunderstanding has been worth money for two hundred years.
+

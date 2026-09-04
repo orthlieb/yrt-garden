@@ -55,10 +55,23 @@ What nobody in the imperial administration knows is the labour: that the works i
 
 ## Heraldry
 
-<figure> <img src="Buralia Arms.webp" width="200" class="center"> <figcaption>A red field, a gold chain, and one link left open.</figcaption> </figure>
+<figure> <img src="Buralia Arms.webp" width="200" class="center"> <figcaption>A gold band across the top carrying one red star, and below it a gold chain of seven links hung with the last one broken.</figcaption> </figure>
 
-*Gules, a chain of seven links Or, the seventh unclosed*
+*Gules, on a chief Or a mullet gules, in base a chain of seven links Or hung as a swag, the seventh broken*
 
-The red is the ash country, which is the only part of Buralia this region ever sees. The chain is what the empire is on its frontier, and the empire has never pretended otherwise. The open seventh link is the **Clearing**: six years closed and the seventh struck off, and Buralia regards that open link as the whole of its moral argument against every neighbour who has ever raised the subject.
+The red is the ash country, which is the only part of Buralia this region ever sees. The chain is what the empire is on its frontier, and the empire has never pretended otherwise. It hangs the way a chain hangs on a man and not the way a chain is laid out for inspection.
 
-On the march the Gardistoy point at it. In [[Altiplano]] nobody thinks about it at all, because in the interior a manumission goes through a magistrate and the chain is a frontier idiom the civil service finds slightly embarrassing.
+It is also a count rather than an ornament. Seven links, six of them closed and the seventh broken: the **jubilee cycle**, which is the archive's word for it and which the archive can date back further than anyone on the frontier would credit. Nobody on the march says jubilee. They say the **Clearing**, they say it in the seventh year, and Buralia regards that broken link as the whole of its moral argument against every neighbour who has ever raised the subject.
+
+The gold band across the top is the high country, which is to say the reason there is an empire at all. Everything below it went into the Unmaking and came out as ash and committees and a trading camp on a sinking isthmus. The band did not.
+
+The star is the emperor. It is drawn in the red of the mesa that [[Altiplano]] is cut out of, which is the same red the ash country is drawn in, and the heralds at the capital have never once agreed to separate the two. One country, one stone. Beyond that the design says what it means to say and nothing else: one charge on the band, no crown, no supporters, and the band above the chain. The march has never needed that last part explained to it.
+
+Set it beside [[Mososi]], where the Imperiestro is one bed among nine and drawn the same size as the other eight. Buralia has never wanted that fiction and does not have the vocabulary to make it.
+
+In Altiplano nobody looks at the chain, because in the interior a manumission goes through a magistrate and everything below the band is a frontier idiom the civil service finds slightly embarrassing. What a civil servant will tell you about, at length and without being asked, is the band.
+
+**Motto:** *The record stands.*
+
+Four words in the old spelling, cut over the archive doors at [[Altiplano]] and set at the head of every writ the empire issues. In the heartland it is procedure and means precisely what it says: a dispute is settled by looking it up, and the book does not change because you have arrived with an opinion. On the march it is heard as a threat, and the Gardistoy have never corrected the impression. Neither reading takes account of the corollary, which is that the empire knows what somebody wrote down and nothing else whatever, and that the [[Spero]] file reads *mission concession, worthless district, paid punctually, in silver*.
+
