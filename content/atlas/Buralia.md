@@ -71,7 +71,9 @@ Set it beside [[Mososi]], where the Imperiestro is one bed among nine and drawn 
 
 In Altiplano nobody looks at the chain, because in the interior a manumission goes through a magistrate and everything below the band is a frontier idiom the civil service finds slightly embarrassing. What a civil servant will tell you about, at length and without being asked, is the band.
 
-**Motto:** *The record stands.*
+**Motto:** *Not without danger.*
 
-Four words in the old spelling, cut over the archive doors at [[Altiplano]] and set at the head of every writ the empire issues. In the heartland it is procedure and means precisely what it says: a dispute is settled by looking it up, and the book does not change because you have arrived with an opinion. On the march it is heard as a threat, and the Gardistoy have never corrected the impression. Neither reading takes account of the corollary, which is that the empire knows what somebody wrote down and nothing else whatever, and that the [[Spero]] file reads *mission concession, worthless district, paid punctually, in silver*.
+Cut over the archive doors at [[Altiplano]] and set at the foot of every licence, concession and grant the empire issues, where it is not sentiment. It is a clause. The empire permits a thing; the empire does not indemnify it.
+
+On the march it is read as a warning and the march takes it as one, because nothing out here is held safely and passage is granted, bought or taken. In the heartland it is read as a description of how the country got here, which is by being high up when the rest of the world went wrong and by knowing perfectly well that it might not have been. The [[Spero]] concession carries the clause at the foot of it. Twelve years of rent have arrived punctually underneath it and nobody at the capital has ever read it as anything but a form of words.
 

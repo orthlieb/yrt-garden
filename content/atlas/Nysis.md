@@ -94,3 +94,13 @@ It is flown on hulls and at the border posts, because ships must fly something a
 
 The chevayo that adopted the arms considered four mottoes and carried this one. The three that failed all contained a verb somebody could later be held to. It went onto the customs boards and the stern boards along with the rings, and a Freeport clerk reading it at the head of a tariff schedule will tell you it means the confederation honours its contracts. It means the confederation honours the contracts it has already honoured. Nysisians find this funny and have never explained it, because the misunderstanding has been worth money for two hundred years.
 
+That chevayo is minuted, because Ostrea's clerk minuted everything, and four proposals are on the sheet.
+
+*We keep our word*, from Ostrea, died in the hour. Five towns with no common court and no way of compelling one another had been asked to put a promise on a flag, and every man in the room could see the first Freeport creditor stiffed at Collima carrying that flag into a hearing and reading it out. A confederation that cannot be sued should not be quotable.
+
+*Five shares, five towns*, from Fluenti, who was smallest that year and wanted the count fixed before it got smaller. It states a number nobody wants a foreigner holding and implies the shares are equal, which they are not and were not then. It is also the only proposal that mentioned the money. The chevayo does not mention the money.
+
+*Pure and free*, from Collima, who meant it. Fluenti observed that it puts the Ecclesia in the middle of a device built to have nothing in the middle, and that Fluenti sells timber to Mososi without asking what grade the buyer's children are. Collima has not proposed anything since.
+
+The fourth is not attributed to anyone. It carried four to nothing, the fifth ring's proxy signed under it the way the proxy signs under everything, and the men who were in the room have been dead a hundred and seventy years.
+
