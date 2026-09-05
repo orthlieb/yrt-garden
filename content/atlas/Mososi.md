@@ -6,7 +6,7 @@ title: Mososi
 
 # Mososi
 
-*Empire · capital [[Typpe]] · benevolent dictatorship, terraced ground, and food nobody can take away*
+*Directorate · capital [[Typpe]] · benevolent dictatorship, terraced ground, and food nobody can take away*
 
 **Region:** Mososi · **Location:** Fields
 **Location detail:** East and south of Lake Mater, from the terraces at Typpe to the dry western march
@@ -25,7 +25,19 @@ It is also mana the Conclave does not control. The order's monopoly is a grant o
 
 ## The Direktor and the Inspectorate
 
-**Direktor Roberto** rules from [[Typpe]] and rules well. No council can outvote him and no law binds him, and he is sixty-one.
+**Direktor Roberto** rules from [[Typpe]] and rules well. No council can
+outvote him and no law binds him, and he is sixty-one. The title is a post and
+the country insists on the distinction: a Direktor administers, he does not
+reign, and what he is understood to be administering is *the process*.
+
+The truth is a dictatorship and everybody in Typpe knows its shape. The office
+will pass to Roberto's eldest child, sex immaterial, and there is no ambiguity
+whatever about who that is. There is also nothing written. A Directorate that
+set down a rule of succession would be conceding that a directorship can be
+inherited, which is the one thing the whole apparatus exists to avoid saying,
+so the rule lives where everything important in Mososi lives: in the heads of
+officials who have thought about it carefully and put none of it on paper. The
+archive holds the count of a flower field's rows. On this it holds nothing.
 
 What makes it work day to day is not the man but the **inspectorate**. Everything in Mososi is inspected (leaf grade, water allocation, terrace maintenance, bamboo cuts, the count of a flower field's rows) by officials who are numerous, competent, and genuinely unbribable at the point where a farmer meets them. The system is clean where it touches ordinary people, every farmer knows it, and that is the foundation of the court's real popularity.
 
@@ -36,6 +48,33 @@ The corruption is a level up and it is not in the enforcement. It is in the rule
 The terraces are the country's actual constitution. Water enters at the top of a run and goes down in the only order it can, so a farmer at the eighth step is at the mercy of what happens at the third. Nobody steals water (everybody downhill would know within the hour), but a run **scheduled** two weeks late in a dry year is not theft, is not appealable, and will cost a family its crop.
 
 That is the whole of Mososi's internal politics, repeated at every scale up to the court. Nobody in this country has ever needed to threaten anybody.
+
+## What It Does Abroad
+
+Mososi is the best diplomat in the region and does not look like one, because
+it negotiates the way it does everything else: slowly, in writing, through
+officials who will be posted elsewhere in three years and whose files will not.
+It has never fought anybody. It runs a tariff war with [[Nysis]] it is not
+obviously winning and can afford indefinitely, depends on a port it has never
+once asked to own, and has an arrangement to the east that the Freeport region
+has entirely failed to notice.
+
+**Senjor Roberto is married to Raina, and Raina is the Buralian Emperor's
+daughter.**
+
+She came west off the grass twenty-two years ago, red-haired, raised in a court
+that travels and settles arguments by riding at them, into the most
+process-bound state in the known world. Typpe has stopped expecting her to
+take. She keeps the twelve, openly, in an Optime country, which is possible
+only because Optimes do not grade people and would be unthinkable across the
+lake in [[Nysis]]. Officials asked to describe her choose their words and take
+their time about it.
+
+What the marriage buys is in no treaty. Nysis and [[Freeport]] have taken a
+hundred and forty years of [[Buralia]] at face value (ash, thorn, slaving, four
+hundred miles away) and neither has done the arithmetic on a Direktor whose
+children are an Emperor's grandchildren, in a country that cannot be starved,
+holding the only overland road that matters.
 
 ## The Edges It Does Not Administer
 
@@ -55,7 +94,7 @@ Which is why the **Woodies** of Materton are the wealthiest families in their to
 
 Not Nysis. The rivalry is a commercial argument conducted by two states that have never fought and cannot easily reach each other.
 
-The court's real anxieties are two, and neither is spoken aloud in the palace. The first is the succession, because none of this is an institution. It is a man, and every competent official in Typpe has thought carefully about that and none of them has written anything down. The second is the beds: what the seep does to the people who work it, over three generations, and whether the distinction between a Materton bed-family and a Verdani survives another hundred years. The court has known about it for a century, needs the food, and does not raise it.
+The court's real anxieties are two, and neither is spoken aloud in the palace. The first is the succession, which is not a mystery but has never been tested: the office has never once changed hands, the rule that governs it is not written anywhere, and the child it will pass to has a Buralian mother and the Emperor's colouring. What Mososi calls a process is a habit that has held for one lifetime. The second is the beds: what the seep does to the people who work it, over three generations, and whether the distinction between a Materton bed-family and a Verdani survives another hundred years. The court has known about it for a century, needs the food, and does not raise it.
 
 ## Heraldry
 

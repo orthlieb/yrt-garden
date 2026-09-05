@@ -27,6 +27,11 @@ The Unmaking left the grass alone, because there was nothing on the grass worth 
 
 The empire is not a territory. It is an itinerary. The **Emperor** travels, and the court travels with him: the whole retinue, the clerks, the herds, the cages, a moving city that arrives in a region, settles whatever is in front of it, and goes on. Opposition is crushed rather than negotiated, and where a people has been beaten a **governor** is left standing in the ash of the argument, holding exactly the authority he can enforce and no more. There is no appeal from a governor, because there is nothing above him nearer than the Emperor, and the Emperor is four hundred miles away and moving.
 
+The court also leaves marriages. An Emperor with a great many children and a
+domain he cannot garrison places them the way he places governors, and the
+placements go into the ledger with the same care as the tribute. The one this
+region would care about, if it had noticed, is in [[Typpe]].
+
 He comes back to the mesas for the calving. Every year, without exception, the whole court turns for the heartland when the herds drop their young, and every year the regions he is not in learn again how much of the empire was the man standing in it.
 
 ## The Records

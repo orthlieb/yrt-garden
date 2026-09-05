@@ -285,15 +285,35 @@ them, and inside a generation their rite has an imperial verse in it. Not to
 be confused with Mososi's *Direktor*, who has one palace and never leaves
 it.
 
+**Raina, Senjora.** Consort of the Direktor and daughter of the Buralian
+Emperor, come west off the grass twenty-two years ago and not noticeably
+improved by [[Typpe]]. Red-haired, raised in a court that travels, and openly
+Wildens in an Optime capital, which is survivable only because Optimes do not
+grade people. Her eldest daughter is the heir to the Directorate and the
+Emperor's granddaughter, and outside Typpe almost nobody has done that
+arithmetic.
+
+**Senjor, Senjora.** Mososi courtesy style, the man rather than the post. The
+Direktor is *Direktor Roberto* in a document and *Senjor Roberto* to his face,
+and a country that draws that line carefully draws every line carefully.
+
 **Governor.** In Buralia, the man the court leaves standing when it moves on.
 He holds exactly the authority he can enforce and there is no appeal from him,
 because the nearest thing above him is four hundred miles away and travelling.
 
 **Direktor.** The ruler of [[Mososi]], currently Roberto. The title is the
-country in one word: not a crown but a post, held by a man who governs through
-an inspectorate and whose claim on the office is that the process runs. It has
-no procedure at all for what happens after him, which is the one thing in
-Mososi that was never written down.
+country in one word: not a crown but a post, held by a man who administers
+rather than reigns and whose claim on the office is that the process runs. The
+office nonetheless passes to his eldest child, sex immaterial, and nothing to
+that effect has ever been written, because writing it concedes that a
+directorship can be inherited. In a state that records the count of a flower
+field's rows, that is the one file which does not exist.
+
+**Directorate.** Mososi's form of government, and a courtesy extended to it by
+everyone who deals with it. A benevolent dictatorship that administers itself
+so well, and so visibly, that the distinction is worth maintaining. Set beside
+Buralia, which is an Empire and says so, and [[Nysis]], which is five towns
+and a payment.
 
 **The itinerary.** The empire's actual constitution: the order in which the
 court crosses its own domain, and therefore which regions have seen the

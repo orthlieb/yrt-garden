@@ -53,7 +53,9 @@ Roberto governs well. This is not court flattery and travellers who arrive expec
 
 What pays for it is the lake. [[Materton]]'s beds feed this country through any bad year it is likely to have, which means the Direktor has never once had to choose between feeding his people and keeping them. A ruler who cannot be starved into anything and cannot starve anybody either can afford to be reasonable, and Roberto has spent a reign being exactly that.
 
-Two things sit underneath and neither is discussed at court. The first is what the beds cost the people who work them, which the court has known about for a century, needs the food, and does not raise. The second is that none of this is an institution. It is a man. There is no council that could outvote him, no law he could not revise, and no procedure whatever for what happens after. Every competent official in Typpe has thought carefully about the succession and none of them has written anything down. This is a city that records the count of a flower field's rows.
+Two things sit underneath and neither is discussed at court. The first is what the beds cost the people who work them, which the court has known about for a century, needs the food, and does not raise. The second is that none of this is an institution. It is a man. There is no council that could outvote him and no law he could not revise, and while everyone knows the office goes to his eldest child, sex immaterial, nobody has written that down, because writing it down concedes that a directorship is a thing a person can inherit. This is a city that records the count of a flower field's rows and holds nothing at all on the succession.
+
+The eldest is a daughter. Her mother is **Senjora Raina**, who came off the Buralian grass twenty-two years ago and has not been improved by Typpe, and who keeps the twelve in an Optime capital because Optimes do not grade people and nobody has yet been willing to be the official who raises it. The girl has her mother's hair. The court has had two decades to get used to that and a Freeport factor working out what it means would need about a minute.
 
 ## The Thing About Freeport
 
