@@ -101,6 +101,20 @@ mirror "$VAULT/YRT/Ironsworn Extensions/" content/ironsworn-extensions/ '.obsidi
 echo "→ home page  ← $VAULT/YRT/Home.md"
 cp "$VAULT/YRT/Home.md" content/index.md
 
+# The favicon and the link-preview card. Quartz serves these out of
+# quartz/static/, which is its own directory rather than content, so without
+# this step they would be the one thing on the site hand-edited in this repo.
+# The vault holds the masters in YRT/Brand and this copies them over.
+echo "→ brand  ← $VAULT/YRT/Brand  (favicon, link-preview card)"
+for asset in icon.png og-image.png; do
+  src="$VAULT/YRT/Brand/$asset"
+  if [ ! -f "$src" ]; then
+    echo "✗ missing $src — the garden needs it for quartz/static/$asset" >&2
+    exit 1
+  fi
+  cp "$src" "quartz/static/$asset"
+done
+
 echo "→ titles  (kebab-case filenames -> readable page titles)"
 node prepare-content.mjs
 
