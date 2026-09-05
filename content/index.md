@@ -15,6 +15,7 @@ medieval on top of the wreckage and call the old world's leavings magic.
 - [[The Conclave]] · [[The Brotherhood]] · [[The Verdani]]
 - [[Religion]] · [[Language]] · [[Government]]
 - [[Currency and Prices|Currency & Prices]]
+- [[Glossary]]: the words this world uses, and who uses them
 
 ## Places
 
