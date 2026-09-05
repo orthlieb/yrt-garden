@@ -90,7 +90,7 @@ The field of the shield is azure (light blue), symbolizing loyalty, truth, and t
 
 **Motto:** *Liber Liberum Significat.* Freedom means Free.
 
-It is struck on every coin the Mint issues (see [[Currency and Prices]]) and it is a customs term before it is a philosophy: goods in transit pay nothing, and a man who arrives with money and no history is under the same rule. Freeport did not inherit the Latin. It bought it, along with the mermaid, from a herald who was paid to give a two-hundred-year-old trading camp a pedigree, and every other country in the region knows exactly where it came from.
+It is struck on every coin the Mint issues (see [[Currency and Prices]]) and it is a customs term before it is a philosophy: goods in transit pay nothing, and a man who arrives with money and no history is under the same rule. The term has always meant the goods and never the hull under them. A barge going straight through from Falter Bay to Falter Sound is assessed no duty on a single crate of its cargo, and pays the berthing chit, the inspection, the clerk's hour over the manifest, the exit chit, the flag code and the lowering of the chain, and pays warehousing besides if the tide turns before its slot comes up. Freeport charges for the passage. It does not charge for the cargo, and it will tell you so at length. Freeport did not inherit the Latin. It bought it, along with the mermaid, from a herald who was paid to give a two-hundred-year-old trading camp a pedigree, and every other country in the region knows exactly where it came from.
 
 ## Town Guards
 ```mermaid

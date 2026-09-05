@@ -35,4 +35,4 @@ These gigantic creatures are a menace in woodlands throughout the Ironlands. Des
 
 ## In YRT
 
-In YRT: a giant spider — Verdant-tinted gigantism, otherwise a normal arachnid. Iridescent black eyes come from trace Amber/Gray in the lens tissue, not functionally magical.
+In YRT: a giant spider — Azure-tinted gigantism, otherwise a normal arachnid. Iridescent black eyes come from trace Amber/Gray in the lens tissue, not functionally magical.

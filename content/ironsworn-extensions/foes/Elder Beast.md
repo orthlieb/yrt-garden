@@ -32,4 +32,4 @@ Elder beasts—wolves, bears and boars—are huge, monstrous versions of their c
 
 ## In YRT
 
-In YRT: oversized wolves, bears, or boars gestated near a stable long-standing blight zone. Verdant drives the size and longevity; trace Crimson gives the red-glowing eyes. The 'avatars of the old gods, long-lived as trees' is folk belief.
+In YRT: oversized wolves, bears, or boars gestated near a stable long-standing blight zone. Azure drives the size and longevity; trace Crimson gives the red-glowing eyes. The 'avatars of the old gods, long-lived as trees' is folk belief.

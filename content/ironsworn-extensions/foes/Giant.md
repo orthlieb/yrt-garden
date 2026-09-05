@@ -38,4 +38,4 @@ Many Ironlanders misinterpret their quiet nature for dullness, but giants are ke
 
 ## In YRT
 
-In YRT: an unusually tall humanoid species, or a mountain-adapted subculture of humans. If you want biological flavour, regional Verdant exposure produces larger humans over generations — same explanation as elder beasts.
+In YRT: an unusually tall humanoid species, or a mountain-adapted subculture of humans. If you want biological flavour, regional Azure exposure produces larger humans over generations — same explanation as elder beasts.

@@ -35,4 +35,4 @@ In the Old World, wild boars were belligerent and dangerous animals. Here in the
 
 ## In YRT
 
-In YRT: an oversized aggressive pig. If the size wants explaining, mild Verdant in the local environment produces oversized wildlife generally — the same explanation covers elder beasts, gnarls, and mammoths in the same region.
+In YRT: an oversized aggressive pig. If the size wants explaining, mild Azure in the local environment produces oversized wildlife generally — the same explanation covers elder beasts, gnarls, and mammoths in the same region.

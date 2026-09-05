@@ -21,7 +21,11 @@ Mososi has a coast and cannot use it, and every piece of that country's foreign 
 
 [[Typpe]] sits terraced above the head of the Bay in a long descending stair of paddy and tea garden, and the approach by boat is the best view in the country. Barges work down to it from the Seka road and up from the flats. The ferry traffic across to the [[Materton]] side of the isthmus is constant. There is a genuine maritime economy on this water: hulls, wharves, pilots, chandlers, a customs house at the Typpe quay that assesses goods with the usual Mososi thoroughness.
 
-And none of it reaches the [[Sea of Bees]]. Every rope, nail, salt fish and seed that crosses the open sea to reach [[Typpe]] comes through Freeport's canal, pays Freeport nothing for the passage, and arrives having been handled by a city that has never once had to ask for the privilege. Freeport charges no transit duty on goods merely passing through, and does not have to, because the alternative does not exist.
+And none of it reaches the [[Sea of Bees]] without going through Freeport, which charges for it. Every rope, nail, salt fish and seed that crosses the open sea to reach [[Typpe]] comes up the canal, and there is a bill at the end of the canal.
+
+The motto on Freeport's coinage says goods in transit pay nothing. That is true, and it is about the goods. No clerk at Dock Walk assesses a duty on Mososi grain for being Mososi grain in the wrong water. What is charged is the passage. The berthing chit, the inspection, the clerk's hour over the manifest, the exit chit, the flag code, and the chain coming down at Stewing Cross: six charges on a hull that has bought and sold nothing in the city, and warehousing on top of them if the tide turns before the gate does. The tally is made against the hull and not the cargo, so a barge that comes through light pays what a barge that comes through loaded pays. Freeport names the figure. There is no second gate.
+
+Mososi has arranged itself around that arithmetic with the thoroughness it brings to everything else. Nothing crosses part-loaded. The Typpe quay holds cargo until there is a full hull's worth of it and a tide to carry it, which is why the barges come up the Bay in a body of nine or ten and then nothing comes for four days.
 
 The court at Typpe resents this in private and has organised an entire foreign policy around never admitting it in public. The tariff war at [[Termin]] is partly about Nysis and substantially about this: it lets Mososi be seen refusing something.
 
@@ -41,6 +45,7 @@ It is also where a boat goes that would rather not be counted. A shallow-draft h
 - Punts out for eel and wildfowl, and reed cut in stacks along the shore
 - Every hull on it that has never seen the open sea, and never will
 - The canal at the top, and the fact that it is the only way out
+- A Freeport chit itemised down to the flag code, and the coin counted out against it
 
 **Quest Starter**
 > A Mososi customs launch has stopped a shallow-draft hull in the reeds forty miles south of the ferry lanes and found it empty, clean, and provisioned for a fortnight. The prefekt who ordered the stop wants to know who it belongs to, and the register at the Typpe quay says it was broken up eleven years ago. Somebody has been running something the length of this water for over a decade in a boat that does not exist, and the Bay only goes one place.

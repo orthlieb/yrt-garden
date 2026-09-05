@@ -40,4 +40,4 @@ As a last resort, a chitter may attack by spewing the contents of its stomach in
 
 ## In YRT
 
-In YRT: a blight-adapted giant insect. Verdant drives the scale-up, Azure the chitin regeneration and digestive-slurry vomit, faint Amber the twittering call used for spatial mapping. Grey-brown carapace, yellowish vomit.
+In YRT: a blight-adapted giant insect. Azure drives the scale-up, chitin regeneration, and digestive-slurry vomit; faint Amber the twittering call used for spatial mapping. Grey-brown carapace, yellowish vomit.
