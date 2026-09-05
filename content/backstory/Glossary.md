@@ -1,0 +1,440 @@
+---
+title: Glossary
+subtitle: "The words this world uses, and who uses them"
+status: Worldbuilding reference, in progress
+---
+
+# Glossary
+
+Most of these words are two hundred and thirty years old or younger. The
+Unmaking took the vocabulary of an industrial civilisation with it and left
+the survivors naming things again from scratch, so a great deal of what
+follows was coined by somebody working: a refinery hand, a clerk, a herder, a
+mayor who needed a word for what he was.
+
+Register matters as much as meaning. A Conclave maester and a raker at
+[[Ravenna]] use the same nouns for the same objects and would not recognise
+each other's sentences. Where a term belongs to one trade or one country,
+that is noted. Where the educated and the working use different words for the
+same year or the same illness, both are given. See [[Language]] for how far
+the whole thing has drifted.
+
+---
+
+## The Fall and the Reckoning
+
+**BU.** *Before the Unmaking.* Used only by people reading pre-Fall documents,
+and counted backwards: the [[1. Introduction|Manite Introduction]] is dated 29
+BU.
+
+**The Fall.** The common word for the Unmaking, and the older of the two. Used
+by everybody; preferred by the [[Religion|Ecclesia]], which reads it as a
+sentence passed rather than an accident.
+
+**Site One.** The abandoned refinement site at the Duforq bridge in
+[[Ravenna]], where in 140 SU a trough went hard-steam, worked down into a
+single-lined black well, and the well let go. Fourteen died where they stood.
+Guild hands do not discuss it.
+
+**SU.** *Since the Unmaking.* The educated dating system. Year 0 is the
+Unmaking; the present is 230 SU.
+
+**The Unmade.** The people of the pre-Fall world, and by extension anything
+they built. A road, a culvert, a levelled footprint in the turf: if it is
+older than the Fall and nobody now can make it, it is Unmade work.
+
+**The Unmaking.** The event, in 0 SU, that took an industrial civilisation
+apart in a matter of months. What it left is programmable matter nobody can
+manufacture, blight that will not clear, and a population that rebuilt
+something medieval on top of the wreckage.
+
+**Year-names.** The working class dates by event rather than by number: *the
+Year of the Black Rain* (142 SU), *the Year of the Long Frost*, *the Year the
+Walls Wept*. Both systems are current and neither is going away.
+
+**YRT.** In the [[Religion|Puritan]] and Optime faiths, the single god, who
+levelled the cities at the mountain of Orchas and sentenced humanity to be
+mixed with the beasts. Also the name of the world.
+
+---
+
+## Manite and the Trade in It
+
+**Amber.** The control colour. Interfaces with nerve and protocol, and is the
+only class through which the others take direction at any distance. Everything
+the [[The Conclave|Conclave]] does rests on it.
+
+**Azure.** The medical colour: wound work, surgery, augmentation, detox.
+
+**Black.** The colour that breaks bonds. It is what a batch has in it when a
+trough starts to feed on the red, and what an operator listens for.
+
+**Blight.** Country where containment failed and the ground has been under
+loose manite ever since. It is a gradient rather than a border: the vegetation
+gets strange, the animals get larger and more deliberate, and at some point you
+are in it. [[Ravenna]] and [[Spero]] are the two in this region.
+
+**Brass crown.** The console headpiece a trained operator wears to speak the
+call into a waking trough. There are perhaps two hundred people in the world
+who can wear one, and [[Ravenna]] holds most of them.
+
+**Crimson.** The energy colour: stored charge, thrust, battlefield work. Pools
+at a blight fringe, which is why the [[Varou]] will not go near one.
+
+**Drift.** What long mana exposure does to a person: a slow change in how they
+think, feel and mend, arriving too gradually to notice from the inside. Guild
+word, now general. It ends more refinery careers than any accident.
+
+**The face, the mill, the troughs, the sieve hall, the drying fields.** The
+five stages of a refinement site, in order, and the working vocabulary of
+everyone employed at one.
+
+**Goo.** Trade slang for raw slurry in a trough.
+
+**Gray.** The structural colour: bonding, armour, building. Degraded Gray
+ground down over two centuries is what fills the [[Polvokovrita Gap]].
+
+**Hard steam.** A trough running away. What happened at Site One.
+
+**Lock-call.** The instruction spoken into a cartridge on the refining floor to
+close it.
+
+**Luminous.** The field colour: wards, barriers, standing protections. The
+[[Malperm Mtns]] carry one at a scale nobody now can match.
+
+**Mana.** The colloquial word, meaning both the material and what it does, the
+way *electricity* means both. Formally it is **manite**, and in
+pre-Fall documents **Manite™**, a product of [[Quantum Applied Materials]].
+
+**Manite, inert.** Spent manite: a dull grey plastic-like substance that
+sparkles in sun, worthless, and struck into the base
+[[Currency and Prices|Manitum]] coin.
+
+**Raker.** The lowest-paid job on a site, and the commonest.
+
+**Seed.** A shaped, measured charge of manite with a trigger encoded into it.
+What a caster actually casts. Sold by the [[The Conclave|Conclave]] at
+monopoly rates. See [[Mana and Magic]].
+
+**Sun-charge.** Leaving manite in daylight to recharge it, which is how all of
+it is powered.
+
+**The Veil.** An amber filigree lattice integrated into the body of a Conclave
+initiate at the rite of *Taking on the Amber Veil*, and the thing that lets a
+person interface with mana at all. Some candidates cannot take one and are
+rejected as magically stunted. A man without a Veil cannot cast, which is why
+a pre-Fall household object that lights in his hand is a problem.
+
+**Verdant.** The plant colour. Where it still flows, things grow at rates
+ordinary water cannot explain, and the people who live on it change. See
+[[The Verdani]] and [[Materton]].
+
+---
+
+## The Touched
+
+**Beast-nature.** The animal aspect a person is born carrying. Everyone has
+one; what differs is how far it has come up.
+
+**Creche.** The communal house a removed child is raised in.
+
+**Feral.** Rank five: more beast than man, including those affected in the mind
+only.
+
+**Inquisitor.** The [[Religion|Ecclesia]] official who attends a cradle and
+grades the child. Where the beast-nature does not match the parents', the
+child is removed.
+
+**Prime.** Rank two: one small manifestation, concealable or correctable. The
+commonest result by a wide margin.
+
+**Pure.** Rank one: nothing detectable, and no Touched assets. Only the Pure
+hold office in Puritan society.
+
+**Second.** Rank three: one to three major manifestations, diminished by surgery
+or magic but not corrected.
+
+**Third.** Rank four: four to six gross manifestations, uncorrectable.
+The [[Mons|Gardistoy]] are all Thirds, which in Freeport would put them in a
+tannery and on the frontier makes them the law.
+
+**Touched.** Anyone of rank three or beyond, which is to say Second, Third or
+Feral, and in practice anyone whose beast-nature shows. A plain description in
+[[Mososi]] and a caste marker in [[Nysis]].
+
+---
+
+## Faith
+
+**Abstinence.** The Ecclesia calendar of days on which nothing that had blood
+or a face may be eaten. It runs to about a third of the year and sets the
+demand for a third of the region's food, which makes the church the largest
+single buyer of fish and oyster on this coast. See [[Ostrea]] and [[Piscis]].
+
+**The Anvilhouse.** The Ecclesia house on [[Ostrea]]'s upper terrace, raised
+from the take of one remarkable whaling season.
+
+**The bloodless.** Oysters, mussels, cockles: faceless, bloodless, and by
+Ecclesia reasoning carrying no beast-nature. The strict observance, and the one
+an ambitious household is seen to keep.
+
+**Cold flesh.** Fish. Permitted on the grounds that a fish is a poor sort of
+beast. Devout opinion reopens the argument about once a generation.
+
+**Optime.** The second faith: worshippers of YRT who hold that the fall was
+moral rather than physical, and that the road back is conduct. They keep the
+abstinence loosely and do not grade people. [[Mososi]] is Optime country.
+
+**Oblate.** A Touched child given wholly and permanently to the church out of
+the [[Freeport Gazetteer|Stews]], in exchange for alms that are not called a
+price. Oblates staff the laundries, kitchens, hospices and cartage of every
+Ecclesia house in Freeport and are not paid. See [[Religion]], and
+[[Spero]] for where the difficult ones go.
+
+**Pura Ecclesia.** The church of the Puritans, and the institution that sets
+the calendar, attends the cradles, and buys more refined mana than anyone else
+alive.
+
+**Puritan.** The dominant faith, about four fifths of Freeport's worship.
+Holds that YRT sentenced humanity to be mixed with the beasts, that the
+sentence is measurable, and that the measurement is a caste order.
+
+**The Twelve Feral Gods.** The Wildens pantheon: **Kroduk** the Dragon (fire,
+destruction, the mana-storm, conquest), **Shul** the Rat-Mother, **Haur** the
+Ox-Father, **Vexis** the Tiger, **Talli** the Hare, **Jang** the
+River-Serpent, **Brindle** the Horse-Lord, **Koya** the Red Stag-Mother
+(forests, guardianship, safe passage), **Menet** the Monkey, **Seshen** the
+Rooster, **Hundr** the Hound, and **Ghrim** the Boar-Father.
+
+**Wildens.** The third faith, underground and reviled in Freeport, which holds
+that the Fall was the natural destiny of humanity and that the beast-marked
+are its truest inheritors. Mostly Thirds and Ferals. The
+[[The Verdani|Verdani]] are Koya's; the [[Mons|Gardistoy]] are Kroduk's.
+
+---
+
+## Orders and Institutions
+
+**Azure Mendicant.** A Conclave medical specialist, and by extension the
+hospice order. They buy [[Mons]] obsidian blades by the case and do not
+haggle.
+
+**The Brotherhood.** Freeport's criminal order, structured as a bird: **Eye**
+(spy), **Wing** (thief), **Beak** (assassin), **Talon** (enforcer). Its head
+is the unacknowledged fourth of the triumvirate. See [[The Brotherhood]].
+
+**Concordat of Labor and Light.** The 142 SU compact, signed after the sites
+had killed enough people to become politically expensive, by which the
+[[The Conclave|Conclave]] granted the Guild legal standing and the Guild
+granted the Conclave operational authority inside the fence. Everything since
+has been an argument about where that line falls.
+
+**The Conclave.** The order holding the monopoly on mana extraction,
+refinement and sale, by grant of the Nysisian chevayo. Ranks run Neophyte,
+Acolyte, Adept, Maester, Arcanist. Its motto is Knowledge, Service,
+Dedication, and all research reverts to it on the death of the researcher.
+
+**Gardistoy.** The Varanine Touched order that keeps the Peace at [[Mons]] and
+reads the vents at [[Vulkana Caldera]]. Taken young as tribute, kin to nobody
+in the market, and unable to live far from warm ground. Singular *gardisto*.
+
+**Refiner's Guild.** The Freeport guild that inspects every active refinement
+site quarterly and keeps a second set of books the order may not read. Its
+representative at each site collects complaints and routes them upward, which
+is dull, unglamorous, and the reason the process has teeth.
+
+**The triumvirate.** Freeport's three rulers: the lord of merchants, the chief
+priest of the Pura Ecclesia, and the archmage of the Conclave. A fourth is not
+named aloud and everyone can tell you who he is. See [[Government]].
+
+**Vizion.** An Amber specialist: perception-warping, interrogation,
+counter-intelligence. The other Conclave tracks are Gray Artificer, Verdant
+Keeper, Azure Mendicant, Crimson Battlemage, Luminous Warden and Manite
+Alchemist.
+
+---
+
+## Government and Law
+
+**Chevayo.** *A corral.* The twice-yearly meeting of the Nysisian *urbestroy*,
+held in a rotating town, which settles roads, tolls, bandit seasons and the
+division of the Conclave's lease payment. It can compel nobody and never has
+been able to. See [[Nysis]].
+
+**The Clearing.** On the Buralian march, the seventh-year release in which
+every slave in the region goes free on the day, called by the
+[[Mons|Gardistoy]]. What it prevents is not slavery but permanence. The
+archive at [[Altiplano]] calls it the **jubilee cycle**; nobody on the march
+uses that word.
+
+**Dux.** A watch corporal, leading a five-man team. Above him a **deputy**
+(sergeant) leads a platoon. **Station teams** of two hold the gates; **watch
+teams** of five walk the routes. See [[Freeport Gazetteer]].
+
+**Imperiestro.** The ruler of [[Mososi]], currently Roberto, who governs
+through an inspectorate and has no procedure at all for what happens after
+him.
+
+**The lease.** The Conclave's annual payment to Nysis for the right to extract
+at [[Ravenna]]. It has no treasury to go into, so it is divided among the
+*urbestroy* and goes into their pockets. It is the whole of the Nysisian
+constitution.
+
+**Prefekto.** A Mososi official, salaried, rotated out of [[Typpe]], and
+forbidden to be flexible. Plural *prefektoy*.
+
+**The Peace.** Inside a ring of set stones a mile out from [[Mons]], no blade
+is drawn, no blow struck, no debt collected by hand and no feud pursued. The
+sanction is exclusion from the only market the region has, which nobody can
+afford.
+
+**Taking.** On the Buralian march, the ordinary word for enslavement in war.
+Where the crews of the fen coasters come from, a taking runs its term and the
+man walks home, which is why they have never thought to ask what the term is
+at [[Spero]].
+
+**Urbestro.** A Nysisian mayor. Within a day's ride he is the government
+entire: he raises what levies he can, keeps what watch he pays for, judges
+what disputes reach him, and answers to nobody. How a man becomes one differs
+from town to town. Plural *urbestroy*.
+
+---
+
+## Money and Trade
+
+**Aurum, Argentum, Cuprum, Manitum.** Freeport's four coins, in gold, silver,
+copper and inert manite, known everywhere as **oars**, **gents**, **cups** and
+**men**. One oar is ten gents; one gent is a hundred cups; one cup is ten men.
+Prices are written with the mark ¤ and the denomination: ¤10g.
+See [[Currency and Prices]].
+
+**Bonded.** Held under customs seal, duty unpaid, pending release. Half of
+[[Termin]]'s warehousing.
+
+**Backhaul.** Cargo taken on a return leg that would otherwise run empty. It
+is why the eastern run to [[Spero]] was never built and never had to be.
+
+**Liber Liberum Significat.** *Freedom means Free.* Struck on every coin the
+Mint issues. It is a customs term before it is a philosophy: goods in transit
+pay nothing, and a man arriving with money and no history is under the same
+rule.
+
+**Mana signature.** The Conclave mark laid on every minted coin, checkable with
+a reader the order also sells. Shave or melt the coin and the signature goes.
+
+**Slab.** A trimmed cake of salt of standard size, cut on the
+[[Seka Lands|Seka]] pans. It does not spoil, needs no assayer, and breaks for
+change, so in the western reaches prices are quoted and settled in slabs.
+
+---
+
+## Peoples, and What Lives in the Wild
+
+**The Broken.** What the blight makes of people over time: work gangs that
+walked off, camps never recovered, families three generations out there who
+have never seen a wall. Drift taken past the point where it stops being a
+change and becomes what a person is.
+
+**Dire.** Of an animal: larger, better armed, longer-lived and more deliberate
+than its unaltered kin, from generations of leaking mana. A dire puma stands
+four feet at the shoulder and looks at a person with an unhurried calculation
+about whether the trouble is worth it.
+
+**Gaunt.** A horse-shaped animal bred by the Verdani for the blight fringe:
+taller than a horse, hide in overlapping dark scale, eyes a pale luminous
+white. No Verdani has ever sold one.
+
+**Giants.** The people of the [[Malperm Mtns]] valleys, grown large on Verdant
+ground, living one household to a valley. They do not raid for plunder. They
+come down when a valley fails.
+
+**Gnarl.** A browsing animal the height of a mature tree, horn twisting like
+branching, hide keeping the season it is living in. Also a survey instrument:
+where the gnarls are, the Verdant flow is good.
+
+**Greatmask.** A Verdani sentinel keyed to a place rather than a person and
+held by a line of keepers. It means the Verdani have decided a threat is
+systemic and the answer needs to outlast everyone now alive.
+
+**Mask Risen.** Not a weapon of war. A fence and a locked gate: the mask
+carries the recognition pattern, the walker carries the obligation until they
+die, and the Verdant flow does the physical work. See [[Mask Risen]].
+
+**Mask-wood.** Hardwood grown at a blight fringe, where Amber seeps into the
+grain over decades. The Verdani plant it deliberately, in rows, and lose half
+of every generation's planting.
+
+**Merrow.** A sea people working the same banks as the [[Piscis]] fleet, with
+nets of their own and two centuries of precedence. Grey, scaled, long-limbed,
+speaking in clicks and whistles. No interpreter, no treaty, and no meeting.
+
+**Varou.** A wolf people of the [[Profunda Forest]], Nysisian by origin and
+Touched by descent, holding clan territory marked chest-high on boundary
+trees. Their **bloodcall** is a sensitivity to Crimson and to fresh blood that
+is very hard to stop once it starts, and in war they let it go on purpose.
+
+**Verdani.** Not an ancient people. The descendants of ordinary workers caught
+near failing green mana reservoirs when containment went, changed deeply
+enough that the change now propagates. They congregate on Verdant flow because
+their physiology runs better near it.
+
+**Woodies.** [[Materton]]'s bed-families, changed by three generations of
+working the strong water over the seep: green under the skin, thickened limbs,
+a slow walk, and a habit of standing out on the beds at noon with their faces
+to the sun. The wealthiest families in the town.
+
+---
+
+## Trades and Local Words
+
+**Box.** A hollow cut low in a pine to hold a season's resin, chipped fresh
+above every week or so. [[Suda Forest|Suda]] work.
+
+**Carr.** Wet woodland where alder stands in the water on stilted roots. The
+deep zone of the [[Weirden Fen]].
+
+**Chair.** In [[Vitre]], a glassmaker's bench and also a rank. There are
+thirty in the town, and no other authority.
+
+**Collecting round.** A named route through named water in the
+[[Weirden Fen]], inherited like property and taught by walking it.
+
+**Cullet.** Broken glass sorted for remelting, picked over by children.
+
+**Cupel.** A shallow bone-ash hearth in which lead is blown off with a hard
+draught until a button of silver is left in the middle of it. 
+[[Oray Hills]] work.
+
+**Dolo.** A long, narrow, flat-bottomed boat drawing about a hand's depth,
+poled and never rowed. Everything in [[Alneta]] moves in one. Plural *dolos*.
+
+**Drove road.** A track worn a foot into the ground by four generations of
+hooves.
+
+**Earth kiln.** A covered stack of resinous heartwood burned slow and starved
+of air so that tar sweats out and runs down a clay channel into a barrel.
+
+**Fire-setting.** Taking rock that will not yield to a pick by building a fire
+against the face, then quenching and barring it out while it is too hot to
+lean on.
+
+**Holm.** A dry island in a fen, carrying oak and ash and hazel. Every one of
+them is somebody's.
+
+**Litharge.** Lead oxide skimmed off a cupel, sold east to the glass sheds at
+[[Vitre]], where it makes the heavy ware that rings.
+
+**Red-short.** Of iron: sound cold and brittle the instant it is worked hot,
+which is what coal's sulphur does to it and why [[Collima]] burns charcoal.
+An armourer can tell within three blows.
+
+**Shieling.** A low stone hut with a turf roof, occupied from late spring to
+first frost and empty the rest of the year.
+
+**Soap.** In [[Vitre]], the soft black ore added to a batch to cancel the
+green that iron puts in glass. Men who have worked there forty years could not
+tell you what is in it, only how much and when.
+
+**The staggers.** Lead poisoning in stock grazing downwind of a smelt: an
+animal that goes blind, grinds its teeth, walks wrong before it is obviously
+wrong, and dies. Lambs first.
