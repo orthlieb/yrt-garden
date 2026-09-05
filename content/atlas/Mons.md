@@ -43,6 +43,12 @@ Blood spilled in the mountain's shadow is a reason. That is the doctrine, stated
 
 And the Peace has a price that everyone pays and nobody defends. Out in the country a beaten people is not scattered, it is **taken**: set to the work its takers do not want, hauling sulphur, cutting glass, carrying. Part of every such taking is rendered to Mons as tribute, and the Gards put those people down the **crystal vents**, which is the worst work in western Buralia and the reason there is any crystal at all. So the order that will not permit a blow struck inside its stones is supplied, directly and continuously, by the violence outside them. This is understood. It is not argued about, because the argument has no end that anybody wants to reach.
 
+The order was calling it before there was an empire to disapprove. The first
+Clearing on the Gards' reckoning was 162 SU, the third was 176, and the first
+imperial column did not come up the road until 183. Nothing about the practice
+was granted to Mons by anybody, and the empire's contribution has been to write
+it down.
+
 Against that stands the **Clearing**. Every seventh year, on the order's reckoning, the Gards call it, and every slave in the region is free on the day: those in the vents, those in the tribes, all of them, wherever they were taken from and however recently. The same word is used for clearing the Back, and the doubling is deliberate: a ledger, like a mountain, is not permitted to build up past a certain point.
 
 It is not emancipation and nobody here would use the word. The Clearing frees a man into exactly the country he was taken out of, where the only standing anybody has is who can take whom. He walks home and next season he may be taken again, by the same people or by others, or he may go with his own and come back holding somebody else's rope. Both happen constantly. There is no direction to it. The wheel turns and the Gards turn it, and what they prevent is not slavery but permanence: a tribe that could keep its takings forever would grow until it no longer needed Mons, and Mons would end. The tribes accept the Clearing because each of them expects to be on the taking side of the next one.

@@ -47,7 +47,7 @@ What makes salt matter beyond the table is that out here it *is* money. A trimme
 
 Mososi claims the Seka and does not administer it, and both sides find this ideal.
 
-The Imperiestro's writ is acknowledged in principle, ignored in practice, and invoked selectively by whichever clan is currently losing an argument, which is the only circumstance in which anybody out here has ever asked for an official. What the empire gets is salt, hides, wool, and a western march that costs nothing to hold because the people on it are not going anywhere and have no interest whatever in Mososi's affairs. What it would cost to actually govern is more than the Seka has ever produced. Nobody in [[Typpe]] has proposed it in two generations.
+The Direktor's writ is acknowledged in principle, ignored in practice, and invoked selectively by whichever clan is currently losing an argument, which is the only circumstance in which anybody out here has ever asked for an official. What the empire gets is salt, hides, wool, and a western march that costs nothing to hold because the people on it are not going anywhere and have no interest whatever in Mososi's affairs. What it would cost to actually govern is more than the Seka has ever produced. Nobody in [[Typpe]] has proposed it in two generations.
 
 The clans reckon a person by lineage and by herd, and the Puritan caste grading of the north (Pure, Prime, Second, Third) reads to them as a foreign obsession with facts that do not bear on anything. This is not tolerance and should not be mistaken for it. It is that they have looked at the question and found it uninteresting.
 

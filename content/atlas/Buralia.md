@@ -47,11 +47,35 @@ The Emperor himself is understood to be a **talker to those above**: a demi-god 
 
 And he collects. The court travels with cages, and what is in them is elder beasts, taken alive at appalling cost from wherever the itinerary has reached: things off the blight fringes, things out of the deep grass, one thing nobody will describe. He walks the line of cages most evenings, alone, and talks to them. Clerks who have been near enough to hear report that he is not performing. What the animals are held to say back is not written down, which in that archive is conspicuous.
 
+## Forty-Seven Years
+
+The march is the newest thing the empire owns, and it shows.
+
+The first imperial column came up the road in 183 SU. Before that the frontier
+was what it had always been: a dozen peoples holding what they could hold, and
+one market at [[Mons]] where they had agreed not to. The [[Mons|Gards]] were
+already there, the Peace was already keeping, and the **Clearing** had been
+called three times, in 162, 169 and 176, by an order answering to nobody at
+all.
+
+So the empire did here what it does everywhere. It did not abolish the Peace;
+it confirmed it. It did not authorise the Clearing; it declined to notice that
+it had never authorised it. Kroduk's priests were confirmed in their office and
+an imperial verse turned up in the rite within a decade, and there are men on
+the ash roads who remember thinking that verse was an insult and who have since
+taught it to their grandchildren.
+
+That is the difference between the march and everywhere else in Buralia.
+Forty-seven years is not four generations. The ash country still has its own gods
+under the imperial ones, its own arrangements under the imperial ledger, and
+its own people who were grown men before anyone out here had an Emperor. The
+heartland calls them Buralians. They mostly do not.
+
 ## Slavery, and Two Different Regulators
 
 Slaving is lawful throughout Buralia and is not controversial there. What differs is who governs it.
 
-In the heartland it is imperial law: terms, prices, manumission, inheritance, and a governor. On the march it is the **Clearing**: every seventh year the [[Mons|Gards]] call it and every slave in the region goes free on the day, wherever they were taken from and however recently. It is not emancipation and nobody there would use the word: it frees a man into exactly the country he was taken out of, and next season he may be taken again or come back holding somebody else's rope. What it prevents is not slavery but permanence, because a tribe that could keep its takings forever would grow until it no longer needed Mons, and Mons would end.
+In the heartland it is imperial law: terms, prices, manumission, inheritance, and a governor. On the march it is the **Clearing**, which is older out here than the empire is: every seventh year the Gards call it and every slave in the region goes free on the day, wherever they were taken from and however recently. It is not emancipation and nobody there would use the word: it frees a man into exactly the country he was taken out of, and next season he may be taken again or come back holding somebody else's rope. What it prevents is not slavery but permanence, because a tribe that could keep its takings forever would grow until it no longer needed Mons, and Mons would end.
 
 The heartland finds the Clearing crude. The march would find imperial manumission law unenforceable and slightly mad. Both are correct.
 
@@ -85,7 +109,7 @@ The gold band across the top is the grass, which is the country the empire actua
 
 The star is the Emperor. It is drawn in the red of the sandstone he winters in, which is the same red the ash country is drawn in, and the heralds have never once agreed to separate the two. One country, one stone. Beyond that the design says what it means to say and nothing else: one charge on the band, no crown, no supporters, and a charge that moves across the field rather than sitting on a throne in the middle of it.
 
-Set it beside [[Mososi]], where the Imperiestro is one bed among nine and drawn the same size as the other eight. Buralia has never wanted that fiction and does not have the vocabulary to make it.
+Set it beside [[Mososi]], where the Direktor is one bed among nine and drawn the same size as the other eight. Buralia has never wanted that fiction and does not have the vocabulary to make it.
 
 In Altiplano nobody looks at the chain, because in the heartland a manumission goes through a governor and everything below the band is a frontier idiom the clerks find slightly embarrassing. What a clerk will tell you about, at length and without being asked, is the band.
 

@@ -264,8 +264,10 @@ division of the Conclave's lease payment. It can compel nobody and never has
 been able to. See [[Nysis]].
 
 **The Clearing.** On the Buralian march, the seventh-year release in which
-every slave in the region goes free on the day, called by the
-[[Mons|Gards]]. What it prevents is not slavery but permanence. The
+every slave in the region goes free on the day, called by the [[Mons|Gards]].
+What it prevents is not slavery but permanence. It is older out here than the
+empire: three Clearings had been called before the first imperial column came
+up the road, which is why Buralia confirms it rather than authorising it. The
 archive at [[Altiplano]] calls it the **jubilee cycle**; nobody on the march
 uses that word.
 
@@ -280,16 +282,18 @@ He is held to be a **talker to those above**, a demi-god by common assent
 rather than by decree, and he is a Wildens prophet, which is policy as much as
 belief: the court adopts a conquered people's gods rather than suppressing
 them, and inside a generation their rite has an imperial verse in it. Not to
-be confused with Mososi's *Imperiestro*, who has one palace and never leaves
+be confused with Mososi's *Direktor*, who has one palace and never leaves
 it.
 
 **Governor.** In Buralia, the man the court leaves standing when it moves on.
 He holds exactly the authority he can enforce and there is no appeal from him,
 because the nearest thing above him is four hundred miles away and travelling.
 
-**Imperiestro.** The ruler of [[Mososi]], currently Roberto, who governs
-through an inspectorate and has no procedure at all for what happens after
-him.
+**Direktor.** The ruler of [[Mososi]], currently Roberto. The title is the
+country in one word: not a crown but a post, held by a man who governs through
+an inspectorate and whose claim on the office is that the process runs. It has
+no procedure at all for what happens after him, which is the one thing in
+Mososi that was never written down.
 
 **The itinerary.** The empire's actual constitution: the order in which the
 court crosses its own domain, and therefore which regions have seen the
@@ -306,8 +310,9 @@ court turns for the mesas when the herds drop their young, and every year the
 regions it leaves learn again how much of the empire was the man standing in
 it. [[Altiplano]] quadruples in population for the season.
 
-**Prefekto.** A Mososi official, salaried, rotated out of [[Typpe]], and
-forbidden to be flexible. Plural *prefektoy*.
+**Prefekt.** A Mososi official, salaried, rotated out of [[Typpe]], and
+forbidden to be flexible. Plural *prefekts*. The rotation is the point: a man
+who will be somewhere else in three years cannot be cultivated.
 
 **The Peace.** Inside a ring of set stones a mile out from [[Mons]], no blade
 is drawn, no blow struck, no debt collected by hand and no feud pursued. The
@@ -369,10 +374,13 @@ inspectors uses the one the registry uses, and on the Buralian march there is
 no such thing as a Buralian. Which name a character reaches for tells you
 where he has been.
 
-**ashmen.** Buralians, from the four hundred miles of cinder and thorn that is
-the only part of the empire anyone west has seen. Mildly contemptuous and
-entirely geographic. An [[Altiplano]] official would find it inaccurate rather
-than offensive.
+**ashmen.** The peoples of the Buralian march, from the four hundred miles of
+cinder and thorn that is the only part of the empire anyone west has seen.
+Mildly contemptuous and entirely geographic, and the one demonym in this
+section that names something real: the march has been imperial for forty-seven
+years, it kept its gods and its arrangements through the annexation, and there
+are men out there who were grown before anyone here had an Emperor. An
+[[Altiplano]] clerk calls them Buralians. They mostly do not.
 
 **Buralian.** A citizen or subject of [[Buralia]]. Clipped to **Burl**, plural
 **the Burls**, on the Freeport docks. On the march nobody uses any of it: what

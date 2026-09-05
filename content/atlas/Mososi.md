@@ -23,9 +23,9 @@ Everything about Mososi's posture rests on that. It cannot be starved, cannot be
 
 It is also mana the Conclave does not control. The order's monopoly is a grant of the Nyssian *chevayo* and has no force across the border. Mososi has been asked, more than once and very politely, whether the arrangement might be extended, and has declined without ever quite saying no.
 
-## The Imperiestro and the Inspectorate
+## The Direktor and the Inspectorate
 
-**Imperiestro Roberto** rules from [[Typpe]] and rules well. No council can outvote him and no law binds him, and he is sixty-one.
+**Direktor Roberto** rules from [[Typpe]] and rules well. No council can outvote him and no law binds him, and he is sixty-one.
 
 What makes it work day to day is not the man but the **inspectorate**. Everything in Mososi is inspected (leaf grade, water allocation, terrace maintenance, bamboo cuts, the count of a flower field's rows) by officials who are numerous, competent, and genuinely unbribable at the point where a farmer meets them. The system is clean where it touches ordinary people, every farmer knows it, and that is the foundation of the court's real popularity.
 
@@ -41,7 +41,7 @@ That is the whole of Mososi's internal politics, repeated at every scale up to t
 
 Mososi claims more than it governs and is comfortable with the difference.
 
-The [[Seka Lands|Seka]] clans acknowledge the Imperiestro's writ in principle, ignore it in practice, and invoke it selectively when they are losing an argument. [[Sveba]] floats, owns no land, pays no land tax, and has defended that technicality for two centuries. Both are tolerated for the same unromantic reason: what they produce is worth more than what governing them would cost, and both absorb people the court would otherwise have to have a policy about.
+The [[Seka Lands|Seka]] clans acknowledge the Direktor's writ in principle, ignore it in practice, and invoke it selectively when they are losing an argument. [[Sveba]] floats, owns no land, pays no land tax, and has defended that technicality for two centuries. Both are tolerated for the same unromantic reason: what they produce is worth more than what governing them would cost, and both absorb people the court would otherwise have to have a policy about.
 
 ## Faith
 
@@ -65,7 +65,7 @@ The court's real anxieties are two, and neither is spoken aloud in the palace. T
 
 The green is the terraces. The gold between them is neither decoration nor the crop: it is the channels, the gates and the walkways, which is the part of a terrace the state actually owns. Anyone can grow rice. What Mososi administers is water arriving on a schedule and everyone knowing whose turn it is, so the arms give the engineering the field and let the beds sit on top of it.
 
-Three by three is the smallest grid that has a middle. The middle bed is [[Typpe]], marked with the leaf it sells, and it is drawn the same size as the other eight. That is the claim the empire makes about itself: the Imperiestro is a bed in the grid rather than a crown above it. It is also, as the succession will eventually demonstrate, a polite fiction.
+Three by three is the smallest grid that has a middle. The middle bed is [[Typpe]], marked with the leaf it sells, and it is drawn the same size as the other eight. That is the claim the empire makes about itself: the Direktor is a bed in the grid rather than a crown above it. It is also, as the succession will eventually demonstrate, a polite fiction.
 
 Its character is that it is more often stamped than flown. It appears on gate-boards, on the weights, and at the foot of sealed documents; the cloth version is for the palace at [[Typpe]] and the frontier posts. An empire of inspectors marks things rather than parading them.
 

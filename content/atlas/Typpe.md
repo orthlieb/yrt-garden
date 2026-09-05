@@ -6,7 +6,7 @@ title: Typpe
 
 # Typpe
 
-*City · Mososi · **Settled** · Tea, rice, bamboo, flowers; seat of the Imperiestro · pop. ~4,500 · off-oracle*
+*City · Mososi · **Settled** · Tea, rice, bamboo, flowers; seat of the Direktor · pop. ~4,500 · off-oracle*
 
 **Type:** Capital · **Condition:** Grand · **Disposition:** Welcoming
 **First look:** Lush gardens · **Projects:** Farming · **Touchstones:** Courtesy and hospitality
@@ -17,7 +17,7 @@ title: Typpe
 
 **Imports:** Everything that crosses the Sea of Bees, and all of it through somebody else's port. Salt fish, whale oil, iron, cordage, glass, and Conclave seed at whatever [[Freeport]] decides it costs this year.
 
-Typpe is the jewel of Mososi and knows it. It lies south-west across Falter Bay, on terraced ground where the hills come down to the water in a long descending stair of paddy and tea garden, and the approach by boat is deliberately theatrical: the terraces catch the morning light one row at a time, and the city is at the top of them where the water starts. The **Imperiestro Roberto** keeps his court here. Mososi is a benevolent dictatorship and Typpe is the argument for the *benevolent*.
+Typpe is the jewel of Mososi and knows it. It lies south-west across Falter Bay, on terraced ground where the hills come down to the water in a long descending stair of paddy and tea garden, and the approach by boat is deliberately theatrical: the terraces catch the morning light one row at a time, and the city is at the top of them where the water starts. The **Direktor Roberto** keeps his court here. Mososi is a benevolent dictatorship and Typpe is the argument for the *benevolent*.
 
 ## The Stair
 
@@ -47,11 +47,11 @@ The corruption is one level up and it is not in the enforcement. It is in the **
 
 An honest inspectorate is not the opposite of a corrupt state. It is the machinery a corrupt state needs to make its decisions stick.
 
-## The Imperiestro
+## The Direktor
 
 Roberto governs well. This is not court flattery and travellers who arrive expecting to sneer generally stop. The public works are excellent, the schedules are fair more often than not, the courts are quick, and a Mososi farmer is measurably better off than his opposite number under a Nyssian *urbestro* who answers to nobody between elections that do not happen.
 
-What pays for it is the lake. [[Materton]]'s beds feed this country through any bad year it is likely to have, which means the Imperiestro has never once had to choose between feeding his people and keeping them. A ruler who cannot be starved into anything and cannot starve anybody either can afford to be reasonable, and Roberto has spent a reign being exactly that.
+What pays for it is the lake. [[Materton]]'s beds feed this country through any bad year it is likely to have, which means the Direktor has never once had to choose between feeding his people and keeping them. A ruler who cannot be starved into anything and cannot starve anybody either can afford to be reasonable, and Roberto has spent a reign being exactly that.
 
 Two things sit underneath and neither is discussed at court. The first is what the beds cost the people who work them, which the court has known about for a century, needs the food, and does not raise. The second is that none of this is an institution. It is a man. There is no council that could outvote him, no law he could not revise, and no procedure whatever for what happens after. Every competent official in Typpe has thought carefully about the succession and none of them has written anything down. This is a city that records the count of a flower field's rows.
 
