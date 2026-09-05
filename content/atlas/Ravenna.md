@@ -37,7 +37,7 @@ They are not made quickly. The Conclave spends the better part of twenty years o
 
 ## Across the Water
 
-Forty miles east, across Falter Sound, there is a second blight of comparable extent and comparable richness, and it has never been worked. The Conclave has been trying to buy [[Spero]] for two centuries and Buralia has been refusing for two centuries, politely, on a schedule. At Ravenna it is a standing joke: the good site, the one with no Verdani and no bloodthorn and no black wells, sitting there in the sun being nothing. Men who have spent nine years cutting a face they hate will say they can see it on a clear day, and cannot, and say it anyway.
+Forty miles east, across Falter Sound, there is a second blight of comparable extent and comparable richness, and it has never been worked. The Conclave has been trying to buy [[Spero]] for as long as there has been an empire there to ask, and Buralia has been refusing for exactly as long, politely, on a schedule. At Ravenna it is a standing joke: the good site, the one with no Verdani and no bloodthorn and no black wells, sitting there in the sun being nothing. Men who have spent nine years cutting a face they hate will say they can see it on a clear day, and cannot, and say it anyway.
 
 There is a mission on that shore now. The order knows; a church buying ground in Buralia is not a secret and is not interesting. It is filed as what the Ecclesia says it is.
 

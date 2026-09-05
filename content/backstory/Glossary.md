@@ -155,7 +155,7 @@ hold office in Puritan society.
 or magic but not corrected.
 
 **Third.** Rank four: four to six gross manifestations, uncorrectable.
-The [[Mons|Gardistoy]] are all Thirds, which in Freeport would put them in a
+The [[Mons|Gards]] are all Thirds, which in Freeport would put them in a
 tannery and on the frontier makes them the law.
 
 **Touched.** Anyone of rank three or beyond, which is to say Second, Third or
@@ -209,7 +209,7 @@ Rooster, **Hundr** the Hound, and **Ghrim** the Boar-Father.
 **Wildens.** The third faith, underground and reviled in Freeport, which holds
 that the Fall was the natural destiny of humanity and that the beast-marked
 are its truest inheritors. Mostly Thirds and Ferals. The
-[[The Verdani|Verdani]] are Koya's; the [[Mons|Gardistoy]] are Kroduk's.
+[[The Verdani|Verdani]] are Koya's; the [[Mons|Gards]] are Kroduk's.
 
 ---
 
@@ -234,9 +234,11 @@ refinement and sale, by grant of the Nyssian chevayo. Ranks run Neophyte,
 Acolyte, Adept, Maester, Arcanist. Its motto is Knowledge, Service,
 Dedication, and all research reverts to it on the death of the researcher.
 
-**Gardistoy.** The Varanine Touched order that keeps the Peace at [[Mons]] and
+**Gards.** The Varanine Touched order that keeps the Peace at [[Mons]] and
 reads the vents at [[Vulkana Caldera]]. Taken young as tribute, kin to nobody
-in the market, and unable to live far from warm ground. Singular *gardisto*.
+in the market, and unable to live far from warm ground, which is why the order
+that attends the mountain cannot leave it. Singular *gard*. They enforce a
+legal system the empire never authorised and could not now dislodge.
 
 **Refiner's Guild.** The Freeport guild that inspects every active refinement
 site quarterly and keeps a second set of books the order may not read. Its
@@ -263,7 +265,7 @@ been able to. See [[Nysis]].
 
 **The Clearing.** On the Buralian march, the seventh-year release in which
 every slave in the region goes free on the day, called by the
-[[Mons|Gardistoy]]. What it prevents is not slavery but permanence. The
+[[Mons|Gards]]. What it prevents is not slavery but permanence. The
 archive at [[Altiplano]] calls it the **jubilee cycle**; nobody on the march
 uses that word.
 
@@ -271,14 +273,38 @@ uses that word.
 (sergeant) leads a platoon. **Station teams** of two hold the gates; **watch
 teams** of five walk the routes. See [[Freeport Gazetteer]].
 
+**The Emperor.** Buralia's ruler, and the only fixed point in a country that
+is otherwise an itinerary. He travels his domain with the whole court behind
+him, settles what stands up, and leaves a governor in the ash of the argument.
+He is held to be a **talker to those above**, a demi-god by common assent
+rather than by decree, and he is a Wildens prophet, which is policy as much as
+belief: the court adopts a conquered people's gods rather than suppressing
+them, and inside a generation their rite has an imperial verse in it. Not to
+be confused with Mososi's *Imperiestro*, who has one palace and never leaves
+it.
+
+**Governor.** In Buralia, the man the court leaves standing when it moves on.
+He holds exactly the authority he can enforce and there is no appeal from him,
+because the nearest thing above him is four hundred miles away and travelling.
+
 **Imperiestro.** The ruler of [[Mososi]], currently Roberto, who governs
 through an inspectorate and has no procedure at all for what happens after
 him.
+
+**The itinerary.** The empire's actual constitution: the order in which the
+court crosses its own domain, and therefore which regions have seen the
+Emperor recently and which have had nine years to get ideas. A region on the
+itinerary is being governed. A region skipped is being billed.
 
 **The lease.** The Conclave's annual payment to Nysis for the right to extract
 at [[Ravenna]]. It has no treasury to go into, so it is divided among the
 *urbestroy* and goes into their pockets. It is the whole of the Nyssian
 constitution.
+
+**The calving.** The one fixed date in the Buralian year. Every year the whole
+court turns for the mesas when the herds drop their young, and every year the
+regions it leaves learn again how much of the empire was the man standing in
+it. [[Altiplano]] quadruples in population for the season.
 
 **Prefekto.** A Mososi official, salaried, rotated out of [[Typpe]], and
 forbidden to be flexible. Plural *prefektoy*.
@@ -287,6 +313,13 @@ forbidden to be flexible. Plural *prefektoy*.
 is drawn, no blow struck, no debt collected by hand and no feud pursued. The
 sanction is exclusion from the only market the region has, which nobody can
 afford.
+
+**The tribute train.** What goes east out of [[Mons]] every year: obsidian,
+sulphur, crystal, and whatever the fen has parted with, counted at both ends
+and entered in the archive. It is the whole of the empire's presence on this
+frontier in an ordinary year, and it is enough. *As long as the tribute flows,
+the emperor glows*, they say out here, in the tone of men who have watched
+what happens when it stops.
 
 **Taking.** On the Buralian march, the ordinary word for enslavement in war.
 Where the crews of the fen coasters come from, a taking runs its term and the
