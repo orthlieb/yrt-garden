@@ -230,7 +230,7 @@ granted the Conclave operational authority inside the fence. Everything since
 has been an argument about where that line falls.
 
 **The Conclave.** The order holding the monopoly on mana extraction,
-refinement and sale, by grant of the Nysisian chevayo. Ranks run Neophyte,
+refinement and sale, by grant of the Nyssian chevayo. Ranks run Neophyte,
 Acolyte, Adept, Maester, Arcanist. Its motto is Knowledge, Service,
 Dedication, and all research reverts to it on the death of the researcher.
 
@@ -256,7 +256,7 @@ Alchemist.
 
 ## Government and Law
 
-**Chevayo.** *A corral.* The twice-yearly meeting of the Nysisian *urbestroy*,
+**Chevayo.** *A corral.* The twice-yearly meeting of the Nyssian *urbestroy*,
 held in a rotating town, which settles roads, tolls, bandit seasons and the
 division of the Conclave's lease payment. It can compel nobody and never has
 been able to. See [[Nysis]].
@@ -277,7 +277,7 @@ him.
 
 **The lease.** The Conclave's annual payment to Nysis for the right to extract
 at [[Ravenna]]. It has no treasury to go into, so it is divided among the
-*urbestroy* and goes into their pockets. It is the whole of the Nysisian
+*urbestroy* and goes into their pockets. It is the whole of the Nyssian
 constitution.
 
 **Prefekto.** A Mososi official, salaried, rotated out of [[Typpe]], and
@@ -293,7 +293,7 @@ Where the crews of the fen coasters come from, a taking runs its term and the
 man walks home, which is why they have never thought to ask what the term is
 at [[Spero]].
 
-**Urbestro.** A Nysisian mayor. Within a day's ride he is the government
+**Urbestro.** A Nyssian mayor. Within a day's ride he is the government
 entire: he raises what levies he can, keeps what watch he pays for, judges
 what disputes reach him, and answers to nobody. How a man becomes one differs
 from town to town. Plural *urbestroy*.
@@ -325,6 +325,64 @@ a reader the order also sells. Shave or melt the coin and the signature goes.
 **Slab.** A trimmed cake of salt of standard size, cut on the
 [[Seka Lands|Seka]] pans. It does not spoil, needs no assayer, and breaks for
 change, so in the western reaches prices are quoted and settled in slabs.
+
+---
+
+## Peoples, and What They Call Each Other
+
+Every one of these names is an outsider's word. A country that cannot compel
+its own towns does not produce a national noun for itself, an empire of
+inspectors uses the one the registry uses, and on the Buralian march there is
+no such thing as a Buralian. Which name a character reaches for tells you
+where he has been.
+
+**ashmen.** Buralians, from the four hundred miles of cinder and thorn that is
+the only part of the empire anyone west has seen. Mildly contemptuous and
+entirely geographic. An [[Altiplano]] official would find it inaccurate rather
+than offensive.
+
+**Buralian.** A citizen or subject of [[Buralia]]. Clipped to **Burl**, plural
+**the Burls**, on the Freeport docks. On the march nobody uses any of it: what
+lives out there is a dozen peoples who do not consider themselves one people,
+and *Buralian* is a Freeport word meaning anyone from east of [[Mons]].
+
+**Colliman, Fluentian, Ostrean, Piscean.** The words a Nyssian actually uses
+about himself. He is a man of [[Collima]], of [[Fluenti]], of [[Ostrea]], of
+[[Piscis]], and the town is the whole of the answer. A Nyssian who calls
+himself Nyssian has spent time abroad.
+
+**Mos, the Mos.** Freeport dockside for the Mososi. Fast, transactional, and
+used by clerks who have forty entries to write before noon.
+
+**Mososi.** A subject of [[Mososi]], with no change of form for the person, the
+adjective or the plural: a Mososi farmer, two Mososi, Mososi goods. It is the
+only one of the three names that the people it names also use, because the
+registry says so and the registry is the country.
+
+**Mossies.** The Mososi, said carelessly. Sound rather than grievance, and the
+mildest of the three countries' nicknames.
+
+**Nyssian.** A subject of [[Nysis]], which is to say a subject of nothing:
+there is no capital, no national law and no office to petition. Clipped to
+**Nys**, plural **the Nys**. Nobody in Nysis says it. It is what a customs
+clerk writes in a box.
+
+**ropers.** Buralians, from the frontier idiom that a freed man may come back
+next season holding somebody else's rope. It says slaver without saying
+slaver, which is why it is the version that gets used in front of people.
+
+**Sellsouls.** Nyssians, and the hardest of the words in this section. Nysis
+leases [[Ravenna]] to the [[The Conclave|Conclave]] and divides the payment
+among five mayors, and it staffs the [[Pinna Mtns|Pinna]] out of its own
+courts and its own debtors. To a Mososi or a Buralian that is a country
+selling the one thing it has and calling the proceeds a constitution. Nyssians
+who hear it generally understand it and generally do not answer it.
+
+**weedeaters.** The Mososi, from [[Materton]]'s beds: rafts of woven reed and
+lake weed, mudded and staked on the shallows, off which an entire country is
+fed. A Nyssian sneer at people who grow their food on water they do not own,
+and it survives being explained, because the explanation is that Mososi cannot
+be starved and Nysis can.
 
 ---
 
@@ -368,7 +426,7 @@ of every generation's planting.
 nets of their own and two centuries of precedence. Grey, scaled, long-limbed,
 speaking in clicks and whistles. No interpreter, no treaty, and no meeting.
 
-**Varou.** A wolf people of the [[Profunda Forest]], Nysisian by origin and
+**Varou.** A wolf people of the [[Profunda Forest]], Nyssian by origin and
 Touched by descent, holding clan territory marked chest-high on boundary
 trees. Their **bloodcall** is a sensitivity to Crimson and to fresh blood that
 is very hard to stop once it starts, and in war they let it go on purpose.

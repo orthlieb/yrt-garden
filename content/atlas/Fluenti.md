@@ -25,7 +25,7 @@ It is the most northerly settled place on the lake, and the Profunda begins wher
 
 The obvious thought (that Fluenti has forest and [[Collima]] is running out of it) has occurred to everyone and works for nobody. Charcoal for the Pinna smelters has to be burned near where it is used, because charcoal is light for its bulk and hauling it any distance costs more heat than it delivers. A hundred and forty miles of lake and mountain road between the Profunda and the Empire Mine is not a supply route, it is an argument for letting Collima finish its own forest. Fluenti sells timber, not fuel, and is content to.
 
-The city is run by an urbestro like every Nysisian town, and like every Nysisian urbestro he draws a share of the Conclave's rent for [[Ravenna]] each year, which in Fluenti's case funds a watch that is notably uninterested in what leaves the booms after dark.
+The city is run by an urbestro like every Nyssian town, and like every Nyssian urbestro he draws a share of the Conclave's rent for [[Ravenna]] each year, which in Fluenti's case funds a watch that is notably uninterested in what leaves the booms after dark.
 
 **Features**
 - The spring drive, and the whole city on the banks to watch it

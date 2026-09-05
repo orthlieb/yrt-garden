@@ -19,7 +19,7 @@ title: Freeport
 
 Freeport sits on a flat, swampy isthmus where Nysis runs into the Buralian Empire, and it exists because of one accident of water: a narrow tidal river between Falter Bay and Falter Sound, widened by the Unmade into a sixty-five-foot canal, and a harbour on the Sound deep enough for the big hulls out of the Sea of Bees. Almost nowhere else on this coast can take those ships. Everything else about the place follows from that.
 
-Its neutrality is not a moral position. It is the product. Nysis and Mososi will not trade directly with each other on any terms either can accept, and the tariff at [[Termin]] sees to that, so a great deal of what crosses these docks is Nysisian goods bound for Mososi and Mososi goods bound for Nysis, passing within a hundred yards of each other and paying Freeport for the privilege of not meeting at the border.
+Its neutrality is not a moral position. It is the product. Nysis and Mososi will not trade directly with each other on any terms either can accept, and the tariff at [[Termin]] sees to that, so a great deal of what crosses these docks is Nyssian goods bound for Mososi and Mososi goods bound for Nysis, passing within a hundred yards of each other and paying Freeport for the privilege of not meeting at the border.
 
 Three men rule it: the lord of merchants, the chief priest of the Pura Ecclesia, the archmage of the [[The Conclave|Conclave]]. A fourth is not named aloud, and everyone can tell you who he is. Goods pass untaxed if they are only passing. The border wars of three countries are watched from the walls with professional interest and no opinion.
 

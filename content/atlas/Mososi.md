@@ -11,7 +11,7 @@ title: Mososi
 **Region:** Mososi · **Location:** Fields
 **Location detail:** East and south of Lake Mater, from the terraces at Typpe to the dry western march
 
-Mososi is old, tidy, and governed. It has run the same terraces for three hundred years, it inspects everything, its officials are competent, and a farmer here is measurably better off than his opposite number under a Nysisian *urbestro*. It is also landlocked, dependent on a rival's port for everything that crosses the Sea of Bees, and constructed entirely around one geological accident that could stop tomorrow.
+Mososi is old, tidy, and governed. It has run the same terraces for three hundred years, it inspects everything, its officials are competent, and a farmer here is measurably better off than his opposite number under a Nyssian *urbestro*. It is also landlocked, dependent on a rival's port for everything that crosses the Sea of Bees, and constructed entirely around one geological accident that could stop tomorrow.
 
 ## The Quiet Fact
 
@@ -21,7 +21,7 @@ It is neither, because of the lake. A Verdant source the Unmade built and the Un
 
 Everything about Mososi's posture rests on that. It cannot be starved, cannot be blockaded, and does not need anyone's permission to eat, which is why a landlocked state with no port negotiates with Nysis as an equal, can afford a tariff war it is not obviously winning, and can afford a ruler who does not need to be feared.
 
-It is also mana the Conclave does not control. The order's monopoly is a grant of the Nysisian *chevayo* and has no force across the border. Mososi has been asked, more than once and very politely, whether the arrangement might be extended, and has declined without ever quite saying no.
+It is also mana the Conclave does not control. The order's monopoly is a grant of the Nyssian *chevayo* and has no force across the border. Mososi has been asked, more than once and very politely, whether the arrangement might be extended, and has declined without ever quite saying no.
 
 ## The Imperiestro and the Inspectorate
 
@@ -49,7 +49,7 @@ Mososi is **Optime** country, and this is the deepest difference between it and 
 
 Optimes keep the abstinence loosely, as a discipline rather than a purity law, and they do not grade people. There is no inquisitor at a Mososi cradle, no removal of a Touched child from its parents, and no caste of Pure and Prime and Third running under everyday life. A Touched man in [[Typpe]] is a man with a trade.
 
-Which is why the **Woodies** of Materton are the wealthiest families in their town rather than a scandal: the bed-families are visibly, progressively changing, and Mososi's answer is that they are the people who grow the food. A Nysisian looking at the same facts sees something the Ecclesia would take children away over. This single disagreement does more to keep the two countries apart than the customs house at [[Termin]] ever has, and neither government has ever put it in a document.
+Which is why the **Woodies** of Materton are the wealthiest families in their town rather than a scandal: the bed-families are visibly, progressively changing, and Mososi's answer is that they are the people who grow the food. A Nyssian looking at the same facts sees something the Ecclesia would take children away over. This single disagreement does more to keep the two countries apart than the customs house at [[Termin]] ever has, and neither government has ever put it in a document.
 
 ## What It Is Afraid Of
 

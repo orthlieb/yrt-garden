@@ -19,7 +19,7 @@ Not in the sense a Mososi courtier means it. There is no capital, no crown that 
 
 Each is ruled by an *urbestro*. He is not a local official of a national government; within a day's ride he **is** the government, entire. He raises what levies he can, keeps what watch he pays for, judges what disputes reach him, and answers in practice to nobody. How a man becomes one differs from town to town and nobody has ever tried to make the forms agree (some towns elect among their propertied men, some confirm a family that has held it for four generations, one openly sells it) and the only thing every method has in common is that the people doing the choosing are the people with something to lose. The laws of Nysis favour merchants and guilds, which is another way of saying they favour whoever the urbestro's own money comes from.
 
-The practical consequence for anyone travelling: there is no such thing as *Nysisian law*. There are five legal systems, they do not recognise each other's judgments, and a debt, a charge or a marriage that is binding in [[Collima]] may be a curiosity thirty miles down the road. Guilds exist partly to paper over exactly this, which is why the [[Ravenna|Refiner's Guild]] and the coopering and carting guilds carry weight out of all proportion to their numbers: a guild ticket is the only document in the country that means the same thing everywhere.
+The practical consequence for anyone travelling: there is no such thing as *Nyssian law*. There are five legal systems, they do not recognise each other's judgments, and a debt, a charge or a marriage that is binding in [[Collima]] may be a curiosity thirty miles down the road. Guilds exist partly to paper over exactly this, which is why the [[Ravenna|Refiner's Guild]] and the coopering and carting guilds carry weight out of all proportion to their numbers: a guild ticket is the only document in the country that means the same thing everywhere.
 
 ## The Chevayo
 
@@ -34,7 +34,7 @@ Nysis does not extract mana. Nysis **leases the right to**, and the lessee is [[
 That payment does not go to a treasury, because there is no treasury. It is divided among the urbestroy and it goes into their pockets. Everything about how this country behaves follows from that:
 
 - Every mayor has an income that has nothing to do with his own town and cannot be taken from him by his own people. He can be unpopular indefinitely.
-- Nysisian towns are lightly taxed by regional standards, and the reason is not benevolence. A man with an outside income does not need to squeeze the people he lives among, and would rather not.
+- Nyssian towns are lightly taxed by regional standards, and the reason is not benevolence. A man with an outside income does not need to squeeze the people he lives among, and would rather not.
 - Any proposal to open [[Ravenna]] to a second party (a rival order, a Buralian concern, an independent combine) is an attack on every urbestro at once, and they answer as one. It is the only thing they ever do as one.
 - The blight that cuts the country in half and poisons its ground is, to the men who govern Nysis, the most reliable thing they own.
 
@@ -68,7 +68,7 @@ This is not a problem for Nysis in the way it looks. Nobody has invaded in livin
 
 ## Faith
 
-The [[Religion|Pura Ecclesia]] is strong here and strongest on the coast, and its Puritan grading (Pure, Prime, Second, Third, Feral) is the ordinary social ladder of Nysisian life. An inquisitor attends a cradle. A Touched child whose beast-nature does not match its parents' is removed. Collima will not let a Touched girl walk the open street, and that is not eccentricity, that is the mainstream.
+The [[Religion|Pura Ecclesia]] is strong here and strongest on the coast, and its Puritan grading (Pure, Prime, Second, Third, Feral) is the ordinary social ladder of Nyssian life. An inquisitor attends a cradle. A Touched child whose beast-nature does not match its parents' is removed. Collima will not let a Touched girl walk the open street, and that is not eccentricity, that is the mainstream.
 
 The Ecclesia sets the abstinence calendar that a third of the year runs on, which makes it the largest single buyer of food in the region and gives it more practical leverage over [[Piscis]] and [[Ostrea]] than any urbestro has. No mayor has ever tried to tax it and none is going to.
 
@@ -92,7 +92,7 @@ It is flown on hulls and at the border posts, because ships must fly something a
 
 **Motto:** *What we agree, we agree.*
 
-The chevayo that adopted the arms considered four mottoes and carried this one. The three that failed all contained a verb somebody could later be held to. It went onto the customs boards and the stern boards along with the rings, and a Freeport clerk reading it at the head of a tariff schedule will tell you it means the confederation honours its contracts. It means the confederation honours the contracts it has already honoured. Nysisians find this funny and have never explained it, because the misunderstanding has been worth money for two hundred years.
+The chevayo that adopted the arms considered four mottoes and carried this one. The three that failed all contained a verb somebody could later be held to. It went onto the customs boards and the stern boards along with the rings, and a Freeport clerk reading it at the head of a tariff schedule will tell you it means the confederation honours its contracts. It means the confederation honours the contracts it has already honoured. Nyssians find this funny and have never explained it, because the misunderstanding has been worth money for two hundred years.
 
 That chevayo is minuted, because Ostrea's clerk minuted everything, and four proposals are on the sheet.
 

@@ -58,7 +58,7 @@ Mososi's western reaches are dust and thorn (the Seka Lands, the Polvokovrita Ga
 
 It is neither, because of the lake. A Verdant source the Unmade built and the Unmaking broke still seeps into the shallows off [[Materton]], and the floating garden beds worked over it produce food at a rate no ordinary water could support: enough to feed Mososi through a bad year and sell the remainder. This is the quiet fact under the country's whole posture. Mososi cannot be starved, cannot be blockaded, and does not need anyone's permission to eat, which is why a landlocked state with no port negotiates with Nysis as an equal and can afford a tariff war it is not obviously winning.
 
-It is also mana the Conclave does not control. The order's monopoly is a grant of the Nysisian *chevayo* and has no force across the border; Mososi has been asked, more than once and very politely, whether the arrangement might be extended, and has declined without ever quite saying no.
+It is also mana the Conclave does not control. The order's monopoly is a grant of the Nyssian *chevayo* and has no force across the border; Mososi has been asked, more than once and very politely, whether the arrangement might be extended, and has declined without ever quite saying no.
 
 The country of Mososi has no direct sea access but does have coastline on Mater Lake and Falter Bay. It relies heavily on Freeport for trade, especially for rarer goods from areas adjoining the Sea of Bees. The city of Typpe is the jewel in the crown and seat of the Imperiestro Roberto, the emperor. They are well know for their tea, rice, bamboo, and flowers. This is a benevolent dictatorship.
 ## Buralia
@@ -87,7 +87,7 @@ What still crosses overland is what the sea cannot carry economically: things to
 
 ### What it means for Freeport
 
-Freeport's neutrality is not a moral position, it is the product. Two rival countries that will not trade directly with each other both need somewhere to trade, and Freeport is the only harbour on this coast deep enough to take the ships and disinterested enough to take the cargo. A great deal of what moves through its docks is Nysisian goods bound for Mososi and Mososi goods bound for Nysis, passing within a hundred yards of each other and paying Freeport for the privilege of not meeting at Termin.
+Freeport's neutrality is not a moral position, it is the product. Two rival countries that will not trade directly with each other both need somewhere to trade, and Freeport is the only harbour on this coast deep enough to take the ships and disinterested enough to take the cargo. A great deal of what moves through its docks is Nyssian goods bound for Mososi and Mososi goods bound for Nysis, passing within a hundred yards of each other and paying Freeport for the privilege of not meeting at Termin.
 
 Both countries understand this perfectly well. Neither can do anything about it without talking to the other.
 

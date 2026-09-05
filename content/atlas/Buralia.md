@@ -27,7 +27,7 @@ Buralia survived the Unmaking better than anywhere else in the known world, and 
 
 The Unmade built their works where the water, the ports and the mass of people were, which is to say low. What went wrong went wrong down there. The high basins between the mesas were thin, cold, dry, remote and of no industrial interest, and they came through the Fall with their terraces, their herds, their water and a working chain of authority. Not intact, nothing was intact, but continuous. Buralia is the only polity in the region that can name its rulers back past the Unmaking without inventing any of them, and it does so at length.
 
-That continuity is the empire's whole self-image and the reason its diplomacy has an edge that Nysisians find inexplicable. To Altiplano, [[Freeport]] is a two-hundred-year-old trading camp on a sinking isthmus, [[Typpe|Mososi]] is a well-run province that got above itself, and [[Nysis]] is a committee of mayors. This is not posturing. It is what their records actually show.
+That continuity is the empire's whole self-image and the reason its diplomacy has an edge that Nyssians find inexplicable. To Altiplano, [[Freeport]] is a two-hundred-year-old trading camp on a sinking isthmus, [[Typpe|Mososi]] is a well-run province that got above itself, and [[Nysis]] is a committee of mayors. This is not posturing. It is what their records actually show.
 
 ## The Gardistoy and the Peace
 
@@ -51,7 +51,7 @@ Buralia refused the [[The Conclave|Conclave]] a concession at [[Spero]] and has 
 
 What it did not refuse was a church. Twelve years ago the Pura Ecclesia asked leave to put a mission in the dry interior and offered a rent for the ground it would stand on, and the empire took the rent and accepted the distinction, which is thin. At the capital it is a line in a ledger: *mission concession, worthless district, paid punctually, in silver.* Provincially it is understood that there is more behind that wall than a mission, and understood equally clearly that nobody is to write it in a report, because a report creates an obligation.
 
-What nobody in the imperial administration knows is the labour: that the works is staffed by Nysisian subjects imported by sea and worked to death inside imperial territory by a foreign institution. That is not a moral problem to anyone concerned. It is a sovereignty problem, and a far worse one than the mana ever was: the day it is said aloud, Buralia stops being the landlord who charged rent and becomes the accomplice who was paid, holding a grievance it handed [[Nysis]] for nothing.
+What nobody in the imperial administration knows is the labour: that the works is staffed by Nyssian subjects imported by sea and worked to death inside imperial territory by a foreign institution. That is not a moral problem to anyone concerned. It is a sovereignty problem, and a far worse one than the mana ever was: the day it is said aloud, Buralia stops being the landlord who charged rent and becomes the accomplice who was paid, holding a grievance it handed [[Nysis]] for nothing.
 
 ## Heraldry
 

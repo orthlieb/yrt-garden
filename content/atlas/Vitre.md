@@ -17,7 +17,7 @@ title: Vitre
 
 **Imports:** Everything, because Vitre grows nothing and digs nothing. Quartz and lime rubble carted off the [[Pinna Mtns]] slag banks. Coal and fireclay out of [[Termin]]. Soda ash from the [[Seka Lands]]. Litharge from the [[Oray Hills]], by barge and then by wagon. Grain, cloth, salt, beer, and every mouthful anyone in the town eats.
 
-Between the Mososi customs post at [[Termin]] and the Nysisian one a day's walk east lies a strip of ground that neither country has ever been able to hand to the other. The border cairns run through it, some of them moved. Both governments assess duty at their own end and neither assesses anything in the middle, because to tax the middle is to say the middle is yours, and to say that out loud is to invite the argument nobody has wanted for two hundred years.
+Between the Mososi customs post at [[Termin]] and the Nyssian one a day's walk east lies a strip of ground that neither country has ever been able to hand to the other. The border cairns run through it, some of them moved. Both governments assess duty at their own end and neither assesses anything in the middle, because to tax the middle is to say the middle is yours, and to say that out loud is to invite the argument nobody has wanted for two hundred years.
 
 Vitre sits in that gap, and it is on fire more or less continuously.
 

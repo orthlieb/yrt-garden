@@ -49,7 +49,7 @@ An honest inspectorate is not the opposite of a corrupt state. It is the machine
 
 ## The Imperiestro
 
-Roberto governs well. This is not court flattery and travellers who arrive expecting to sneer generally stop. The public works are excellent, the schedules are fair more often than not, the courts are quick, and a Mososi farmer is measurably better off than his opposite number under a Nysisian *urbestro* who answers to nobody between elections that do not happen.
+Roberto governs well. This is not court flattery and travellers who arrive expecting to sneer generally stop. The public works are excellent, the schedules are fair more often than not, the courts are quick, and a Mososi farmer is measurably better off than his opposite number under a Nyssian *urbestro* who answers to nobody between elections that do not happen.
 
 What pays for it is the lake. [[Materton]]'s beds feed this country through any bad year it is likely to have, which means the Imperiestro has never once had to choose between feeding his people and keeping them. A ruler who cannot be starved into anything and cannot starve anybody either can afford to be reasonable, and Roberto has spent a reign being exactly that.
 
