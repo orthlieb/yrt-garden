@@ -64,7 +64,10 @@ mixed with the beasts. Also the name of the world.
 only class through which the others take direction at any distance. Everything
 the [[The Conclave|Conclave]] does rests on it.
 
-**Azure.** The medical colour: wound work, surgery, augmentation, detox.
+**Azure.** The medical colour: wound work, surgery, augmentation, detox. On a
+body over generations it does not change what the body is. It makes more of it,
+which is where size, longevity and regrowth come from, and why the
+[[Malperm Mtns|Malperm]] giants are giants rather than something stranger.
 
 **Black.** The colour that breaks bonds. It is what a batch has in it when a
 trough starts to feed on the red, and what an operator listens for.
@@ -125,9 +128,13 @@ person interface with mana at all. Some candidates cannot take one and are
 rejected as magically stunted. A man without a Veil cannot cast, which is why
 a pre-Fall household object that lights in his hand is a problem.
 
-**Verdant.** The plant colour. Where it still flows, things grow at rates
-ordinary water cannot explain, and the people who live on it change. See
-[[The Verdani]] and [[Materton]].
+**Verdant.** The plant colour, and not only for plants. Where it still flows,
+things grow at rates ordinary water cannot explain, and a living body that
+stays in it turns toward the plant: green under the skin, bark where the callus
+should be, a slowing, a loss of appetite for meat, a wanting of sun. Three
+generations of that makes a [[Materton|Woodie]]. Rather more of it, over rather
+longer, made the [[The Verdani|Verdani]]. This is the distinction people get
+wrong: Verdant changes what a body is, and Azure only makes more of it.
 
 ---
 
@@ -464,10 +471,11 @@ taller than a horse, hide in overlapping dark scale, eyes a pale luminous
 white. No Verdani has ever sold one.
 
 **Giants.** The people of the [[Malperm Mtns]] valleys, living one household to
-a valley. The size is Azure work rather than Verdant: the flow in those valleys
-carries both, the Verdant puts grass at nine thousand feet, and the Azure is
-what reaches the animal eating it. They do not raid for plunder. They come down
-when a valley fails.
+a valley. The size is Azure work rather than Verdant. Both colours reach a
+living body: Verdant turns it toward the plant, which is what happened to
+[[Materton]]'s Woodies, and Azure makes more of what is already there. The
+giants went the second way and show no sign at all of the first. They do not
+raid for plunder. They come down when a valley fails.
 
 **Gnarl.** A browsing animal the height of a mature tree, horn twisting like
 branching, hide keeping the season it is living in. Also a survey instrument:
