@@ -23,13 +23,15 @@ Between the treeline and the line there is a band of country perhaps four thousa
 
 It should be. It is barren for most of its width: scree, wind-scoured rock, snow that does not clear until midsummer and comes back early. But threaded through it are valleys that are nothing like that: deep, sheltered, south-facing, and *green* in a way that reads as an error at that altitude. Grass to the knee in a place where there should be lichen. Berry scrub carrying fruit the size of a thumb-end. Trees at a height where trees do not grow, and growing fast.
 
-The reason is Verdant flow, surviving in the rock and coming up in those valleys and nowhere else. There is no mana here worth an extraction site: it is diffuse, it is bound in living ground rather than pooled in outcrop, and the Conclave surveyed it once and wrote it off. What it is worth is food. A dozen valleys in a hostile range produce like farmland, forever, without being farmed.
+The reason is flow surviving in the rock and coming up in those valleys and nowhere else, and it is not one colour. There is Verdant in it, which is what puts grass at nine thousand feet. There is Azure in it too, which does nothing for a plant and a great deal to anything that eats one. Neither is worth an extraction site: both are diffuse, bound in living ground rather than pooled in outcrop, and the Conclave surveyed the range once and wrote it off. What the Verdant is worth is food. A dozen valleys in a hostile range produce like farmland, forever, without being farmed.
+
+What the Azure is worth is the rest of this entry.
 
 That is the whole reason there are people up here at all.
 
 ## The Giants
 
-They are a people, not a monster and not an affliction. The same Verdant ground that grows elder beasts and knee-high grass at nine thousand feet has been growing them for longer than anybody has been counting, and it has made them *large*: a grown one stands a head and a half over a tall man and is built in proportion, heavy in the bone, deep through the chest. The cold suits them; a big body holds its heat, and a Malperm winter kills ordinary men who are doing everything right.
+They are a people, not a monster and not an affliction. The grass in those valleys is Verdant work and has nothing to do with them. What made them is the Azure in the same water, which is the colour that reaches a living animal, and which has been reaching these families for longer than anybody has been counting. It made them *large*: a grown one stands a head and a half over a tall man and is built in proportion, heavy in the bone, deep through the chest. The cold suits them; a big body holds its heat, and a Malperm winter kills ordinary men who are doing everything right.
 
 Everything else about them follows from what that costs to run. A giant eats three times what a man eats and cannot stop. So there are no towns, no gatherings, and nothing anybody would call a tribe: the country cannot carry a crowd. There are **households**, one to a valley or two to a large one, and a household is not a family so much as a claim on a quantity of growing ground. Valleys are inherited, exactly and jealously, and a valley that will not feed the people on it is the only real crisis this culture has. They are unhurried, they are formidable, and they are perpetually four bad seasons from disaster.
 
@@ -39,7 +41,7 @@ They are, in every account by anyone who has actually spoken with one, entirely 
 
 ## The Ones Who Have Always Been Here
 
-The giants have no quarrel with the [[The Verdani|Verdani]] and this is the one relationship in the Verdani's world that simply works. Verdani go where Verdant flow is, and the Malperm valleys have it; giants live on that same flow and neither cut it, extract it, nor sell it. They eat what grows and the ground keeps growing. There is nothing to fight about, and a Verdani party wintering in a Malperm valley by arrangement is an ordinary occurrence that nobody in Freeport would believe.
+The giants have no quarrel with the [[The Verdani|Verdani]] and this is the one relationship in the Verdani's world that simply works, for a reason more mechanical than either party has ever put into words. They want different colours off the same ground. Verdani go where Verdant flow is, and these valleys have it; the giants are an Azure people and what they need from a valley is that it grows. Neither cuts the flow, extracts it, or sells it. They eat what grows and the ground keeps growing. There is nothing to fight about, and a Verdani party wintering in a Malperm valley by arrangement is an ordinary occurrence that nobody in Freeport would believe.
 
 And the giants know about the line, and have known about it for a great deal longer than Nysis. They have a word for the country above it. Rendered into Nyssian by people who did not entirely understand what they were being told, it comes out as something between *the held* and *the kept*, and the ambiguity, whether the thing up there is being held back or being kept safe, is present in the original and is not an accident of translation. They do not cross. They have never crossed. When asked why not, the usual answer is a look, and the observation that the questioner did not cross either.
 
@@ -53,6 +55,7 @@ And the giants know about the line, and have known about it for a great deal lon
 - Old survey stakes on the approaches, Conclave-cut, abandoned
 - Sheltered valleys carrying grass to the knee at nine thousand feet
 - Berry scrub in fruit where there should be lichen
+- Animals a size up from their own kind, in valleys that grow like farmland
 - One household to a valley, and the valley boundaries exact
 - Doorways, lintels and steps built to the wrong scale
 - Three expeditions' worth of gear left where it was set down

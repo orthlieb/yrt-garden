@@ -463,9 +463,11 @@ about whether the trouble is worth it.
 taller than a horse, hide in overlapping dark scale, eyes a pale luminous
 white. No Verdani has ever sold one.
 
-**Giants.** The people of the [[Malperm Mtns]] valleys, grown large on Verdant
-ground, living one household to a valley. They do not raid for plunder. They
-come down when a valley fails.
+**Giants.** The people of the [[Malperm Mtns]] valleys, living one household to
+a valley. The size is Azure work rather than Verdant: the flow in those valleys
+carries both, the Verdant puts grass at nine thousand feet, and the Azure is
+what reaches the animal eating it. They do not raid for plunder. They come down
+when a valley fails.
 
 **Gnarl.** A browsing animal the height of a mature tree, horn twisting like
 branching, hide keeping the season it is living in. Also a survey instrument:
