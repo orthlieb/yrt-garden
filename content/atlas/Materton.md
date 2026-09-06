@@ -11,7 +11,7 @@ title: Materton
 **Type:** City · **Condition:** Prosperous · **Disposition:** Indifferent
 **First look:** Built over or beside water · **Projects:** Farming · **Touchstones:** Rigid hierarchy
 **Region:** Materton · **Location:** Lake
-**Location detail:** A headland on the western shore of Lake Mater, with its beds out on the shallows
+**Location detail:** A headland on the eastern shore of Lake Mater, with its beds out on the shallows
 
 **Exports:** Food, in quantity and all year: beans, gourds, roots, greens and alliums off the young beds, grain off the old thick ones, salted lake fish, and seed stock that will not grow properly anywhere else. Materton feeds Mososi and sells the surplus to people who have no idea how it is produced.
 
@@ -29,7 +29,7 @@ Materton calls them **Woodies**. It is not said cruelly. The bed-families are th
 
 That is Mososi's real strength and the reason a landlocked country with poor ground is a rival rather than a dependent. Nysis has the sea and the blight; Mososi has a lake nobody can blockade that produces more food than the country can eat. The Conclave's extraction monopoly is a grant of the Nyssian *chevayo* and stops at the border, and Mososi has never entertained the suggestion that it should extend. It has been asked. Politely, twice.
 
-Everything on the lake also passes through here, because Materton is where the ferries are: north to [[Fluenti]], out to [[Sveba]], the long haul south-west toward the Typpe road. The ferrymen are a guild and an institution and a nuisance, and the arrangement by which they hold the crossing rights is the most contested thing in Mososi domestic politics. The court has twice tried to break it and twice given up.
+Everything on the lake also passes through here, because Materton is where the ferries are: north to [[Fluenti]], out to [[Sveba]], and the wagon road south-west to [[Lokigi]] on Falter Bay, which is how anything bound for the capital actually reaches it. The ferrymen are a guild and an institution and a nuisance, and the arrangement by which they hold the crossing rights is the most contested thing in Mososi domestic politics. The court has twice tried to break it and twice given up.
 
 **Features**
 - Four square miles of garden beds on the water, staked in rows

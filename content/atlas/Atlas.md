@@ -8,7 +8,7 @@ status: Worldbuilding reference, in progress
 
 # Purpose
 
-Thirty-five location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
+Thirty-seven location references in the format of the *Ironsworn* Atlas: a few paragraphs of place, a **Features** list you can pull sensory detail from mid-scene, and a **Quest Starter** to hang a session or a chapter on. Each entry is a separate note so it can be linked from prose, bestiary entries, and character docs.
 
 The three countries have entries of their own ([[Nysis]], [[Mososi]] and [[Buralia]]) covering how each is governed, what pays for it, and what would break it. [[Regional]] holds the oracle table and the relations between them; city-scale material for Freeport lives in [[Freeport Gazetteer]]. Everything else here is the *land between*, and the places the roads only pass through.
 
@@ -46,15 +46,17 @@ not rolled: they are established places set on the map.
 
 | Type | Population | Here |
 |---|---|---|
-| **Town** | 600–2,500 | [[Termin]], [[Sveba]], [[Vitre]], [[Collima]] |
+| **Town** | 600–2,500 | [[Termin]], [[Sveba]], [[Vitre]], [[Collima]], [[Lokigi]] |
 | **City** | 2,500–6,000 | [[Ostrea]], [[Piscis]], [[Fluenti]], [[Materton]], [[Mons]] |
 | **Capital** | 6,000–10,000 | [[Typpe]], [[Altiplano]] |
 | **Free port** | ~15,900 | [[Freeport]], which is its own case: bigger than everything and fed by ship |
 
 The rolled tiers are Stead, Camp, Outpost, Hamlet, Village and Hold. Hold is
 600–2,500, the same band as Town: the difference is that a Hold is rolled and a
-Town is named. [[Alneta]] is a Village, and is the only named settlement small
-enough to sit on the rolled part of the table.
+Town is named. [[Alneta]] and [[Intersang]] are Villages, and are the only named
+settlements small enough to sit on the rolled part of the table. Both are
+landings rather than towns, which is why they carry a wharf, a bonded store and
+a trade a place of that size has no other business supporting.
 
 ---
 
@@ -89,7 +91,7 @@ Roll 1d100.
 
 ## Off-oracle entries
 
-Eight places have Atlas entries but no slot on the roll, because you do not
+Ten places have Atlas entries but no slot on the roll, because you do not
 stumble into them: you go through a neighbour to get there. Roll the parent,
 then decide. The last three are water rather than ground, and a party is on
 them because it took a boat.
@@ -100,6 +102,8 @@ them because it took a boat.
 | [[Sveba]] | Settled | Boat from [[Materton]] or [[Fluenti]] |
 | [[Vulkana Caldera]] | Remote | The high road above [[Mons]] |
 | [[Vitre]] | Settled | The strip east of [[Termin]], between the two customs posts |
+| [[Lokigi]] | Settled | The Materton road south-west, or any barge on [[Falter Bay]] |
+| [[Intersang]] | Boundary | The road down from [[Mons]], or a Mososi barge across the Bay |
 | [[Falter Sound]] | Boundary | Any hull out of [[Freeport]], [[Piscis]] or [[Alneta]] |
 | [[Falter Bay]] | Boundary | Freeport's canal, or down from [[Typpe]] |
 | [[Sea of Bees]] | Remote | Past [[Piscis]], or out of [[Ostrea]] with the whalers |
@@ -139,3 +143,5 @@ them because it took a boat.
 - [x] Falter Bay *(off-oracle, water)*
 - [x] Sea of Bees *(off-oracle, water)*
 - [x] Beyond the Sea of Bees *(off-oracle: Biel, Ramage, Gelandia)*
+- [x] Lokigi *(off-oracle)*
+- [x] Intersang *(off-oracle)*

@@ -19,7 +19,7 @@ The water is brackish at the north end and fresh most of the way south, and the 
 
 Mososi has a coast and cannot use it, and every piece of that country's foreign policy comes out of the fact.
 
-[[Typpe]] sits terraced above the head of the Bay in a long descending stair of paddy and tea garden, and the approach by boat is the best view in the country. Barges work down to it from the Seka road and up from the flats. The ferry traffic across to the [[Materton]] side of the isthmus is constant. There is a genuine maritime economy on this water: hulls, wharves, pilots, chandlers, a customs house at the Typpe quay that assesses goods with the usual Mososi thoroughness.
+[[Typpe]] sits terraced above the head of the Bay in a long descending stair of paddy and tea garden, and the approach by boat is the best view in the country. Barges work down to it from the Seka road and up from the flats, and come thirty miles down the western shore from [[Lokigi]] on every tide. There is a genuine maritime economy on this water: hulls, wharves, pilots, chandlers, a customs house at the Typpe quay that assesses goods with the usual Mososi thoroughness.
 
 And none of it reaches the [[Sea of Bees]] without going through Freeport, which charges for it. Every rope, nail, salt fish and seed that crosses the open sea to reach [[Typpe]] comes up the canal, and there is a bill at the end of the canal.
 
@@ -28,6 +28,20 @@ The motto on Freeport's coinage says goods in transit pay nothing. That is true,
 Mososi has arranged itself around that arithmetic with the thoroughness it brings to everything else. Nothing crosses part-loaded. The Typpe quay holds cargo until there is a full hull's worth of it and a tide to carry it, which is why the barges come up the Bay in a body of nine or ten and then nothing comes for four days.
 
 The court at Typpe resents this in private and has organised an entire foreign policy around never admitting it in public. The tariff war at [[Termin]] is partly about Nysis and substantially about this: it lets Mososi be seen refusing something.
+
+## The Two Stations
+
+Nothing that moves on this water moved here to save a fee. It moved here to arrive.
+
+A road in this region is Boundary ground the moment it leaves a wall: daylight, company, and whatever law your own party can enforce. The Bay is enclosed, shallow, weathers nothing worth the name, and offers nowhere to sell a stolen cargo within a week's sail. So a load that takes four days and a hired escort by road takes a day and a tide by water, and the water delivers it. Both countries on this Bay have put a town on that arithmetic.
+
+**[[Lokigi]]** stands on the western shore, fifty miles south-west of [[Materton]] by road, and it is where Mososi's interior traffic stops being a convoy. Wagons are numbered at the gate, the numbers go up on a board, and barges load in the order on the board and leave on the ebb whether the board is finished or not.
+
+**[[Intersang]]** stands on the south-eastern shore, twenty-five miles down the isthmus from Freeport and forty miles below [[Mons]] by road. It has no customs house, no weigh house and no ledger anywhere in it. What it has is a ring of set stones and the Gards who walk them, and the penalty for violence inside the ring is exclusion from Mons, which ends a march trader. The ash country sells glass and sulphur straight across to Lokigi and buys Mososi grain back, and none of it comes within twenty-five miles of the canal.
+
+Freeport has never had to object. Every hull on this water was built on this water and will be broken up on it, and a cargo crossing between Lokigi and Intersang was not going through the canal under any arrangement anybody could have written.
+
+Nysis has no station here because Nysis has no shore here. It sits on the [[Falter Sound|Sound]], on the far side of the isthmus, and its own road-head is [[Fluenti]], which is eighty miles west on Lake Mater and serves a different water entirely.
 
 ## The Shallow End
 
@@ -46,6 +60,8 @@ It is also where a boat goes that would rather not be counted. A shallow-draft h
 - Every hull on it that has never seen the open sea, and never will
 - The canal at the top, and the fact that it is the only way out
 - A Freeport chit itemised down to the flag code, and the coin counted out against it
+- Numbered wagons on the beach at Lokigi and a board revised twice a day
+- A ring of set stones on the shore at Intersang, and no clerk anywhere behind it
 
 **Quest Starter**
 > A Mososi customs launch has stopped a shallow-draft hull in the reeds forty miles south of the ferry lanes and found it empty, clean, and provisioned for a fortnight. The prefekt who ordered the stop wants to know who it belongs to, and the register at the Typpe quay says it was broken up eleven years ago. Somebody has been running something the length of this water for over a decade in a boat that does not exist, and the Bay only goes one place.

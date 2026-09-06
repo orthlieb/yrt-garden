@@ -15,7 +15,7 @@ title: Typpe
 
 **Exports:** Tea above all, loose and pressed, in grades from bud-picked down to the sweepings. Rice off the wet terraces. Bamboo cut and stacked by grade, which is half the region's scaffolding and all of its good baskets. And flowers, as scent, as dye, and as dried petal by the ton. A Freeport perfumer's entire stock started in a Typpe field.
 
-**Imports:** Everything that crosses the Sea of Bees, and all of it through somebody else's port. Salt fish, whale oil, iron, cordage, glass, and Conclave seed at whatever [[Freeport]] decides it costs this year.
+**Imports:** Everything that crosses the Sea of Bees, and all of it through somebody else's port. Salt fish, whale oil, iron, cordage, glass, and Conclave seed at whatever [[Freeport]] decides it costs this year. Its own country reaches it by water too: grain and salt down the Bay from [[Lokigi]] on every tide, and march glass across from [[Intersang]] twice a week.
 
 Typpe is the jewel of Mososi and knows it. It lies south-west across Falter Bay, on terraced ground where the hills come down to the water in a long descending stair of paddy and tea garden, and the approach by boat is deliberately theatrical: the terraces catch the morning light one row at a time, and the city is at the top of them where the water starts. The **Direktor Roberto** keeps his court here. Mososi is a benevolent dictatorship and Typpe is the argument for the *benevolent*.
 

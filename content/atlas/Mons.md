@@ -15,7 +15,7 @@ title: Mons
 
 **Exports:** Volcanic glass: blades, prismatic cores, ground plate, and mirrors. Sulphur, pumice, and the crystal out of the high vents. Everything the fen and the ash country produce, bulked and sent west: fen fruit, medicinals, dried fungus, hides, horn, and feathers. Mons makes little and moves everything.
 
-**Imports:** Grain, cloth, iron and salt off the Freeport road, traded on for whatever comes down out of the interior.
+**Imports:** Grain above everything, and cloth, iron and salt with it, carried up the forty miles from the wharf at [[Intersang]] and traded on for whatever comes down out of the interior. What arrives by the Freeport road arrives dearer and is bought when the Bay crossing has failed.
 
 Mons is built up the flank of a mountain that is still warm, climbing from the river to the high quarter in stepped shelves cut and levelled out of old flows, and the streets that connect them are stairs more often than roads. Nothing is built of wood that could be built of stone, because stone is what there is: black glassy rock that takes an edge, grey tuff soft enough to saw and hard enough to last, and the pale banded stuff the quarries call ribbon. Above and behind it all sits [[Vulkana Caldera]], which Mons does not discuss much, in the way people do not discuss a parent's illness.
 
