@@ -81,7 +81,7 @@ The quarrel is asymmetric, which is why it persists. Nysis has the sea. Mososi d
 
 The practical shape of the rivalry is a customs regime at [[Termin]], the only overland crossing that matters, and it is deliberately punishing. Both sides assess duty on nearly everything, in both directions, on schedules revised often enough that no broker can memorise them. Goods are weighed, bonded, inspected, held, and released on a clerk's timetable. A wagon can wait days. Neither country is trying to stop trade; each is trying to make the other's exports expensive, and neither will concede first because conceding first is understood to be losing.
 
-The result is that **general merchandise does not cross at Termin at all.** It goes around by water (down the lake or the bay, out through Freeport, and back in on the far side) and even with the transhipment, the extra miles and a broker's cut, that route is cheaper and very much faster than the tariff. Freeport charges nothing for goods that are only passing through. It does not have to.
+The result is that **general merchandise does not cross at Termin at all.** It goes around by water (down the lake or the bay, out through Freeport, and back in on the far side) and even with the transhipment, the extra miles and a broker's cut, that route is cheaper and very much faster than the tariff, and it is cheaper even though Freeport bills every hull that comes up the canal. The city assesses no duty on cargo in transit and charges for the passage instead, and the sum of those charges is still well under what Termin would have taken.
 
 What still crosses overland is what the sea cannot carry economically: things too heavy and too cheap per ton to justify freight and handling twice, and things that cannot wait. Coal east to the Pinna smelters. Pinna iron west into Mososi. Grain in a bad year. Livestock on the hoof. Timber. The traffic at Termin is enormous and almost entirely bulk, which is why the town is loud with wagons and thin on merchants.
 
@@ -90,6 +90,44 @@ What still crosses overland is what the sea cannot carry economically: things to
 Freeport's neutrality is not a moral position, it is the product. Two rival countries that will not trade directly with each other both need somewhere to trade, and Freeport is the only harbour on this coast deep enough to take the ships and disinterested enough to take the cargo. A great deal of what moves through its docks is Nyssian goods bound for Mososi and Mososi goods bound for Nysis, passing within a hundred yards of each other and paying Freeport for the privilege of not meeting at Termin.
 
 Both countries understand this perfectly well. Neither can do anything about it without talking to the other.
+
+## The Church, the Order, and the Lease
+
+Three institutions, one payment, and nobody standing where the whole of it can be seen.
+
+The **grade** is the church's invention and needs saying plainly, because it is the hinge. Pure, Prime, Second, Third, Feral is Puritan doctrine, worked out by the [[Religion|Pura Ecclesia]] to measure how far YRT's sentence sits on a given person, and it has been adopted as ordinary social vocabulary by a great many people who are not devout at all. That is why an order house in Nysis would be asked for its Acolytes by grade, why [[The Conclave|the Conclave]] keeps its seat in [[Freeport]], and why Mososi's refusal to grade anybody is a position about the country rather than about a sect.
+
+## The Circuit
+
+Set the four facts next to each other and the shape is obvious, which is not the same as anyone in it being able to see the shape.
+
+The Conclave extracts and refines at [[Ravenna]] under a grant of the *chevayo*, and pays a heavy lease for the privilege. That lease is divided among five *urbestroy* and goes into their pockets, and it is the whole of what holds the confederation together. The Conclave's ability to pay it comes from selling refined mana. Its largest customer by a wide margin is the Pura Ecclesia.
+
+So the church pays the order, the order pays the mayors, and the mayors keep the grant in force. Every Puritan *urbestro* on that coast draws his private income, at one remove, from the institution his church would not permit to open a house in his town.
+
+## Why The Church Cannot Simply End It
+
+It has the leverage and it does not have the instrument.
+
+The Conclave is not in Nysis to be expelled. What is in Nysis is a lease, and a lease can be revoked only by the chevayo, and any proposal to touch [[Ravenna]] is an attack on five men's incomes at once and the one thing they will answer as one. The Ecclesia's hold over an individual *urbestro* is real and it stops exactly where his outside money begins.
+
+What the church is doing instead requires breaking nothing. It has spent twelve years putting a mission four hundred miles east at [[Spero]], on ground it rents from the empire, punctually, in silver. It does not need to remove its supplier. It needs to stop being its supplier's customer, and then the number arriving in Nysis every year gets smaller for reasons no Nyssian is in a position to trace.
+
+Three things sit inside that and none of them are secret. The church that grades a child at the cradle pays ground rent to a Wildens Emperor, and the Gards who keep the Peace at [[Mons]] hold the faith that same church would burn if it could reach them. The refinement sites are worked disproportionately by the Touched, the Ecclesia's stated position is that the Touched should be available for whatever work the Pure assign them, and long exposure to the trade changes the people in it. And the order paying five Puritan mayors will not put a building in their country on account of their church.
+
+## Who Is Actually Under Pressure
+
+Not evenly, and not the people who could act on it.
+
+The **urbestroy** carry all of the exposure and none of the information. Their income is a figure that arrives once a year from an order whose customer they have never audited, and there is no institution in Nysis capable of noticing the trend in time and no procedure whatever for what happens after.
+
+**[[Ostrea]] and [[Piscis]]** are held by the same church at the other end of the rope. The abstinence calendar puts a third of the year on fish and makes the Ecclesia the largest single buyer of food in the region, which gives it more practical leverage on those two quays than any *urbestro* has. They cannot be squeezed harder because they are already fully committed.
+
+**[[Fluenti]]** is the least exposed and behaves like it. It sells timber south into Mososi without asking what grade the buyer's children are, and it was Fluenti that put forward *Five shares, five towns*, the only motto ever proposed that mentioned the money.
+
+**[[Collima]]** is the most exposed and the least equipped to see it, being the town that proposed *Pure and free* and meant it.
+
+So when the payment starts falling, Fluenti has a trade that does not run through the Ecclesia and Collima has a doctrine, and the fracture runs between the two towns that spent an afternoon a hundred and seventy years ago arguing about a motto. There is one honest count of what is behind the mission wall and it is twelve years of flour orders in a victualler's back room at [[Alneta]]. Nobody in Nysis has read it and nobody in Nysis knows it exists.
 
 ## Collima
 
