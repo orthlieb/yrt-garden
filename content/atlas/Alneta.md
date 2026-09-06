@@ -33,6 +33,18 @@ Everything happens in them. Children are poled to whatever passes for schooling;
 
 An outsider is spotted the moment he takes a pole, and not because he is clumsy. It is that he watches the water. Nobody who grew up here looks down.
 
+## Coasters
+
+Alneta builds two kinds of boat and neither of them goes to sea.
+
+The dolo works the channels. For the Sound there is the coaster: a single-masted shallow-draft hull that draws three or four feet loaded, built in the same yards out of the same alder and oak by men who learned it from their fathers. It carries what a dolo cannot and it carries it well. It is also the largest thing anybody in this delta knows how to make, and it is not a sea boat.
+
+Nobody here has laid a keel deep enough for open water, and the reason is not thrift. Nobody here knows how. A hull that will take the [[Sea of Bees]] wants a shape, a scantling and a way of fastening that went with the Unmaking, and there is no yard within two hundred miles of this delta that still has it. [[Freeport]] has it, on a quay Alneta men have stood on, and Freeport does not teach it.
+
+So a coaster works the shore and works it in sight of the shore. The [[Spero]] run north is a coastal crawl in daylight with the lead going and a bolthole in mind for every hour of it, and it is possible at all because it never once leaves the coast. South is the same trade in the other direction. Everything Alneta sells beyond this Sound goes down to Freeport, is landed there, and is put onto somebody else's hull.
+
+Which is the fact under the whole of this village. Alneta has a wharf, a bonded store, a cooper, a chandler, two victuallers and a genuine sea trade, and it has never once sent a cargo out of the region under a hull of its own.
+
 That wharf is the whole of Alneta's importance and the reason a village of four hundred has a chandler, a cooper, two victuallers and a bonded store. It is the last landing on this coast. North of here there is nothing anybody will admit to until the mission wall, and everything that goes up to [[Spero]] (every barrel of salt pork, every sack of flour, every yard of canvas and length of chain and cask of lamp oil) is bought, bonded and loaded here, because there is nowhere else to buy it and no road to bring it by.
 
 Alneta has grown comfortable on that and has a constitution about it that no one has ever had to state: the goods go north, the money comes back, and nobody walks up the shore to see who is eating. The [[Religion|Ecclesia]]'s factor settles his account quarterly, in silver, and is a courteous man. Twice a year one of the coasters comes up from the bay east of Freeport riding low with people on the deck who speak Freeport dockside, and it stops here for water, and it goes on north, and it comes back empty. Nobody in Alneta has ever discussed this in front of the factor.
@@ -52,6 +64,7 @@ And this is the thing about the place that matters more than the alder. Nobody o
 - Freight going north that nobody in the village will eat
 - A courteous Ecclesia factor who settles quarterly in silver
 - Coasters heavy on the way up the coast and empty coming back
+- Single-masted hulls drawing four feet, and the shore never out of sight of them
 - The shore road north, and the understanding that one does not walk it
 - Twelve years of victualling ledgers in a back room
 
