@@ -9,7 +9,7 @@ title: Collima
 *Town · Nysis · **Settled** · Charcoal, timber, waystation trade*
 
 **Type:** Town · **Condition:** Well-kept · **Disposition:** Wary
-**First look:** At a crossroads · **Projects:** Forestry · **Touchstones:** Suspicion of outsiders
+**First look:** At a crossroads · **Projects:** Forestry · **Touchstones:** Familial clans
 **Region:** Collima · **Location:** Road
 **Location detail:** Where four roads meet in the low hills, fifty miles north-east of Freeport
 
@@ -17,7 +17,11 @@ The name means *hilly*, and that is the whole of the description. Collima sits f
 
 Collima's own trade is charcoal and timber, and it is eating itself to make them. The charcoal is not ordinary fuel and Collima is not an ordinary fuel town: charcoal is the only thing that will smelt Pinna ore into iron worth the name, because coal carries sulphur and sulphur makes the metal brittle under the hammer. Termin's coal heats the district; Collima's charcoal makes the steel. That is why the smelters pay to cart a light, bulky, awkward cargo up into the hills rather than use the cheap black stuff arriving from the other direction. The ovens run in lines along the southern edge, six or eight to a holding, smoke standing up in slow columns on a still morning. The Pinna smelters are voracious and pay well and never stop, so year by year the forest slides further off, and each family's walk to the woodline gets longer and the road to it worse. The older char-burners can point out where the trees stood when they were children. It is a long way to point.
 
-What the town actually sells is a bed, a meal, and a night. Inns, bars, pleasure houses, warehouses, and three guard companies who will hire out for the Freeport leg at rates that change with what the last caravan reported. It makes Collima worldly for its size and hard in a particular way: it is a place people pass through, so what happens to a stranger here is nobody's long problem. The Touched are forbidden the open streets, not by ordinance so much as by the certainty of what will happen if they use them. A mile south on the Farway stands an ancient pillar of grey manite, ten feet of it, purpose unknown, put there by the Unmade. It marks the town's edge. Caravans form up at it, contracts are shaken on at it, and it is as far as anyone walks with someone they are not going with.
+What the town actually sells is a bed, a meal, and a night. Inns, bars, pleasure houses, warehouses, and three guard companies who will hire out for the Freeport leg at rates that change with what the last caravan reported. It makes Collima worldly for its size and hard in a particular way: it is a place people pass through, so what happens to a stranger here is nobody's long problem.
+
+Nobody in Collima cares where you are from. A Mososi factor, a Ravenna guildman and a Buralian drover take beds in the same inn and are served in the order they came through the door. What the town is sorted by is blood. Eight or nine families hold the ovens and the woodline rights between them, the holdings are inherited and married over and have been for six generations, and the watch is those families' sons. An inquisitor attends every cradle here and a child whose beast-nature does not match its parents' is taken away, so a Collima holding is a bloodline with a grade attached to it, and anybody in the town can recite both lists to you.
+
+The Touched are forbidden the open streets, not by ordinance so much as by the certainty of what will happen if they use them. A mile south on the Farway stands an ancient pillar of grey manite, ten feet of it, purpose unknown, put there by the Unmade. It marks the town's edge. Caravans form up at it, contracts are shaken on at it, and it is as far as anyone walks with someone they are not going with.
 
 **Features**
 - Low hills holding the last of the light
@@ -27,7 +31,8 @@ What the town actually sells is a bed, a meal, and a night. Inns, bars, pleasure
 - Empire Mine ore wagons in, charcoal wagons out, on the same west road
 - Ravenna men down off the guild road, selling what was never weighed in
 - Inn common rooms loud past midnight
-- A watch that knows every resident and no visitors
+- A watch that knows every resident and no visitors, and is somebody's cousin
+- The same eight or nine family names on the ovens for six generations
 - The grey manite pillar a mile south on the Farway
 - Wolves in the Nebula heard from the southern holdings
 
