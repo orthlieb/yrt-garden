@@ -42,6 +42,8 @@ Buralia keeps the best records in the known world, and the reason is the travell
 
 The civil service sits examinations on the contents. A dispute in Buralia is settled by looking it up. What the archive cannot do, and what an Altiplano clerk will tell you before you ask, is reach back past the founding: there is nothing in those vaults from before the first Emperor, because there was nobody keeping any.
 
+It counts in things and not in sums. Head of cattle, weight of glass, tale of skins, sacks and hides and hulls, which suits an empire paid in kind and spares it a currency it has never wanted. Buralia has never struck a coin. A mint requires a building, and a court that travels does not put a building at the middle of itself. Below the tribute the march trades goods for goods and settles the remainder the way it settles everything, and what coin does circulate on this frontier is [[Freeport]]'s, at [[Mons]] and on the wharf at [[Intersang]], because the ash country needs something a Mososi barge master will take. Foreign silver that reaches the heartland is entered as a weight. See [[Currency and Prices]].
+
 ## Faith, and the Talker
 
 The Emperor is a Wildens prophet, and this is policy as much as belief.

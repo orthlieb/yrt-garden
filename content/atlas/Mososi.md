@@ -43,6 +43,14 @@ What makes it work day to day is not the man but the **inspectorate**. Everythin
 
 The corruption is a level up and it is not in the enforcement. It is in the rules: who sets the season's grading standard, whose water moves in the schedule, which contract is called a strategic export. The inspector with the measuring stick is clean and is meant to be. He is what makes the decision above him enforceable.
 
+## The Round
+
+Mososi mints because minting is process, and the *rondo* is the country pressed into a disc.
+
+Silver, broad and thin, struck at [[Typpe]] under the inspectorate and milled at the edge so that clipping shows. Every issue carries the year and the mark of the assayer who passed it, and the assay ledgers are open to anyone who walks in and asks for them. There is no working on it anywhere. Mososi's guarantee is a name, a rotation, and a book, which is exactly the guarantee it offers on a sluice gate and a tea grade.
+
+It trades in [[Freeport]] at about ninety-four cups against a gent's hundred, and that discount has been a grievance at court for as long as the coin has existed. The ledgers are public and the metal is good and it is still worth less than a coin nobody has to check, which Typpe understands perfectly well and has never once said out loud in a negotiation. See [[Currency and Prices]].
+
 ## Water Is The Law
 
 The terraces are the country's actual constitution. Water enters at the top of a run and goes down in the only order it can, so a farmer at the eighth step is at the mercy of what happens at the third. Nobody steals water (everybody downhill would know within the hour), but a run **scheduled** two weeks late in a dry year is not theft, is not appealable, and will cost a family its crop.

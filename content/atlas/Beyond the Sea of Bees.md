@@ -31,7 +31,7 @@ What a captain will tell you: that the whole place is one quarry worked in tiers
 
 What it sends is **dye**: a deep blue-black that does not fade, sold in sealed jars by weight and worth more than its weight in most things, along with a red that is cheaper and a lacquer-gum that hardens in air. Freeport's dyers buy the lot and will not discuss what they pay. It also sends cordage fibre, long and rot-resistant, which the [[Ostrea]] whalers prefer over anything local and pay over the odds for.
 
-What it takes back is grain, worked metal, glass, and every kind of tool.
+What it takes back is grain, worked metal, glass, and every kind of tool, and it pays in its own silver. A **Ramagian real** is within a hair of a Mososi round in width, weight and colour, and about three parts silver in four against the round's fifteen in sixteen. The round is milled and rings on wood. The real is plain and goes dead in the hand. Freeport has looked into the resemblance twice and written nothing down at the end of either look. See [[Currency and Prices]].
 
 What is strange about Ramage is not the goods. It is that every hull is built to the same pattern, down to the rig, so that a Ramage boat is recognisable from the horizon and always has been. That no manifest from a Ramage hull has ever been found wrong at a rummage, in the whole of the Grand Office's book. And that the crews take their pay in Freeport, spend it in Freeport, and do not sleep ashore.
 

@@ -1,5 +1,5 @@
 ---
-title: Pricing Guide
+title: Money Beyond Freeport
 ---
 
 Although bartering is still a common occurrence, especially among the disadvantaged, Freeport does use currency. Foreign currency is usually also accepted but exchange rates can vary. Best to get the currency assessed and changed at the Mint near the Grand Office.
@@ -25,6 +25,54 @@ All currency that is minted is imbued with a mana signature courtesy of the Conc
 | ![[Manitum.webp\|130]]  | Manitum  |  Singular: Man<br>Plural: Men   | Inert Manite | ¤1m   | m            |
 
 In common practice, the symbol ¤ is used to denote prices with the amount followed by the denomination. For example, to write that something costs 10 gents you would write ¤10g
+# Money Beyond Freeport
+
+Freeport mints. Mososi mints. Nysis cannot and Buralia does not, and in both cases the reason is constitutional rather than economic.
+
+## Why the Freeport coin wins
+
+The signature is the whole of it. A Conclave working is laid on every piece at the Mint, a reader costs a shopkeeper about four gents and is sold by the order to anyone who asks, and a coin either answers the reader or it does not. Shave it, sweat it, plate it or melt it and the signature is gone, which means a Freeport coin is the only money in this region that proves itself without anybody's word.
+
+Everything else has to be trusted, weighed, or assayed. That is why a Nyssian *urbestro*, a Mososi *prefekt* and a Buralian governor who agree on nothing else will all take the same silver, and it is worth noticing what the cheapest of those coins is made of. The **Manitum** is pressed from inert manite, the grey waste the refineries cannot sell, and it is worth one man because the Conclave signed it. The order takes a substance with no value and makes it the smallest reliable thing in the region, and charges Freeport for doing it.
+
+## Mososi: the round
+
+Mososi mints because minting is process, and the *rondo* is the country in a disc.
+
+It is silver, broad and thin, struck at [[Typpe]] under the inspectorate, milled at the edge so that clipping shows. Every issue carries the year and the mark of the assayer who passed it, the assay ledgers are open to anyone who walks in and asks, and a merchant who wants to know the fineness of the 214 issue can go and read it. There is no magic on it anywhere. Mososi's guarantee is a man's name, a rotation, and a book.
+
+It circulates through the terraces, the [[Termin]] wagon yards, the [[Lokigi]] sheds and half the Nyssian interior, and it trades in Freeport at about ninety-four cups against a gent's hundred. That discount is a permanent grievance at Typpe. The coin is honest, its ledgers are public, and it is worth less than a Freeport gent for the reason that honesty which has to be checked is cheaper than honesty you can read off the metal.
+
+## Nysis: everything, by weight
+
+Nysis is the richest country here and has never issued a coin, because issuing one means answering two questions the confederation exists in order not to ask: whose device goes on it, and how many shares there are.
+
+*Five shares, five towns* was the only motto ever proposed that mentioned the money, and it failed. The chevayo does not mention the money. A currency mentions nothing else.
+
+So what circulates in Nysis is whatever came through the door. Freeport coin on the coast and in any transaction with a stranger. Mososi rounds around [[Termin]] and up through [[Fluenti]], where the timber is sold south. Foreign silver off the [[Ostrea]] and [[Piscis]] quays, which is where the trouble starts. Every Nyssian town of any size keeps a scale at the market and a board beside it listing what passes and at what, the boards disagree with each other by a few cups, and they are revised by the *urbestro* without notice. A carter crossing the country changes money four times without crossing a border once.
+
+The joke that Nyssians do not make about themselves is that the payment holding the confederation together arrives every year in another city's coin.
+
+## Buralia: goods, and the end of a spear
+
+The empire is a hundred and forty years old and has never struck a coin.
+
+It has not needed one. Tribute is in kind and always was: obsidian, sulphur, crystal, hides, horn, and what the fen parts with. The archive at [[Altiplano]] counts in things rather than in sums, and counts them very well, in head of cattle and weight of glass and tale of skins, which is a better instrument for the purpose than money would be and does not require a mint. A mint would also require a building, and a court that travels does not put a building at the middle of itself.
+
+Below the tribute, the march trades goods for goods, and where that fails it is settled the way everything out there is settled. Coin is a frontier instrument. Freeport silver passes at [[Mons]] and on the wharf at [[Intersang]] because the ash country needs something a Mososi barge master will take, so the working money of a frontier four hundred miles from Freeport is Freeport's.
+
+What foreign silver reaches the heartland goes into the archive as bullion. The [[Religion|Pura Ecclesia]] pays its mission rent at [[Spero]] punctually and in silver, and in the ledger that rent is entered as a weight, not as a sum.
+
+## The real and the round
+
+The **Ramagian real** is silver, the same colour as a Mososi round, within a hair of the same width, and within a few grains of the same weight. It is about three parts silver in four. The round is fifteen parts in sixteen. Taken at a round's rate in poor light, a real costs the man holding it roughly three cups in every ten.
+
+Two tells, and both work on a table. The round is milled at the edge and the real is plain. And a round rung on wood carries; a real goes dead in the hand. The Mint will settle it for a fee, and there is a clerk at the Grand Office who can do it by ear across a room and is not always available.
+
+Why the two coins are so alike is not known. Ramage has been asked, through the only channel there is, and answered that its coin has been struck to that standard for a hundred and forty years. No Ramage manifest has ever been found wrong at a rummage, in the whole of the Grand Office's book, and the Office has gone looking twice.
+
+On the docks it comes down to three words. *Ring it first.*
+
 # Pricing Guide
 
 Based on the economic data from Freeport's currency system and salary structures, here are typical prices for common goods and services:

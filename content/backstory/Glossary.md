@@ -389,6 +389,20 @@ chain.
 **Mana signature.** The Conclave mark laid on every minted coin, checkable with
 a reader the order also sells. Shave or melt the coin and the signature goes.
 
+**Reader.** The Conclave device that answers a coin's mana signature, sold by
+the order to anyone who asks for about four gents. A shopkeeper's is kept under
+the counter and a customs desk's is chained to it.
+
+**Real.** The Ramagian silver coin, near enough a Mososi round in width, weight
+and colour to pass for one in poor light, and about three parts silver in four
+against the round's fifteen in sixteen. The round is milled at the edge and
+rings on wood; the real is plain and goes dead. *Ring it first.*
+
+**Round.** Mososi's silver coin, the *rondo*, struck at [[Typpe]] under the
+inspectorate and carrying the year and the assayer's mark. No signature on it
+anywhere: the guarantee is an open assay ledger. It passes in Freeport at about
+ninety-four cups to a gent's hundred, which Typpe has never stopped resenting.
+
 **Slab.** A trimmed cake of salt of standard size, cut on the
 [[Seka Lands|Seka]] pans. It does not spoil, needs no assayer, and breaks for
 change, so in the western reaches prices are quoted and settled in slabs.
