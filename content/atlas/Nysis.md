@@ -31,6 +31,8 @@ It has no power to compel anyone. It has never had any and nobody has ever propo
 
 Nysis does not extract mana. Nysis **leases the right to**, and the lessee is [[The Conclave|the Conclave]], which holds its monopoly on extraction and refinement by grant of the chevayo and pays heavily for it every year.
 
+The order takes the ground and will not take the country. It has been offered ground for a house at [[Collima]] twice and refused twice, and it keeps its seat, its archive and its archmage in [[Freeport]], where nobody asks an Acolyte what grade he was born at. Nysis has the ore, the grant and the payment, and no order house, and does not connect the three.
+
 That payment does not go to a treasury, because there is no treasury. It is divided among the urbestroy and it goes into their pockets. Everything about how this country behaves follows from that:
 
 - Every mayor has an income that has nothing to do with his own town and cannot be taken from him by his own people. He can be unpopular indefinitely.

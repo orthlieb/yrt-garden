@@ -7,6 +7,32 @@ title: The Conclave
 The Conclave is a powerful part of the city, training users of mana.
 
 It is a rigid hierarchy with entry to the guild being one of not only aptitude, but also influence and wealth. Getting ahead in the Conclave requires you to research mana use and application, you get residuals for your research. Stiff fees for mana and materials make a profession in the guild one of constant search for income and reward. Upon death, all research reverts to the Conclave, ensuring a ever growing body of knowledge and power.
+## Why Freeport
+
+Every material fact about the Conclave points at Nysis. The ore is at [[Ravenna]]. The extraction monopoly is a grant of the Nyssian *chevayo*. The lease payment the order makes for that ground is divided among five *urbestroy* and is the whole of what holds their confederation together. And the Conclave is not in Nysis, has never been in Nysis, and has turned down ground there twice.
+
+The order's own account of this is two words. *Magic first.*
+
+**Nysis would grade it.** The [[Religion|Pura Ecclesia]] is strongest on that coast and its Puritan ladder is the ordinary social order of Nyssian life: an inquisitor at every cradle, Pure through Feral, and a Touched child taken from parents it does not match. The Conclave grades on two things and neither one is birth. Can you do the work, and can you pay the fees. That is indifference rather than charity, and the order has never pretended otherwise: the fees are stiff at every rank and a poor Pure gets no further than a poor Third. But an order house at [[Collima]] would be asked for a list of its Acolytes by grade, and it would be asked by people who could enforce the asking, and the answer has been the same for two hundred years.
+
+**Buralia will not have it.** The Emperor is a Wildens prophet and a Talker to those above, and in the heartland he is the religious authority in his own person. An order of mana on that ground is not a supplier, it is a second power with its own hierarchy and its own recruits, and the empire has declined it politely and on a schedule for as long as anyone has asked. The refusal at [[Spero]] is a matter of sovereignty and is the one piece of imperial frontier policy that is public record. Buralia is the only country in the region where the order's product is refused rather than priced.
+
+**Freeport gives it a chair.** Three men rule the city: the lord of merchants, the chief priest of the Pura Ecclesia, and the archmage of the Conclave. Not a licence, not a patron, not a concession revocable by somebody's council. A seat, one of three, in a city with no doctrine to protect and no dynasty to inherit, which needed a third leg and did not much care what it stood on.
+
+The chair on the archmage's left belongs to the chief priest of the church the order left Nysis to get out from under, and that church is the Conclave's largest customer by a wide margin. Beside is not beneath. The order understands exactly what the distinction is worth and has never once tested it.
+
+## What the Seat Is Worth
+
+Influence here is not a figure of speech and it does not run through governing anybody.
+
+The order lays a mana signature on every coin the Mint strikes and sells the readers that check it (see [[Currency and Prices]]). Freeport's money is the only currency three mutually intolerable countries will all take, and it is trusted because the Conclave signs it. Nobody had to vote for that. The order is inside every transaction in the region and owns none of them.
+
+It pays five Nyssian *urbestroy* their private incomes every year, on time, for ground it leases. A country's entire constitution runs on a payment the order writes.
+
+And it defends nothing. The Watch keeps the walls, the Grand Office keeps the books, and the archmage keeps neither, which is the arrangement the order came here for.
+
+What the seat does not buy is safety. The triumvirate carries by two, and the other two chairs have carried against the Conclave before. The largest customer for refined mana has spent a decade arranging not to need it, four hundred miles east behind a mission wall, and nobody at that table is obliged to mention it. And there is a fourth man who is not named aloud and sits at no table at all.
+
 ## Types of Magic Users
 * Gray Artificer – construction, objects, armor, and infrastructure.
 * Verdant Keeper – agriculture, forestry, and ecological management, animal connection.
