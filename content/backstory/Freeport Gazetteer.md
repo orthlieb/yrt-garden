@@ -90,7 +90,13 @@ The field of the shield is azure (light blue), symbolizing loyalty, truth, and t
 
 **Motto:** *Liber Liberum Significat.* Freedom means Free.
 
-It is struck on every coin the Mint issues (see [[Currency and Prices]]) and it is a customs term before it is a philosophy: goods in transit pay nothing, and a man who arrives with money and no history is under the same rule. The term has always meant the goods and never the hull under them. A barge going straight through from Falter Bay to Falter Sound is assessed no duty on a single crate of its cargo, and pays the berthing chit, the inspection, the clerk's hour over the manifest, the exit chit, the flag code and the lowering of the chain, and pays warehousing besides if the tide turns before its slot comes up. Freeport charges for the passage. It does not charge for the cargo, and it will tell you so at length. Freeport did not inherit the Latin. It bought it, along with the mermaid, from a herald who was paid to give a two-hundred-year-old trading camp a pedigree, and every other country in the region knows exactly where it came from.
+It is struck on every coin the Mint issues (see [[Currency and Prices]]) and it is a customs term before it is a philosophy: goods in transit pay nothing, and a man who arrives with money and no history is under the same rule.
+
+The second half is nearly true. The first is a rule with a condition on it that this coast is shaped to defeat. Transit is free where the cargo never leaves the hull and the hull clears inside its stated hours, and no deep-draft hull can pass the canal, so anything arriving off the Sea of Bees for the Bay or the interior has to be landed and broken out onto barges, and landed cargo is imported cargo. Freeport quotes the exemption in every counting house on this coast and grants it about a dozen times a year.
+
+What is actually charged is everything. Duty on the goods first, calculated off the manifest against the declared value, on schedules the Grand Office revises often enough that no broker holds them all in his head. Then the berthing chit, the inspection, the clerk's hour, the exit chit, the flag code and the lowering of the chain, with warehousing on top if the tide turns before the slot comes up and lighterage for whatever could not come alongside. That is what pays for sixteen thousand people on a swamp, and it is why the manifest is the only document in this city worth forging.
+
+Freeport did not inherit the Latin. It bought it, along with the mermaid, from a herald who was paid to give a two-hundred-year-old trading camp a pedigree, and every other country in the region knows exactly where it came from.
 
 ## Town Guards
 ```mermaid

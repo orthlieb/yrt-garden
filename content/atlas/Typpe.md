@@ -59,7 +59,7 @@ The eldest is a daughter. Her mother is **Senjora Raina**, who came off the Bura
 
 ## The Thing About Freeport
 
-Mososi has no sea access. Every rope, nail, salt fish and seed that crosses the Sea of Bees reaches Typpe through [[Freeport]]'s canal, which assesses no duty on the cargo and charges the hull for every part of the passage it can put a name to. Freeport does not have to bargain about the figure, because the alternative does not exist.
+Mososi has no sea access. Every rope, nail, salt fish and seed that crosses the Sea of Bees reaches Typpe by being landed at [[Freeport]], opened, valued off a manifest and assessed, then charged again for the chit, the inspection and the chain, then put onto a barge. Freeport does not have to bargain about a line of that, because the alternative does not exist.
 
 The court resents this in private and has organised its entire foreign policy around never admitting it in public. The tariff war at [[Termin]] is partly about Nysis and substantially about this: it lets Mososi be seen refusing something. And the [[Seka Lands]] and [[Sveba]] are tolerated in their eccentricities for related reasons: a court with one genuine dependency does not go looking for arguments it would have to win.
 

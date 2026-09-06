@@ -23,9 +23,11 @@ Mososi has a coast and cannot use it, and every piece of that country's foreign 
 
 And none of it reaches the [[Sea of Bees]] without going through Freeport, which charges for it. Every rope, nail, salt fish and seed that crosses the open sea to reach [[Typpe]] comes up the canal, and there is a bill at the end of the canal.
 
-The motto on Freeport's coinage says goods in transit pay nothing. That is true, and it is about the goods. No clerk at Dock Walk assesses a duty on Mososi grain for being Mososi grain in the wrong water. What is charged is the passage. The berthing chit, the inspection, the clerk's hour over the manifest, the exit chit, the flag code, and the chain coming down at Stewing Cross: six charges on a hull that has bought and sold nothing in the city, and warehousing on top of them if the tide turns before the gate does. The tally is made against the hull and not the cargo, so a barge that comes through light pays what a barge that comes through loaded pays. Freeport names the figure. There is no second gate.
+The motto on Freeport's coinage says goods in transit pay nothing, and there is a real rule behind it, and the rule carries a condition this coast is shaped to defeat. Transit is free where the cargo never leaves the hull. No sea hull can pass the canal. So everything off the [[Sea of Bees]] bound for Typpe is landed at Freeport and broken out onto barges, and landed cargo is imported cargo, and imported cargo is opened, valued off its manifest and assessed. That is what the clerks at Dock Walk are for and it is the larger half of what a Mososi factor pays.
 
-Mososi has arranged itself around that arithmetic with the thoroughness it brings to everything else. Nothing crosses part-loaded. The Typpe quay holds cargo until there is a full hull's worth of it and a tide to carry it, which is why the barges come up the Bay in a body of nine or ten and then nothing comes for four days.
+The rest is charged on top and itemised. The berthing chit, the inspection, the clerk's hour, the exit chit, the flag code, and the chain coming down at Stewing Cross, with warehousing if the tide turns before the gate does and lighterage for whatever could not come alongside. Freeport names the figure on every line of it. There is no second gate.
+
+Mososi has arranged itself around the part it can affect and has no answer at all to the part it cannot. The fees are charged per hull, so nothing crosses part-loaded: the Typpe quay holds cargo until there is a full hull's worth of it and a tide to carry it, which is why the barges come up the Bay in a body of nine or ten and then nothing comes for four days. The duty is a proportion of what the goods are worth and cannot be arranged around at all. The only way to reduce it is to declare the goods as something cheaper, and Freeport has priced that trade into its inspection rotations and keeps the rotations under lock and key.
 
 The court at Typpe resents this in private and has organised an entire foreign policy around never admitting it in public. The tariff war at [[Termin]] is partly about Nysis and substantially about this: it lets Mososi be seen refusing something.
 
@@ -59,6 +61,7 @@ It is also where a boat goes that would rather not be counted. A shallow-draft h
 - Punts out for eel and wildfowl, and reed cut in stacks along the shore
 - Every hull on it that has never seen the open sea, and never will
 - The canal at the top, and the fact that it is the only way out
+- Crates opened on the Dock Walk quay and valued against a manifest
 - A Freeport chit itemised down to the flag code, and the coin counted out against it
 - Numbered wagons on the beach at Lokigi and a board revised twice a day
 - A ring of set stones on the shore at Intersang, and no clerk anywhere behind it

@@ -382,9 +382,11 @@ is why the eastern run to [[Spero]] was never built and never had to be.
 **Liber Liberum Significat.** *Freedom means Free.* Struck on every coin the
 Mint issues. It is a customs term before it is a philosophy: goods in transit
 pay nothing, and a man arriving with money and no history is under the same
-rule. It covers the cargo and not the hull. Nothing crosses [[Freeport]]'s
-canal without paying for the chit, the inspection, the flag code and the
-chain.
+rule. The second half is nearly true. The first is a rule nobody can reach:
+transit is free only where the cargo never leaves the hull, and no sea hull can
+pass [[Freeport]]'s canal, so almost everything is landed and assessed on its
+declared value. The chit, the inspection, the flag code and the chain are
+charged on top of the duty, not instead of it.
 
 **Mana signature.** The Conclave mark laid on every minted coin, checkable with
 a reader the order also sells. Shave or melt the coin and the signature goes.
